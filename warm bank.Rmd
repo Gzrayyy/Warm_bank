@@ -1,0 +1,21 @@
+---
+title: "Warm bank"
+author: "Zirui Guo"
+date: "2023-05-21"
+output: html_document
+---
+
+```{r loading_packages}
+library(r5r)
+library(sf)
+library(data.table)
+library(ggplot2)
+```
+
+
+increase the memory available to Java
+```{r}
+options(java.parameters = "-Xmx4G")
+```
+
+
