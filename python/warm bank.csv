@@ -1,822 +1,822 @@
-﻿Ward,Name,opening_hour,Opening time,Post_code,Address
-Barking and Dagenham,Barking Learning Centre,62,"Monday to Thursday, 9am to 7pm, Friday and Saturday, 9am to 5pm, Sunday, 10am to 4pm",IG11 7NB,"2 Town Square, Barking, IG11 7NB."
-,Castle Point,14,"Monday, 10am to 2pm, Tuesday, 10 am 12pm, Wednesday, 10am to 3pm, Thursday, 12pm to 3pm",RM8 3YJ,"163 Bennett's Castle Lane, Dagenham, RM8 3YJ"
-,DABD Parsloes Avenue Annex site,15,"Tuesday, Wednesday and Thursday from 10am to 3pm",RM9 5NU,"42-48 Parsloes Avenue, Dagenham, RM9 5NU"
-,Dagenham Library,44,"Monday to Thursday, 10am to 6pm Friday and Saturday, 10am to 4pm",RM10 9QS,"1 Church Elm Lane, Dagenham, RM10 9QS."
-,Heath Community Hub (William Bellamy),10,"Monday and Wednesday, 10am to 3pm",RM10 7HX,"Frizlands Lane, Dagenham, RM10 7HX"
-,London Riverside Church (Side Entrance),2,"Every Thursday in December (apart from 29 December), January and February, 11am to 1pm",RM9 5PT,"Parsloes Ave, Dagenham RM9 5PT"
-,Marks Gate Community Hub,30,"Monday to Friday, 10am to 4pm",RM6 5NJ,"Marks Gate Community Centre, Rose Lane, Marks Gate, RM6 5NJ."
-,Northbury Community Hub,70,"Monday to Sunday, 9am to 7pm",IG11 8PY,"Al Madina Mosque, 1st floor, The Hive, 2 Victoria Road, Barking, IG11 8PY"
-,Park Centre,30,"Monday, Tuesday and Friday (Main Hall),  10am - 4pm, Wednesday & Thursday (Activity Room), 10am to 4pm",RM10 9SA,"Rectory Road Dagenham, RM10 9SA"
-,Robert Jeyes Library,22,"Monday to Thursday, 10:30am to 4pm",RM6 6AS,"Chadwell Heath Community Centre, High Road Chadwell Heath, RM6 6AS"
-,Thames Community Hub,30,"Monday to Friday, 10am to 4pm",IG11 0LG,"Bastable Avenue, Barking, IG11 0LG"
-,Valence Library,29,"Monday to Thursday, 10am to 4pm Saturday,  10am to 3pm ",RM8 3HT,"Becontree Avenue, Dagenham, RM8 3HT"
-,Village Community Hub,30,"Monday to Friday, 10am to 4pm",RM10 9XW,"215 Wellington Drive, Dagenham, RM10 9XW."
-Barnet,All Saints' Church - Child's Hill,8,Wed and Thur 10 to 14,NW2 2TJ,"All Saints' Church Child's Hill, Church Walk, London, NW2 2TJ"
-,Ann Owens Centre - Age UK,2,Mon 2 to 4,N2 8LT,"Ann Owens Centre, Oak Lane, East Finchley, N2 8LT"
-,artsdepot,58,"Sunday 10:00 to 16:00, Monday 8:30 to 17:30, Tuesday 8:30 to 17:30, Wednesday 8:30 to 17:30, Thursday 8:30 to 17:30, Friday 8:30 to 17:30, Saturday 10:00 to 17:00",N12 0GA,"5 Nether Street, Tally Ho Corner, North Finchley, London, N12 0GA"
-,Child's Hill Library - Kisharon,18,"Sunday 14:00 to 17:00, Monday 10:00 to 13:00, Tuesday 10:00 to 13:00, Wednesday 14:00 to 20:00, Thursday 14:00 to 17:00",NW2 2QE,"320 Cricklewood Lane, London, NW2 2QE"
-,Chipping Barnet library,73,,EN5 4QT,"3 Stapylton Road, Barnet, EN5 4QT"
-,Colindale Communities Trust,28,,NW9 5XA,"The Old Library, The Concourse, NW9 5XA"
-,Colindale library,97,,NW9 4BR,"7 Bristol Avenue, Colindale, NW9 4BR"
-,Copthall Leisure Centre,6,,NW4 1PX,"Champions Way, Hendon, London, NW4 1PX"
-,Edgware Community Hospital,6,,HA8 0AD,"Burnt Oak Broadway, Edgware, London, HA8 0AD"
-,Finchley Church End library,23.5,,N3 2LN,"318 Regents Park Rd, London, N3 2LN"
-,Finchley Memorial Hospital,3,,N12 0JE,"Granville Road, London, N12 0JE"
-,Friern Barnet Community Library,30,,N113DS,"Friern Barnet Road, London, N113DS"
-,Grahame Park Medical Centre,6,,NW9 5XT,"The Concourse, London, NW9 5XT"
-,Grange Big Local,3,,N2 0TH,"Holy Trinity Church, 77 Church Lane, N2 0TH"
-,Hendon Salvation Army,3,,NW4 4AE,"1 - 5 Brampton Grove, Hendon, London, NW4 4AE"
-,Hope Corner Community Centre,22.5,,EN5 2DY,"Hope Corner Community Centre, 185 Mays Lane, Barnet, London, EN5 2DY"
-,Islamic Association of North London,6,,N12 0DA,"683-685 High Road, Finchley, N12 0DA"
-,Jim's Community Cafe,4,,EN4 8RN,"71 East Barnet Road, St James' Church, New Barnet, EN4 8RN"
-,Living Way Ministries,25,,NW9 5XB,"7 The Concourse, London, NW9 5XB"
-,Middlesex University,42.5,,NW4 4BT,"Rickett Quadrangle, College Building, Middlesex University, The Burroughs, London, NW4 4BT"
-,North Finchley library,15.5,,N12 9HP," Ravensdale Ave,, London, N12 9HP"
-,Oakleigh Community Church,2,,N20 0UG,"168-170 Oakleigh Road, North Whetstone, London, N20 0UG"
-,OneStonegrove Centre,50,,HA8 8BN,"5 Hayling Way, Edgware, HA8 8BN"
-,Osidge library,68,,N11 1EY,"Brunswick Park Rd, London, N11 1EY"
-,Personal Improvement Limited,30,,HA8 8NP,"Chartwell House, 292-294 Hale Lane, Edgware, HA8 8NP"
-,Romanian Culture and Charity Together Burnt Oak,42,,HA8 0LN,"102a Watling Avenue, HA8 0LN"
-,St Margaret's Church - Age UK,1.5,,HA8 7JE,"St Margaret's Church, 1 Station Road, Edgware, HA8 7JE"
-,St Margaret's URC Church - Age UK,2,,N3 1BD,"St Margaret's URC Church, Victoria Avenue, Finchley Central, N3 1BD"
-,St Paul's Church Centre,2.5,,N3 2PU,"50 Long Lane, Finchley, London, N3 2PU"
-,St Peter's Church,3.5,,N10 1AQ,"St Peter's Church, Albion Avenue, Friern Barnet, N10 1AQ"
-,The Mount International School - Age UK,2,,NW7 2RX,"The Mount International School, Milespit Hill, Mill Hill, NW7 2RX"
-,West Hendon Centre - Age UK,1.5,,NW9 7EU,"West Hendon Centre, Gadsbury Close, Goldsmith Avenue, West Hendon, London, NW9 7EU"
-Bexley,Central Library,41,,DA6 7HJ,"Townley Road, ZipBexleyheath DA6 7HJ"
-,Crayford Library,33,,DA1 4FN,"176 Town Hall Square, ZipCrayford DA1 4FN"
-,Erith Library,32.5,,DA8 1SL,"100 Erith High Street, ZipErith DA8 1SL"
-,Sidcup Library,33.5,,DA14 6DS,"Sidcup Storyteller, 106 Sidcup High Street, ZipSidcup DA14 6DS"
-,Thamesmead Library,33,,SE2 9FA,"Thamesmead Library, The Nest, 3 Cygnet Square, ZipThamesmead SE2 9FA"
-,Welling Library,31.5,,DA16 3PA,"Bellegrove Road, ZipWelling DA16 3PA"
-,Christ Church,2,Thursday 10am to 12pm,DA6 7BT,"Christ Church, Bexleyheath Broadway, Bexleyheath, DA6 7BT"
-,Christ Church,4,Monday 9am to 1pm,DA14 6NJ,"Christ Church, Sidcup, Main Road, Bexley, DA14 6NJ"
-,St Augustine,3,Tuesday 11am to 2pm,DA8 2HX,"St Augustine, Slade Green ,Slade Green Road, Slade Green, DA8 2HX"
-,St John the Evangelist Church,11,,DA14 6BX,"St John the Evangelist Church, Church Road, Sidcup DA14 6BX"
-,St Paulinus,3,Saturday 9.30am to 12.30pm,DA1 4RL,"St Paulinus, Crayford, Perry Street, Crayford, DA1 4RL"
-,The Exchange,11,Thursday 11am to 7pm and Saturday 11am to 2pm.,DA8 1RS,"The Exchange, The Old Library, Walnut Tree Rd, Erith DA8 1RS"
-,The Holy Redeemer,6,"Tuesday 2 to 4pm (hot drinks, snacks, knit, natter and crochet), Wednesday 1pm to 3pm (hot drinks, cake, chat and art activities. Free WiFi and phone charging) and Friday 9am to 11am.",DA15 8JR,"The Holy Redeemer, Sidcup, 64 Days Lane, Sidcup, DA15 8JR"
-,Holy Trinity,28,Daily from 10am to 2pm.,DA15 9AE,"Holy Trinity, Lamorbey, Sidcup, Corner of Hurst Road & Half Way Street, Sidcup, DA15 9AE"
-,Blackfen Community Library,35.5,Tuesday to Friday 9.30am to 5pm and Saturday 9.30am to 3pm.,DA15 9LU,"Blackfen Community Library, 7 - 9 Blackfen Parade, Blackfen DA15 9LU"
-,Welling Salvation Army,4,Fridays 10am to 2pm,DA161TJ,"Welling Salvation Army, 124 Welling High Street, Welling, DA161TJ"
-,New Community Church,2.5,Wednesdays 9:30am to 12pm,DA157DU,"New Community Church, 24 Station Road, Sidcup, DA157DU"
-,United Reformed Church,8,"every Monday, Wednesday and Friday 10am to 12 midday at the United Reformed Church and Thursday 10am to midday in the Hall.",DA6 7DJ,"United Reformed Church, Geddes Place, Bexleyheath, DA6 7DJ"
-,The Salvation Army,12,"We invite you to our Warm Welcome Space open every Tuesday, Thursday and Friday between 10am and 2pm.",DA6 8NR,"The Salvation Army, Lion Road, Bexleyheath, DA6 8NR"
-Brent,St Laurence's Larder and Open Kitchen,7,,NW6 7BJ ,"Christ Church, Christchurch Avenue, London NW6 7BJ"
-,Ealing Road Library,49,,HA0 4BA,"Coronet Parade, Ealing Road, Wembley, HA0 4BA"
-,Harlesden Library,49,,NW10 8SE,"Craven Park Road, Harlesden, NW10 8SE"
-,Kilburn library,49,,NW6 6NN,"42 Salusbury Road, Kilburn, NW6 6NN"
-,Kingsbury library,49,,NW9 9HE,"Kingsbury Library, 522-524, Kingsbury Road, London"
-,Wembley library,59,,HA9 0FJ,"Brent Civic Centre, Engineers Way, Wembley HA9 0FJ"
-,The Library at Willesden Green,59,,NW10 2SF,"95 High Road, Willesden, NW10 2SF"
-,Brent Hubs,14,,NW6 5GG,"Hornbill House, 2 Rudolph Rd, North Maida Vale, London NW6 5GG"
-,Brent Hubs,14,,NW10 0TY,"65, The living room Next, 80 Besant Way, London NW10 0TY"
-,Brent Hub Community Enterprise Centre,56,,NW10 8BN,"6 Hillside, London NW10 8BN"
-Bromley,"Anerley Town Hall, Crystal Palace Community Trust (over 55s)",37.5,,SE20 8BD,Anerley Town Hall
-,Beckenham Library,41.5,,BR3 4PE,Beckenham Road
-,Biggin Hill Library,67,,TN16 3LB,"Church Road, Biggin Hill"
-,Bromley Central Library,55,,BR1 1EX,Bromley High Street
-,Bromley Common Baptist Church,1.5,,BR2 8PE,Gravel Road
-,Bromley Salvation Army,16,,BR1 1HU,Ethelbert Road
-,Bromley United Reformed Church,4,,BR1 1RY,20 Widmore Rd
-,Brook Lane Community Church (BLCChurch),36.5,,BR1 4PX,27-29 Brook Lane Bromley
-,Burnt Ash Library,19.5,,BR1 5AF,Burnt Ash Lane
-,Chelsfield Community Cafe at Chelsfield Village Hall,1,,BR6 7RL,Bucks Cross Road
-,Chislehurst Library,39.5,,BR7 6DA,Red Hill
-,Christ Central Church,34,,SE20 7JA,Green Lane
-,"Christ Church, Orpington",25.5,,BR6 9EP,Charterhouse Road
-,Coney Hall Baptist Church,3,,BR4 9BU,"Coney Hill Road,"
-,Crofton Baptist Church,35,,BR51HD,100 Crofton Lane
-,Emmanuel United Reformed Church,8,,BR4 9JS,"The Grove,"
-,Geffery's Hall (CEYP),6,,SE9 4TA,27 Nunnington Close
-,"Green Bird Cafe, St John's Church",7,,BR3 3JN,251 Eden Park
-,Green Street Green Baptist Church 'Warm Welcome Space',4,,BR6 6AA,1 Worlds End lane
-,Hayes Library,23.5,,BR2 7LH,Hayes Street
-,Holy Innocents (Cafe Joseph),11,,BR6 9UE,"Strickland Way,"
-,Hope Church Orpington,3,,BR6 0TW,Units 7 to 9 The Walnuts
-,Melvin Hall,64,,SE20 8EU,"Melvin Road,"
-,Mottingham Library,39.5,,SE9 4QZ,31 Mottingham Road
-,Oak Community Church,8,,BR5 2LJ,345 Chipperfield Road
-,"Orpington Baptist Church and ""The Lounge """,12,,BR6 0RZ,"Station Road,"
-,Orpington Library,51,,BR6 0TW,The Walnuts
-,"Parish Church of St Mary, Shortlands",2,,BR2 0HG,"Church House, 39 Kingswood Road"
-,Penge East Community Centre,24,,SE20 7BE,"Penge East Railway Station Carpark, Station Road"
-,Penge Library,49,,SE20 7JX,46 Green Lane
-,Petts Wood Library,39.5,,BR5 1BP,Frankswood Avenue
-,Queen Adelaide Community Centre,84,,SE20 7EA,"Queen Adelaide Court, Queen Adelaide Road,"
-,Shortlands Library,39.5,,BR2 0JP,110 Shortlands Road
-,Southborough Library,36,,BR2 8AP,"Southborough Lane, Bromley"
-,"St Augustine's Church, BR2",1.5,,BR2 8AT,Southborough Lane
-,St Edwards Mottingham,61,,SE9 4AQ,St Keverne Road
-,St Francis of Assisi Church,15.5,,BR4 0PW,Ravenswood Avenue
-,St Hugh's Community Centre,81,,SE20 8PL,"42 Castledine Road,"
-,St Johns Church Penge Lunchtime Club,2.5,,SE20 7EQ,2 St Johns Road
-,"St Nicholas Church, Orpington",1,,BR6 9QB,"Leamington Avenue,"
-,St Paul's Cray Library,39.5,,BR5 2RW,"Mickleham Road, St Paul's Cray"
-,"St Paul's Crofton, Elderberry Café",2.5,,BR6 8JE,"Parish Church of St Paul's, Crofton Road,"
-,"St. George's Church, Beckenham",25.5,,BR3 1HX,"High Street,"
-,Turpington Lane Community Centre,4,,BR2 8JX,"Turpington Lane,"
-,"Unity Church, Orpington",7,,BR5 4NH,"Rye Crescent,"
-,"Well Community Cafe, Living Well, Holy Trinity Church",9,,SE20 7LX,66 Lennard Road
-,West Wickham & Shirley Baptist Church,21,,CR0 8EH,Wickham Road
-,West Wickham Library,23.5,,BR4 0SH,"Glebe Way, West Wickham"
-,West Wickham Methodist Church,3.5,,BR4 9AA,Hawes Lane (corner of Linden Leas)
-Camden,Belsize Community Library,24,,NW3 4XN,"Belsize Community Library, Antrim Road, London"
-,Camden Town library,44,,NW1 1BD,"Camden Town Library, 218 Eversholt Street"
-,Highgate library,29,,N19 5DH,"Highgate Library, Chester Road"
-,Holborn library,49,,WC1X 8PA,"Holborn Library, 32-38 Theobalds Road"
-,Kentish Town Library,49,,NW5 2AA,"Kentish Town Library, 262- 266 Kentish Town Road"
-,Kilburn library,49,,NW6 5UH,"Kilburn Library,12-22 Kilburn High Road"
-,Pancras Square library,78,,N1C 4AG,"Pancras Square Library, 5 Pancras Square"
-,Queens Crescent library,41,,NW5 4HH,"Queens Crescent Library, 165 Queen's Crescent"
-,Swiss Cottage library,54,,NW3 3HA,"Swiss Cottage Library, 88 Avenue Road"
-,The British Library,61,,NW1 2DB,"The British Library, 96 Euston Road, London"
-,West Hampstead library,41,,NW6 1AU,"West Hampstead Library, Dennington Park Road"
-,Agar Childrens Centre,50,,NW1 9SU,"Lulworth, Wrotham Road, London"
-,Harmood Childrens Centre,50,,NW1 8DQ,"1, Forge Place, London"
-,Kilburn Grange Childrens Centre,50,,NW6 2JL,"1, Palmerston Road, London"
-,Regent's Park Children's Centre,50,,NW1 3TJ,"Augustus Street, London"
-,Kentish Town Sports Centre,94,,NW5 3DU,"Grafton Rd, London"
-,Oasis Sports Centre,94.5,,WC2H 9AG,"32 Endell St, London"
-,Pancras Square Leisure,97.5,,N1C 4AG,"5 Pancras Sq, London"
-,Swiss Cottage Leisure Centre,97.5,,NW3 3NF,"4a Adelaide Rd, London"
-,Talacre Community Sports Centre,85,,NW5 3LN,"Dalby St, London"
-,Bengali Workers Association,37.5,,NW1 3JU ,"The Surma Community Centre, 1 Robert Street, NW1 3JU"
-,Bourne Estate Tenant Residents Association,22.5,,EC1N 7AA,"Allen Hall, Unit 1 Dobson Court, Bourne Estate, EC1N 7AA"
-,British Somali Community Centre,5.5,,NW1 1TU,"7-9 Crowndale Road, NW1 1TU"
-,Castlehaven Community Association,40,,NW1 8RU,"23 Castlehaven Road, NW1 8RU"
-,Community Association for West Hampstead,8,,NW6 1QN,"17 Dornfell Street, NW6 1QN"
-,Fitzrovia Community Centre,2,,W1W 6DL,2 Foley Street W1W 6DL
-,Holborn Community Association - Holborn House Community Centre,81,,WC1N 3QW,"35 Emerald Street, WC1N 3QW"
-,Holborn Community Association - Millman Street Community Centre,35,,WC1N 3EW,"50 Millman Street, WC1N 3EW"
-,JW3,33,,NW3 6ET,"341-351 Finchley Road, NW3 6ET"
-,Kentish Town City Farm,56,,NW5 4BN,"1 Cressfield Close, NW5 4BN"
-,Kentish Town Community Centre,15,,NW5 2SP ,"17 Busby Place, NW5 2SP "
-,King's Cross Brunswick Neighbourhood Association (KCBNA) - Chadswell Healthy Living Centre,2,,WC1H 8JF,"Chadswell Healthy Living Centre, Harrison Street, WC1H 8JF"
-,King's Cross Brunswick Neighbourhood Association (KCBNA) - The Marchmont Centre,42,,WC1N 1AB,"62 Marchmont Street, WC1N 1AB"
-,Lauderdale House,8,,N6 5HG,"Waterlow Park, N6 5HG"
-,London Irish Centre,40,,NW1 9XB,"50-52 Camden Square, NW1 9XB"
-,N1C Centre - Somali Youth Development Resource Centre,34,,N1C 4BQ,"Plimsoll building, N1C 4BQ"
-,Netherwood Youth and Family Hub,16,,NW6 2QU ,"5 Netherwood Street, NW6 2QU "
-,Old Diorama Arts Centre,69,,NW1 3FE,"201 Drummond Street, NW1 3FE"
-,Primrose Hill Community Centre,4,,NW1 8TN,"29 Hopkinson's Place, NW1 8TN"
-,Queens Crescent Community Association,40,,NW5 4QE,"45 Ashdown Crescent, NW5 4QE"
-,Sidings Community Centre,6,,NW6 2BA,"16 Brassey Road, NW6 2BA"
-,Somers Town Community Association,40,,NW1 1DF,"2 Ossulston Street, NW1 1DF"
-,Somers Town Youth Centre,9,,NW1 1RX ,"134 Chalton Street, NW1 1RX "
-,St George the Martyr Church,12,,WC1N 3AH,"44 Queen Square, WC1N 3AH"
-,St Pancras Community Association,8,,NW1 OLB,"67 Plender Street, NW1 OLB"
-,South Hampstead and Kilburn Partnership (SHAK) - The ARC Youth Club,24,,NW8 0SW ,"Alexandra Resource Centre, Opposite 109 Rowley Way, NW8 0SW"
-,South Hampstead and Kilburn Partnership (SHAK) - Shell Centre 1,24,,NW8 0HS,"Shell 1 - Linnell House, Boundary Road, NW8 0HS"
-,South Hampstead and Kilburn Partnership (SHAK) - Shell Centre 2,24,,NW8 0HU,"Shell 2 - Fielding House, Boundary Road, NW8 0HU"
-,The Francis Crick Institute,28,,NW1 1AT,"1 Midland Road, NW1 1AT"
-,The O2 Centre,2,,NW3 6LU,"The Venue Hall (located on level 2), 255 Finchley Road, NW3 6LU"
-,The Pirate Castle,32.5,,NW1 7EA,"Gilbey's Wharf, Oval Road, NW1 7EA"
-,Third Age Project ,30,,NW1 3RH,"Cumberland Market, Regent's Park, NW1 3RH"
-City of London,Barbican Library,50.5,,EC2Y 8DS,"Barbican Library, Barbican Centre London, England, EC2Y 8DS, United Kingdom"
-,Shoe Lane Library,41,,EC4A 3JR,1 Hill House Little New Street
-,Artizan Street Library,49,,E1 7AF,"1 Artizan St, London"
-Croydon,Ashburton Hall & Park - Cafe,4,"Tuesday and Thursday 12noon to 2pm, The cafe will be closed from 19 December to 2 January 2023",SE25 4SP,"Woodside Baptise Church, Spring Lane, London, SE25 4SP."
-,Ashburton Library,32,"Monday, Tuesday and Thursday 10am to 6pm, Saturday 9am to 5pm",CR9 7AL,"Shirley Road, London, CR9 7AL."
-,Bradmore Green Library,16,Tuesday and Friday 10am to 6pm,CR5 1PE,"Bradmore Way, Coulsdon, CR5 1PE."
-,Broad Green Library,16,Monday and Thursday 10am to 6pm,CR0 3HH,"Canterbury Road, London, CR0 3HH."
-,Central Library,40,"Monday, Tuesday, Wednesday, Friday 10am to 6pm",CR9 1ET,"Katharine Street, London, CR9 1ET."
-,"Coffee, Craft & Chatter at All Saints Church, Kenley",2,Wednesday 10am to 12 noon,CR8 5DW,"Church Road, London, CR8 5DW."
-,Coulsdon Library,24,"Monday and Thursday 10am to 6pm, Saturday 9am to 5pm",CR5 2NH,"Brighton Road, Coulsdon, CR5 2NH."
-,Emmanuel Community Centre,8,Friday 8.45am to 5pm,CR2 7AQ,"Rockhampton Road, London, CR2 7AQ."
-,His Grace Evangelical Outreach Church,5,"Tuesday 12 noon to 2pm, Thursday 3pm to 6pm",CR7 8JF,"His Grace Evangelical Outreach, 80-82 Beaulah Road, Croydon, CR7 8JF."
-,Matthews Yard,16,,CR0 1UF,"North End 166, London, CR0 1UF."
-,MHA Communities South London,2,,CR0 2RF,"West Croydon Methodist Church, London Road, Croydon, CR0 2RF."
-,MHA The Wilderness,3,,CR9 5AL,"Shirley Church Road, London, CR9 5AL."
-,New Addington Baptist Church,7,,CR0 0EE,"New Addington Baptist Church, Arnhem Drive, Croydon, CR0 0EE."
-,New Addington Library,24,,CR0 0JD,"Central Parade, New Addington, CR0 0JD."
-,Norbury Library,24,,SW16 4UW,"Beatrice Avenue, London, SW16 4UW."
-,Oasis Academy Shirley Park,12,,CR9 7AL,"Shirley Road, Croydon, CR9 7AL."
-,Old Coulsdon Congregational Church,8,,CR5 2LG,"Coulsdon Road 1, London, CR5 2LG."
-,Palace For Life Foundation,4,,SE25 6PU,"Selhurst Park, London, se25 6pu."
-,Phoenix Community Centre,16,,SE19 3AB,"Phoenix Community Centre, Westow Street, London, SE19 3AB."
-,Purley Library,16,,CR8 3YH,"Banstead Road, London, CR8 3YH."
-,Purley United Reform Church,7,,CR8 2LN,"Brighton Road 922, London, CR8 2LN."
-,"Quiz, Craft and Tea at Christ Church, Broad Green",3,,CR0 3LJ,"Sumner Road, London, CR0 3LJ."
-,Sanderstead Library,24,,CR2 0HQ,"Farm Fields, London, CR2 0HQ."
-,Selsdon Library,24,,CR2 8LA,"Addington Road 130, London, CR2 8LA"
-,Shirley Library,16,,CR0 8BH,"Wickham Road, London, CR0 8BH."
-,South Norwood Community Kitchen,23,,SE25 4UF,"44b Portland Road, London, SE25 4UF."
-,South Norwood Library,16,,SE25 5AA,"Lawrence Road, London, SE25 5AA."
-,St Alban the Martyr Church,2,,SE25 6RE,"1 Whitehorse Lane, London, SE25 6RE."
-,St Andrew's Roman Catholic Church,5,,CR7 7DA,"St. Andrew's Church Hall, Quadrant Road, London, CR7 7DA."
-,St Francis Monks Hill,3.5,,CR2 8HP,"107 Broadcoombe,, 107 Broadcoombe,, Croydon, CR2 8HP."
-,St George's Church Centre,3.5,,CR0 4EZ,"Barrow Road, London, CR0 4EZ."
-,St Mary the Blessed Virgin,6,,CR0 5AS,"Addington Village Road, London, CR0 5AS."
-,St Michael's Church,3,,CR0 1UA,"Poplar Walk, London, CR0 1UA."
-,St Mildred's Parish Church,2.5,,CR0 7EB,"St Mildred's Parish Church, 30 Bingham Road, Croydon, CR0 7EB."
-,St Oswald's Parish Hall,4,,SW16 3SB,"St. Oswald's Road, London, SW16 3SB."
-,St Paul's United Reformed Church,3,,CR2 7AE,"St Paul's United Reformed Church, Croham Road, London, CR2 7AE."
-,St. Edward King and Confessor Church,6,,CR0 0DL,"St. Edward King and Confessor Church, Cleves Crescent, Croydon, CR0 0DL."
-,The Hub on the Hill at St Barnabas Church,1.5,,CR8 2HR,"Higher Drive 69, London, CR8 2HR."
-,"The Hub, Kenley Memorial Hall",1,,CR8 5AB,"Godstone Road 92, London, CR8 5AB."
-,The Oval Tavern,72.5,,CR0 6BR,"Oval Road 131, London, CR0 6BR."
-,The Salvation Army,4,,CR0 1XY,"Booth Road, London, CR0 1XY."
-,Thornton Heath Library,24,,CR7 7JH,"Brigstock Road, London, CR7 7JH."
-,Torchlight Ministries,2,,SE25 6XX,"Brookhurst Court,, 190 Selhurst Road, South Norwood, London, SE25 6XX."
-,Waddon Leisure Centre,6,,CR0 4GD,"Waddon Leisure Centre, Purley Way, Croydon, CR0 4GD."
-,Heart and Soul Pop Up Cafe,2,,SW16 3SB,"St. Oswald's Road, London, SW16 3SB."
-,West Wickham and Shirley Baptist Church,8,,CR0 8EB,"Wickham Road, London, CR0 8EB."
-Ealing,Greenford Library,30,,UB6 9LG,"Greenford Library, Oldfield Lane South, Greenford, Middlesex UB6 9LG"
-,Jubilee Gardens Health Centre,30,,UB1 2TJ,"Jubilee Gardens Health Centre, Jubilee Gardens, Southall UB1 2TJ"
-,Ealing Central Library,51,,W5 5JY,"Ealing Central Library, Ealing Broadway Centre, Ealing W5 5JY"
-,The Hub in the foyer at St. Pauls Ealing,2.5,,W13 9XW,"St Paul's Church, Ealing, Ridley Ave, London W13 9XW, UK"
-,Northolt Leisure Centre,30,,UB5 4AB,"Northolt Leisure Centre, Eastcote Lane North, Northolt UB5 4AB"
-,Northolt Library,48,,UB5 5AS,"Church Road, Northolt, Middlesex UB5 5AS"
-,"Saint Joseph the Worker Parish Church, Northolt",6,,UB5 6JT,"Off Beauvais Terrace, Yeading Ln, Northolt UB5 6JT, UK"
-,Asian Community Concern,56,,UB2 5PA,"Unit 2, Luther House, 30 Montague Waye, Southall UB2 5PA"
-,Arya Samaj London,6,,W13 0LY,"Arya Samaj, Argyle Road, London W13 0LY, UK"
-,Hanwell Community Library,27,,W7 3HL,"Hanwell Community Library Cherington Road, London W7 3HL"
-,Pitshanger Methodist Church,3,,W5 1QP,"Pitshanger Methodist Church, Pitshanger Lane, London W5 1QP, UK"
-,Clementina Day Centre,8,,UB6 0PD,"All Hallows Church, 72 Horsenden Lane North, Greenford UB6 0PD, UK"
-,Southall Library,51,,UB2 4BQ,"Dominion Centre and Library, 112 The Green, Southall, Middlesex UB2 4BQ"
-,St John's Parish Centre,12,,UB2 4NT,"St John's Parish Centre, Guru Nanak Road, Southall"
-,Ealing Carers Hub,3,,W3 8PH,"Sycamore Lodge, Edgecote Close, London W3 8PH, UK"
-,Acton Town Hall Library,48,,W3 6NE,"Acton Town Hall Library, Everyone Active Acton Centre, High Street, Acton W3 6NE"
-,St Mary's Church,4,,W7 3QP,"St Mary's Church Hall, 62 Greenford Avenue"
-,West Ealing Community Library,21,,W13 9BT,"Melbourne Ave, London W13 9BT"
-,St Mary with St Richard Memory Cafe,2,,UB5 6AA,"St Marys C Of E Church, Northolt, UB5 6AA"
-,Umeed Wellbeing Hub,6,,UB1 1AT,"88 Lancaster Road, Southall UB1 1AT, UK"
-,"St George's Church, Southall",4,,UB1 1NP,"St George's C of E Church, Southall, Lancaster Road, Southall UB1 1NP, UK"
-,Southall Christian Fellowship,5,,UB2 4BL,"7 Osterley Park Rd, Southall UB2 4BL, UK"
-,"St Mary's Church, Norwood Green",4,,UB2 4LQ,"Parish Church of Saint Mary the Virgin Norwood Green, Tentelow Lane, Southall UB2 4LQ, UK"
-,Southall Baptist Church,6,,UB2 5DS,"Southall Baptist Church, Western Road, Southall UB2 5DS, UK"
-,Greenford Baptist Church,6,,UB6 9UA,"Greenford Baptist Church, Beechwood Avenue, Greenford UB6 9UA"
-,UKIM West London Islamic Centre,4,,W13 0SQ,"West London Islamic Centre, Brownlow Road, West Ealing, London, West Ealing W13 0SQ, UK"
-,Perivale Library,24,,UB6 7NT,"Perivale Community Hive, Horsenden Lane South, Perivale UB6 7NT "
-,St Barnabas Church Memory Café,1.5,,W5 1QG,"St Barnabas Church, Pitshanger Lane, London W5 1QG, UK"
-,A2Dominion Warm Hub and advice,4,,W13 9LA,"Lido Centre, Mattock Lane, London, W13 9LA"
-,Nucleus,3.5,,W13 9LA,"Lido Centre, Mattock Lane, London, W13 9LA"
-,Northfields Community Library,27,,W5 4UA ,"Northfields Community Library, Northfield Avenue, London W5 4UA "
-,Mael Gael,30,,UB2 4LA,"Norwood Hall, Norwood Green Road, Southall UB2 4LA, UK"
-,"Emmanuel Church, Southall",7,,UB1 3LP,"Emmanuel Church, Fleming Road, Southall UB1 3LP, UK"
-,Voice of Women London Ltd,4,,UB1 2HE,"Christ The Redeemer C Of E Church, Allenby Road, Sunnycroft Road, Southall, UK"
-,Education and Skills Development Group (ESDEG),5,,UB5 6HW,"Viking Community Centre, Radcliffe Way, Northolt UB5 6HW, UK"
-,Somali Women's Empowerment & Organising Services,48,,UB2 5EQ,"32 Sussex Road, Southall UB2 5EQ, UK"
-Enfield,Edmonton Green Library,56.5,,N9 0TN,"36-44 South Mall, Edmonton"
-,Enfield Town Library,62.5,,EN2 6AX,"66 Church Street, Enfield, EN2 6AX"
-,Ordnance Unity Centre Library,49.5,,EN3 6ND,"645 Hertford Road, Enfield, EN3 6ND"
-,Palmers Green Library,49.5,,N13 4EY,"Broomfield Lane, Palmers Green, N13 4EY"
-,Angel Raynham Library,19,,N18 2JQ,"Raynham Primary School, Raynham Avenue, London, N18 2JQ"
-,Bowes Road Library,24,,N11 1BD,"Bowes Road, London, N11 1BD"
-,Bullsmoor Library,24,,EN1 4QS,"Kempe Road, Enfield, EN1 4QS"
-,Enfield Highway Library,36,,EN3 5JH,"Enfield Business Centre, 201 Hertford Road, Enfield, EN3 5JH"
-,Enfield Island Village Library,20,,EN3 6GS,"Unit 44-46 Island Centre Way, Enfield, EN3 6GS"
-,Fore Street Library,40,,N18 2XF,"109-111 Fore Street, Edmonton, N18 2XF"
-,John Jackson Library,43,,EN1 1DW,"Agricola Place, Enfield, EN1 1DW"
-,Millfield House Library,35,,N18 1PJ,"Millfield Arts Centre, Silver Street, Edmonton, N18 1PJ"
-,Oakwood Library,53.5,,N14 4XA,"185-187 Bramley Road, N14 4XA"
-,Ponders End Library,43,,EN3 4EZ,"198-200 High Street, Ponders End, EN3 4EZ"
-,Ridge Avenue Library,50,,N21 2RH,"Ridge Avenue, Winchmore Hill, N21 2RH"
-,Southgate Library,45,,N14 6BP,"High Street, Southgate, N14 6BP"
-,Winchmore Hill Library,35.5,,N21 3AP,"Green Lanes, Winchmore Hill, N21 3AP"
-,Chicken Shed,4.5,,N14 4PE,"Bramley Sports Ground, 290 Chase Side, Southgate"
-,Community Smiles,15,,EN3 7FN,"Vincent House, Nags Head Road, Ponders End"
-,Daisybeats,1,,N9 7EN,"St Edmunds Church Hall, 115 Hertford Road, Lower Edmonton"
-,ECYPS,7.5,,N9 0UR,"The Ark, 500 Montagu Road, Lower Edmonton"
-,Edmonton Islamic Centre,2,,N18 2SJ,"Raynham Road, Upper Edmonton"
-,Enact,7.5,,EN3 6GS,"Enfield Island Village Youth Centre, 14-16 Island Centre Way, Enfield Lock"
-,Enfield Caribbean Association,3,,N9 0BU,"Green Tower Community Centre, Plevna Road, Edmonton Green"
-,Exodus,6,,N9 7BA,"1 Croyland Youth Centre, Croyland Road, Lower Edmonton"
-,Fore Street Pantry,2,,N9 0PN,"Edmonton Methodist Church, 300 Fore Street, Edmonton Green"
-,Ordnance Pantry,2,,EN3 6BW,"Ordnance Methodist Church, Ordnance Road, Enfield Lock"
-,Phoenix Family Support Services,15,,N9 8LP,"229 Bounces Road, Lower Edmonton"
-,Ponders End Food Hub,2,,EN3 4DG,"378 High Street, Ponders End"
-,Rumi Mosque,2.5,,N9 0NU,"337 Fore Street, Lower Edmonton"
-,St Demetrois Foodbank,2,,N9 0LP,"Corner of Logan Road, Town Road, Edmonton Green"
-Greenwich,Abbey Wood Community Centre,48,,SE2 0YS,"Abbey Wood Community Centre 4 Knee Hill, Abbey Wood, London SE2 0YS"
-,Abbey Wood Library,32,,SE2 9PT,Eynsham Drive Abbey Wood SE2 9PT
-,Armada Community Project,4,Thursday: 11am to 3pm,SE8 3EZ,Armada Court 21 McMillan Street SE8 3EZ
-,Barnfield Hub,84,Monday to Sunday 10am to 10pm,SE18 3BD,Barnfield Hub Herbert Place Plumstead SE18 3BD
-,Black Female Entrepreneur Greenwich,54,,SE18 4DW,LALU Catering Restaurant 7 Leslie Smith Square Woolwich Common SE18 4DW
-,Blackheath Library,52.5,"Monday: 10am to 7pm, Tuesday: 9am to 5:30pm, Wednesday: 9am to 5:30pm, Thursday: 9am to 7pm, Friday: 9am to 5:30pm, Saturday: 9am to 5pm, Sunday: Closed",SE3 7BT,Old Dover Road Blackheath SE3 7BT
-,Bromley Reform Synagogue,2,10.30am to 2.30pm the second and fourth Wednesdays of the month,BR1 4AD,28 Highland Road Bromley Kent BR1 4AD
-,Brookhill Children's Centre,1.5,Tuesday 1pm to 2.30pm reception area (overseen by reception staff and one other member of the team),SE18 6BD,Brookhill Children's Centre 42 Brumwell Avenue Woolwich SE18 6BD
-,Central Eltham Youth Project,37.5,Monday to Friday 10.30am to 2pm and 3pm to 6pm,SE9 5DN,"CEYP 4 Pound Place, Eltham London SE9 5DN"
-,Charlton Library,32,"Monday: 2pm to 7pm, Tuesday: 9am to 1pm then 2pm to 5:30pm, Wednesday: Closed, Thursday: 2pm to 7pm, Friday: 9am to 1pm then 2pm to 5:30pm, Saturday: 9am to 1pm, then 2pm to 5pm, Sunday: Closed",SE7 8RE,Charlton House Charlton Road SE7 8RE
-,Clockhouse Community Centre,55,Monday to Friday 8.30am to 7.30pm,SE18 5QL,Clockhouse Community Centre Defiance Walk Woolwich Dockyard London SE18 5QL
-,Coldharbour Library,29,"Monday: 2pm to 5.30pm Tuesday: 9am to 1pm then 2pm to 5:30pmWednesday: Closed, Thursday: 2pm to 5.30pm, Friday: 9am to 1pm then 2pm to 5.30pm, Saturday: 9am to 1pm, then 2pm to 5pm, Sunday: Closed",SE9 3AY,William Barefoot Drive Eltham SE9 3AY
-,Commmunity Association of New Eltham,18,,SE9 3QT,Commmunity Association of New Eltham Southwood Road Eltham SE9 3QT
-,Discovery Children's Centre,4,Main area Monday and Thursday 11.30am to 1.30pm (unstaffed),SE28 0JN,Discovery Children's Centre Battery Road Thamesmead SE28 0JN
-,Eltham Centre Library,57.5,"Monday: 9am to 7pm Tuesday: 9am to 5:30pm, Wednesday: 9am to 5:30pm, Thursday: 9am to 7pm, Friday: 9am to 5:30pm, Saturday: 9am to 5pm, Sunday: 12noon to 4pm",SE9 1HA,Archery Road Eltham SE9 1HA
-,Eltham Green Community Church,2,Fridays 10am to 12noon,SE9 6DH,542 Westhorne Avenue SE9 6DH
-,Eltham Park Baptist Church,2,Friday 10am to 12noon,SE9 1JE,Eltham Park Baptist Church 32A Westmount Road Eltham SE9 1JE
-,Forum Greenwich,6,Wednesday and Friday 1pm to 4pm,SE10 9EQ,Forum Greenwich Christ Church Trafalgar Road Greenwich SE10 9EQ
-,Hawksmoor Youth Club,4,Monday and Tuesday 9am to 11am,SE28 8AS,Hawksmoor Youth Club Bentham Road Thamesmead SE28 8AS
-,Middle Park Community Centre,55,,SE9 5SD,Middle Park Community Centre 150 Middle Park Avenue Eltham SE9 5SD
-,Mottingham Methodist Church,4,Wednesday 10am to 2pm,SE9 4QR,Methodist Church Mottingham Road Mottingham Village SE9 4QR
-,Mycenae House,9,Monday to Saturday 9am to 10.30pm,SE3 7SE,Mycenae House 90 Mycenae Road London SE3 7SE
-,National Maritime Museum,49,10am to 5pm,SE10 9NF,Voyagers Gallery National Maritime Museum Romney Road SE10 9NF
-,New Charlton Community Centre,71.5,,SE7 8DB,New Charlton Community Centre 217 Maryon Road Charlton SE7 8DB
-,New Eltham Library,35,,SE9 3QT,Southwood Road New Eltham SE9 3QT
-,New Eltham Methodist Church and Community Centre,3,Wednesday 10am to 1pm,SE9 3UL,The Centre New Eltham Methodist Church 435 Footscray Road New Eltham SE9 3UL
-,Plumstead Centre Library,52.5,"Monday: 9am to 5.30pm Tuesday: 9am to 5:30pmWednesday: 9am to 5:30pm, Thursday: 9am to 7pm, Friday: 9am to 5:30pm, Saturday: 9am to 5pm, Sunday: Closed",SE18 1DB,Plumstead High Street SE18 1DB
-,Pound Park Children's Centre,3,Tuesday 3.30pm to 5pm and Thursday 12.30pm to 2pm,SE7 8AF,Pound Park Children's Centre Pound Park Road Charlton SE7 8AF
-,Quaggy Children's Centre,8,"Monday, Wednesday, Thursday 3.30pm to 5.30pm and Friday 11am to 1pm (creche room)",SE13 7QZ,Quaggy Children's Centre Orchard Road Hill Lewisham SE13 7QZ
-,Roots4Life,4.5,,SE9 3UL,245 Footscray Road London
-,Samuel Montagu Youth Centre,13,Monday to Friday 4pm to 9pm and Saturday to Sunday 9am to 5pm,SE3 8ND,Samuel Montagu Youth Centre 122 Broad Walk Kidbrooke SE3 8ND
-,Seniors in Touch,3,Tuesday 11am to 2pm,SE28 8DJ,Titmuss Avenue Baptist Church Hall 85 Titmuss Avenue Thamesmead SE28 8DJ
-,Sherington Children's Centre,6.5,Monday 12.30pm to 2pm and Wednesday 3.30pm to 5pm (creche room) - 3.30pm to 5pm on Monday and Thursday (creche room staffed),SE7 7JW,Sherington Children's Centre 14 Sherington Road Charlton SE7 7JW
-,Shrewsbury House Community Centre,20,"Monday to Friday 9am to 10pm, Saturday 9am to 4pm. Closed Sundays and bank holidays.",SE18 3EG,Shrewsbury House Community Centre Bushmoor Crescent Shooters Hill SE18 3EG
-,Slade Centre Library,31.5,"Monday: 2pm to 7pm Tuesday: 9am to 5:30pm, Wednesday: Closed, Thursday: 2pm to 7pm, Friday: 9am to 1pm, then 2pm to 5:30pm, Saturday: 9am to 1pm, then 2pm to 5pm, Sunday: Closed",SE18 2QQ,Erindale Plumstead SE18 2QQ
-,Slade Children's Centre,1.5,Wednesday 1pm to 2.30pm in training room (overseen by Reception staff and one other member of the team),SE18 2QQ,Slade Children's Centre Erindale Plumstead SE18 2QQ
-,St Alfege Church,2,Wednesday 10am to 12 noon,SE10 9JT,St Alfege Church Hall Frank Smith Room Roan Street SE10 9JT
-,St Edward's Church Mottingham,42.5,,SE9 4AQ,St Edwards Church 35 St Keverne Road SE9 4AQ
-,St George's Church,2,Tuesday 10am to 12 noon,SE3 7SD,St George's Church 43 Glenluce Road SE3 7SD
-,St John's Church,2,,SE18 7NH,St John's Church Earl Rise
-,St Luke's Church,2,Thursday 10am to 12 noon (Coffee Morning),SE7 8UG,St Luke's Church The Village Charlton SE7 8UG
-,St Margaret's Church,4,Tea for Free Monday 10am to 12noon and the Darby & Joan Club Tuesday 11.45am to 2pm,SE13 5DN,St Margaret's Church Lee Terrace SE13 5DN
-,Storkway Children's Centre,40,,SE3 9QX,Storkway Children's Centre Ridgebrook Road Kidbrooke SE3 9QX
-,Street Souls Emmaus Greenwich,2,,SE18 4DW,"Woolwich Common Community Centre, Leslie Smith Square SE18 4DW"
-,Thamesmere Library,53.5,,SE28 8DT,Thamesmere Leisure Centre Thamesmere Drive Thamesmead SE28 8DT
-,The Greenwich Centre Library,53,,SE10 9GB,Greenwich Centre 12 LambaRoade Square SE10 9GB
-,Tramshed Arts,54,,SE18 6ET,"The Tramshed, 41 Woolwich New Road SE18 6ET"
-,Trinity Methodist Church and Community Centre,1.5,,SE18 7JW,Trinity Methodist Church 265 Burrage Road Plumstead SE18 7JW
-,Vista Field Children's Centre,3,,SE9 5SD,Vista Field Children's CentreThe Vista Eltham SE9 5SD
-,Waterways Children's Centre,2,,SE28 8EZ,Waterways Children's Centre Southwood Road Thamesmead SE28 8EZ
-,West Greenwich Library,35,,SE10 8NN,Greenwich High Street Greenwich SE10 8NN
-,West Thamesmead Community Association,5,,SE28 0ER,Broadwater Village Hall Gosander Way West Thamesmead SE28 0ER
-,Woolwich Centre Library,57.5,,SE18 6HQ,Woolwich Centre 35 Wellington Street Woolwich SE18 6HQ
-,Woolwich Common Community Centre,15,,SE18 4DW,Woolwich Common Community Centre 17 Leslie Smith Square SE18 4DW
-,Woolwich Front Room,30,,SE18 6JB,Woolwich Front Room 105 Powis Street Woolwich SE18 6JB
-,Woolwich Service User Project,8.5,,SE18 6BJ,107 Brookhill Road Woolwich London SE18 6BJ
-Hackney,Whitmore Community Centre,10,,N1 5NU,"2 to 4 Phillipp St, Whitmore Estate"
-,Banister House,5,,E9 6BN,"Homerton High Street, London, E9 6BN"
-,Gascoyne 2 Community Hall,8,,E9 5AY,"2a Wick Road, Hackney, London E9 5AY"
-,FoodCycle Hackney,1,,E9 7LP,"New Kingshold Community Centre, 49 Ainsworth Road, Hackney, London E9 7LP"
-,St Barnabas Church,1.5,,E9 6DL,"Homerton High Street, London, London E9 6DL"
-,Groundwork London,3,,E5 0PD,"6 Lower Clapton Road, Hackney, London E5 0PD"
-,Chats Palace Arts Centre,8,,E9 6DF,"42-44 Brooksby's Walk, Homerton, London E9 6DF"
-,Clapton Park URC,9.5,,E5 0PU,"Old School Rooms, 2 Powerscroft Road, Hackney, London E5 0PU"
-,Bethnal Green Methodist Church,8,,E2 9JP,"Approach Road, Bethnal Green, London E2 9JP"
-,The Salvation Army,6,,E5 0QR,"122-124 Lower Clapton Road, Clapton, Hackney E5 0QR"
-,Shepherd Fold Ministry,8,,E5 OLH,"Clapton Park Methodist Church, 99, Chatsworth Road, London E5 OLH"
-,The Pedro Club,5,,E5 0HD,"175 Rushmore Road, Lower Clapton, Hackney, London E5 0HD"
-,FoodCycle,1,,E3 4LY,"1 Merchant Street, Bow, London E3 4LY"
-,Christ Apostolic Church,4,,E3 3HJ,"Upper floor, Devons Halls, Powis Road off Grace Street, Bow, London E3 3HJ"
-,Poplar HARCA,10,,E3 3PR,"Linc Centre, 73 Fern Street, London, London E3 3PR"
-,Christchurch Three Mills,2.5,,E15 2QS,"School 360, Sugar House Lane, London E15 2QS"
-,Poplar HARCA,12,,E3 3QE,"Jefferson Plaza, London, London E3 3QE"
-,Stratford Library,70,,E15 1EL,"3 The Grove, Newham, London E15 1EL"
-,H.O.P.E.,7.5,"Tuesdays, 2.30pm to 4.30 pm, Fridays, 10.30pm to 4.00 pm",E9 6RH,"Morningside Community Centre, Cresset Road, Hackney E9 6RH"
-,Hackney Quest,2.5,"Mondays, 1:30pm to 4pm",E9 7PQ,"Frampton Park Baptist church, Frampton Park Road, E9 7PQ"
-Hammersmith and Fulham,Our Lady of Fatima Parish Centre,3.5,"Tuesdays, 2.30pm to 6pm",W12 7QR,"Commonwealth Avenue, London W12 7QR"
-,Old Oak Community Centre,5,"Wednesdays, 2pm to 6pm.",W12 0AP,"Braybrook Street, London W12 0AP"
-Haringey,Alexandra Park Library,57,,N22 7UJ,Alexandra Park Road
-,Coombes Croft Library,57,,N17 8AG,High Road
-,Highgate Library,57,,N6 5QJ,1 Shepherds Hill
-,Hornsey Library,61,,N8 9JA,"Ground Floor Foyer, Haringey Park, N8 9JA"
-,Marcus Garvey Library,62,,N15 4JA,"Tottenham Green Centre, 1 Philip Lane"
-,Muswell Hill Library,51,,N10 3PE,Queen's Avenue
-,St Ann's Library,57,,N15 5PU,Cissbury Road
-,Stroud Green and Harringay Library,57,,N4 4QR,Quernmore Road
-,Wood Green Central Library,61,,N22 6XD,High Road
-,Hornsey Central Cafe,42.5,,N8 8JD,"Hornsey Central Neighbourhood Health Centre, 151 Park Road, N8 8JD"
-,The Goods Office Restaurant ,102.5,,N4 4DS,"1-3 Ferme Park Road, Stroud Green, N4 4DS"
-,St Ann's Church Tottenham,4,,N15 5JH,"St Ann's Church Hall, 2 Avenue Road, N15 5JH"
-,Jacksons Lane ,72,,N6 5AA,"269a Archway Road, Highgate, N6 5AA"
-,Winkfield Resource Centre Cafe ,4,,N22 5RP,"Winkfield Resource Centre, 33 Winkfield Road, Wood Green, N22 5RP"
-,Cypriot Community Centre,25,,N22 5HJ,"Cypriot Community Centre, Earlham Grove N22 5HJ"
-,Electric Grubb Cafe and Restaurant,69,,N15 4AJ,"286 High Road, Seven Sisters N15 4AJ"
-,Mind in Haringey,4,,N4 3QF,"73C Stapleton Hall Road, Stroud Green, N4 3QF"
-,St James Church,2,,N10 3DB,"St James Church, St James Lane, Muswell Hill N10 3DB"
-,The Antwerp Arms ,3,,N17 8AS,"168-170 Church Road, Tottenham, N17 8AS"
-,Northumberland Park Resource Centre,3,,N17 0HJ,"177 Park Lane Northumberland Park, Tottenham, N17 0HJ"
-,Hornsey Moravian Church,3,,N8 7HR,"Priory Road, Hornsey, N8 7HR"
-,Ministry of Praise,6,,N17 0JJ,"46 Manor Road, Tottenham, N17 0JJ"
-,Women with a Voice,9,,N17 0QA,"Eric Allin Centre, 240 Northumberland Park, Tottenham, N17 0QA"
-,Chestnuts Community Centre,2,,N15 5BN,"280 St Ann's Road, Tottenham, N15 5BN"
-,Broadwater Children's Centre,4,,N17 6HE,"Adams Road, Tottenham, N17 6HE"
-,Sky City Community Centre,3,,N22 6SR,"65 Penwortham Court, Wood Green, N22 6SR"
-,The Engine Room,2.5,,N17 9FU,"Unit A, Eagle Heights, Hale Village, Tottenham Hale, N17 9FU"
-,St Paul the Apostle Catholic Church,3,,N22 7SZ,"22 Bradley Road, Wood Green, N22 7SZ"
-,Lordship Hub Cafe,3,,N17 6NU,"Lordship Recreation Ground Higham Road, Tottenham, N17 6NU"
-,Commerce Road Community Centre,5,,N22 8EP,"52 Commerce Road, Wood Green, N22 8EP"
-,Muswell Hill Methodist Church,3,,N10 1PP,"Pages Lane, Muswell Hill, N10 1PP"
-,St Mary's Church Tottenham,6.5,,N17 9XE,"Lansdowne Road, N17 9XE"
-,Connecting Well with Wheely Tots,3,,N17 6HF,"Broadwater Farm Community Centre, Adams Road, Tottenham, N17 6HF"
-Harrow,Flash Musicals,3,,HA8 6EZ,"Flash Musicals Methuen Road, Edgware HA8 6EZ"
-,Harrow Association of Somali Voluntary Organisations (HASVO),4,,HA2 0DH,"66 Lower Road, HA2 0DH"
-,Harrow Carers,4.5,,HA14QF,"Old Lyonians Sports Ground, Pinner View, Harrow, HA14QF"
-,Hotspot Community CIC / Homegroup Housing Association ,2,,HA2 0TY,The Beacon Centre HA2 0TY
-,North Harrow Community Library,15,,HA1 4HN,"Pinner Road, North Harrow, HA1 4HN"
-,My Yard at Grange Farm,10,,HA2 0QF,"Grange Farm Community Hall, Osmond Close, South Harrow HA2 0QF"
-,Oshwal Association,3,,NW9 9AA,"Ekta Centre, 366A Stag Lane, Kingsbury, London NW9 9AA "
-,Romanian Culture and Charity Together,6,,HA8 0LN,International Gospel Church 102a Watling Avenue Burnt Oak Middlesex HA8 0LN
-,South Harrow Methodist Church,16,,HA2 8QU,"Walton Avenue Harrow, HA2 8QU"
-,"St Paul's Church, South Harrow",4,,HA2 8EL,"St Paul's South Harrow, Corbins Lane, HA2 8E"
-,St Michael and All Angels' Harrow Weald,2.5,,HA3 7HP,"95 Bishop Ken Road, Harrow Weald, HA3 7HP "
-,The Disability Foundation,2,,HA7 4LP,"The Disability Foundation, Based at RNOH, Brockley Hill, Stanmore, HA7 4LP."
-,Vedicca london,3,,HA2 6EQ,"North Harrow Methodist Church, Pinner Road, HA2 6EQ"
-,Wealdstone Methodist Church,2,,HA3 7ND,"Locket Road, Wealdstone, HA3 7ND"
-Havering,Ardleigh House Community Association,1.5,,RM11 2LG,42 Ardleigh Green Road Hornchurch RM11 2LG
-,Elm Park Community Association,3,,RM12 4RA,Elm Park Assembly Hall Annexe Eyhurst Avenue Elm Park RM12 4RA
-,Emerson Park Community Association,2,,RM11 2BU,Emerson Park Social Hall  Slewins Lane Hornchurch RM11 2BU
-,H.A.D. (Havering Association for People with Disabilities),23,,RM11 3NN,"1a Woodhall Crescent Hornchurch, RM11 3NN"
-,Front Lane Community Association,4,,RM14 1XN,Cranham Social Hall 103 Front Lane Cranham RM14 1XN
-,Harold Hill and District Community Association,3,,RM3 9LB,Gooshays Drive Harold Hill RM3 9LB
-,Myplace,3,,RM3 9EN,343 Dagnam Park Drive Harold Hill RM3 9EN
-,Harold Wood Community Hub,49.5,,RM3 0QA,"The Hub, 11 Gubbins Ln, Romford RM3 0QA"
-,Havering Asian Social and Welfare Association,2,,RM12 6NB,Greenfields Kilmartin Way  Elm Park RM12 6NB
-,Havering Museum,6,,RM1 1JU,"19,20, 21 High Street Romford RM1 1JU"
-,The Hope Cafe,56,,RM1 3ER,"80-84 Market Pl, Romford RM1 3ER"
-,Mardyke Community Association,6,,RM13 8PJ,Mardyke Social Centre South Street Rainham RM13 8PJ
-,Moor Lane Church,1.5,,RM14 1HN,226 Moor Lane Cranham RM14 1HN
-,Myplace,87.5,,RM3 9EN,343 Dagnam Park Drive Harold Hill RM3 9EN
-,RAFA Club,25.5,,RM2 5AA,18 Carlton Road Romford RM2 5AA
-,Romford Baptist Church and Hall,49,,RM1 3BL,Main Road Romford RM1 3BL
-,Romford Care Centre,2,,RM3 8HW,107 Neave Crescent Harold Hill  RM3 8HW
-,Rush Green Community Association,2,,RM7 0LB,Rush Green Gardens Rush Green Road Romford RM7 OLB
-,Saint George's Church and Centre,15,,RM3 8HX,Chippenham Road RM3 8HX
-,Salvation Army Centre (Harold Hill),8,,RM3 9PP,Petersfield Avenue Harold Hill RM3 9PP
-,St. John and St. Matthews Church Hall,2,,RM13 7XT,South End Road Rainham RM13 7XT
-,St. Luke's Church,1.5,,RM14 1LD,201 Front Lane Upminster RM14 1LD
-,The ROYALS Centre,4.5,,RM13 9YG,Viking Way Rainham RM3 9YG
-,YMCA Romford,12,,RM7 0PH,29 Rush Green Road Romford RM7 0PH
-Hillingdon,Botwell Green Library,56,,UB3 2HW,East Avenue Hayes UB3 2HW
-,Charville Library,44,,UB4 8LF,Bury Avenue Hayes UB4 8LF
-,Christ Church,12,,UB8 1SZ,"Redford Way, Uxbridge. UB8 1SZ"
-,Coldharbour Lane Church,3,,UB3 3HG,136 Coldharbour Lane Hayes UB3 3HG
-,Eastcote Library,44,,HA5 1RL,Field End Road Eastcote HA5 1RL
-,Fairfield Church,3.5,,HA6 1PD,Windsor Close Northwood Hills HA6 1PD
-,Harefield Library,43.5,,UB9 6BJ,Park Lane Harefield UB9 6BJ
-,Harlington Library,43.5,,UB3 1PB,Pinkwell Lane Hayes UB3 1PB
-,Hayes End Library,44,,UB4 8JQ,Uxbridge Road Hayes End UB4 8JQ
-,Hayes Town Chapel,2,,UB3 2JP,Hayes Town Chapel St. Mary's Road Hayes UB3 2JP
-,Hillingdon Park Baptist Church,20,,UB10 9LS,25 Hercies Road Hillingdon UB10 9LS
-,Ickenham Library,44,,UB10 8RE,Community Close / Long Lane Ickenham UB10 8RE
-,Manor Farm Library,45.5,,HA4 7SU,Manor Farm Site Bury Street Ruislip HA4 7SU
-,Northwood Hills Library (Potter Street),44,,HA6 1QQ,Potter Street Northwood HA6 1QQ
-,Northwood Library (Oaklands Gate),44,,HA6 3AA,Oaklands Gate Northwood HA6 3AA
-,Northwood Methodist Church,2.5,,HA6 3AA,Oaklands Gate Northwood HA6 3AA
-,Oak Farm Library,54,,UB10 9PB,Sutton Court Road Hillingdon UB10 9PB
-,Ruislip Manor Library,58,,HA4 8TW,Linden Avenue Ruislip Manor HA4 8TW
-,South Ruislip Christian Fellowship,2,,HA4 6SR,2 Deane Ave Ruislip HA4 6SR
-,South Ruislip Library,44,,HA4 0JE,Victoria Road South Ruislip HA4 0JE
-,St Margaret's Church,5.5,,UB8 1UT,Windsor Street Uxbridge UB8 1UT
-,Uxbridge Library,55,,UB8 1HD,High Street Uxbridge UB8 1HD
-,Waterloo Road Church,37.5,,UB8 2QX,"Waterloo Rd, Uxbridge UB8 2QX"
-,West Drayton Library,44,,UB7 7JS,"Station Rd, West Drayton UB7 7JS"
-,Yeading Library,44,,UB4 0EW,"Yeading Ln, Hayes UB4 0EW"
-,Yiewsley Library,46,,UB7 7BE,"High St, Yiewsley UB7 7BE"
-,Yiewsley Methodist Church Hall,3,,UB7 8ES,"Fairfield Rd, Yiewsley UB7 8ES"
-Westminster,Central London Youth Development Trust,3,Open every Friday from 11:30am to 2:30pm.,NW8 8SR,"Greenside Community Centre, Lilestone Street, London, NW8 8SR"
-,Middle Eastern Women and Society Organisation,3,Saturday from 12pm to 3pm.,NW8 8HJ,"Derry House, Church St Estate, London, NW8 8HJ"
-,The Mosaic Community Trust,3,Mondays from 10:30am to 1:30pm.,NW8 8D.,"The Portman Early Years Centre, 12 -15 Salisbury Street, NW8 8D."
-,Queen's Park Bangladesh Association,84,Thursdays from 6pm and Sundays from 1pm.,W10 4QH.,"71 Ilbert St, London W10 4QH."
-,Kulan Somali Organisation,84,Thursdays.,W10 4QA.,"Queen's Park community hall, Droop Street, W10 4QA."
-,Community For All (C4A) CIC,15,Thursdays from 6pm to 9pm.,W9 3RU.,"472 Harrow Road, W9 3RU."
-,Queen's Park Club,11.5,"Queen's Park Club provides hot meals on weekdays, weekends and evenings",W10 4QJ.,"The Hut, Queen's Park Garden, London, W10 4QJ."
-,Sunahs Crisis Team CIC,84,,W10 4QA.,"Queens Park Court Community Hall, Droop Street, W10 4QA."
-,Marylebone Bangladesh Society,6,Mondays from 5 to 8pm and Fridays 5 to 8pm,NW8 8ER.,"19 Samford St, London NW8 8ER."
-,Make it Happen,6,Thursdays from 10am to 3pm.,NW8 8SU.,"4 Lilestone St, London NW8 8SU."
-,London Tigers,3,Wednesdays from 10am to 1pm.,W9 3AZ,"WECH Community Centre, Selbourne House, 36A Elgin Avenue,"
-,Grand Junction,49,,W2 5TF,"Rowington Cl, London W2 5TF"
-,Queen's Park Library,55.5,open Monday to Saturday,W10 4NE,"666 Harrow Rd, London W10 4NE"
-,Queen's Park Children's Centre,35,,W9 3AL,"88 Bravington Rd, London W9 3AL"
-,Maida Vale Library,55.5,open Monday to Saturday,W9 2QT,"Maida Vale Library, Sutherland Avenue, London W9 2QT"
-,North Paddington Youth Club,15,,W9 1EA,"229 Lanark Road, W9 1EA"
-,Happy Lizzy Event Planning (HELP),3,Activities take place on Fridays after school between 3.30pm and 6.30pm.,W9 3EW,"Lydford Community Hall, 74 Fernhead Road, W9 3EW"
-,Maida Hill Place,12,"Monday lunchtimes, midday to 2.00 pm Weekends, Sunday 14 January, 1pm to 3pm, Sunday 28 January, 1pm to 3pm (TBC), Sunday 12 February, 1pm to 3pm, Sunday 26 February, 1pm to 3pm (TBC), Sunday 12 March, 1pm to 3pm, Sunday 26 March, 1pm to 3pm, They are also running a soup stall on Tuesdays at Maida Hill Market from 2pm to 3pm.",W9 3AZ,"Wech Community Hall, Selbourne House, 36A Elgin Avenue London, W9 3AZ"
-,Church Street Library,54.5,,NW8 8EU,"67 Church St, London NW8 8EU"
-,The Portman Family Hub,50,,NW8 8DE,"12 Salisbury St, London NW8 8DE"
-,Marylebone Library,63,,W1G 9UQ,"9-11 New Cavendish St, London W1G 9UQ"
-,Feathers Youth Centre,60,,NW1 6NX,"12 Rossmore Road, London, NW1 6NX"
-,St John's Wood Library,59,,NW8 6PD,"20 Circus Rd, London NW8 6PD"
-,The Avenues Youth Project,53,,W10 4RS,"3-7 Third Ave, London W10 4RS"
-,Penfold Community Hub,40,,NW8 8PJ,"60 Penfold St, London NW8 8PJ"
-,Paddington Library and Children's Library,41.5,,W2 5EA,"Westbourne Park Baptist Church, Westbourne Park Villas, London W2 5EA"
-,Fitzrovia Community Centre,76,,W1W 6DL,"Fitzrovia Community Centre, 2 Foley St, London W1W 6DL"
-,The Photographers' Gallery,59,,W1F 7LW,"16-18 Ramillies St, London W1F 7LW"
-,London Advocacy Group,32.5,,WC2N 5BW,"1, Trafalgar Square, Northumberland Ave, London WC2N 5BW"
-,St. Vincent's Family Project,37.5,,SW1H 9NH,"Methodist Central Hall, Storey's Gate, London SW1H 9NH"
-,Westminster Chapel,6.5,,SW1E 6BS,"Buckingham Gate, London SW1E 6BS"
-,Mayfair Library,43.5,,W1K 2PB,"25 S Audley St, London W1K 2PB"
-,Charing Cross Library,57.5,,WC2H 0HF,"4-6 Charing Cross Rd, London WC2H 0HF"
-,Westminster Music and Reference Library,57,,WC2H 7HP,"35 St Martin's St, London WC2H 7HP"
-,Royal Academy of Arts,51,,W1J 0BD,"Burlington House, Piccadilly, London W1J 0BD"
-,Royal Opera House,42,,WC2E 9DD,"Bow St, London WC2E 9DD"
-,National Gallery,59,,WC2N 5DN,"Trafalgar Square, London WC2N 5DN"
-,Institute of Contemporary Arts,54,,SW1Y 5AH,"The Mall, St. James's, London SW1Y 5AH"
-,Victoria Library,56,,SW1W 9TR,"160 Buckingham Palace Rd, London SW1W 9TR"
-,Somerset House,63,,WC2R 1LA,"Strand, London WC2R 1LA"
-,Royal Albert Hall,84,,SW7 2AP,"Kensington Gore, South Kensington, London SW7 2AP"
-,South Westminster Community Choir,44.5,,SW1V 2PS,"Off Thorndike St, Moreton St, Lillington and Longmoore Gardens, London SW1V 2PS"
-,Pimlico Library,64,,SW1V 3AT,"Lupus St, Pimlico, London SW1V 3AT"
-,Clear Village Charitable Trust,45,,SW1V 1TA,"Block A Peabody Vauxhall Estate, Vauxhall Bridge Rd, London SW1V 1TA"
-,Open Age,3,,SW1V 2RT,"1 Carey Pl, London SW1V 2RT"
-,Churchill Gardens Youth Club,9,,SW1V 3DL,"Churchill Gardens Rd, Pimlico, London SW1V 3DL"
-,Westminster Bangladeshi Welfare Trust,3,,SW1V 4LP,"Sherbourne House, Lower ground floor, Winchester Street, SW1V 4LP"
-,Bessborough Family Hub,40,,SW1V 2JD,"Bessborough Nursery, 1 Bessborough St, London SW1V 2JD"
-,St Andrew's Club,60,,SW1P 2DG,"Alec Wizard House, 12 Old Pye St, London SW1P 2DG"
-,The Abbey Centre,76,,SW1P 3BU,"34 Great Smith St, London SW1P 3BU"
-,Sport4Health,56,,SW1V 3AA,"St Gabriel's Parish House, Glasgow Terrace, Pimlico, London SW1V 3AA"
-Wandsworth,Ascension Church Hall,40,"Monday to Friday, 8.30am to 4.30pm",SW12 8QY,"23 Malwood Road, London, SW12 8QY"
-,St Luke's Church,3,Wednesday 10.30am to 1.30pm,SW12 8RQ,"Ramsden Road, London, SW12 8RQ"
-,St Marks Church Hall,3,Monday 11am to 2pm,SW17 7AP,"Rowfant Road, London, SW17 7AP"
-,St Mary and St John the Divine,4,"Wednesday 10am to 12 noon, Saturday 10am to 12 noon",SW12 9BS,"Balham High Road, London, SW12 9BS"
-,Church of the Ascension,2.5,Wednesday 1.30 to 4pm,SW11 5RB,"Lavender Hill, London SW11 5RB"
-,Cromwell House,26,"Council-run Enable Leisure and Culture. Monday, Wednesday and Friday 4 to 7pm  Cromwell House Community Hub. Monday, Wednesday, Saturday and Sunday 4 to 7pm, Begin2Sports Group Academy C.I.C. Thursday 12 noon to 3.15pm, Agoe Empowerment Network Ltd.  Friday 11am to 1pm",SW11 5HW,"Charlotte Despard Avenue, London, SW11 5HW"
-,Devas Club,25,"Monday to Friday, 4 to 6pm (8 to 11 year olds), Monday to Friday, 6 to 9pm (11 to 19 year olds)",SW11 5EN,"2A Stormont Road, London, SW11 5EN"
-,Kambala Community Centre,40,TBA - opening 4 January 2023,SW11 2LU,"126 Fawcett Close, London, SW11 2LU"
-,S.T.O.R.M Family Centre,12,"Wednesday 1 to 5pm, Thursday 1 to 5pm, Saturday 11am to 3pm",SW11 5JF,"61 Strasburg Road, London, SW11 5JF"
-,York Gardens Children's Centre,35,"Monday to Friday, 9am to 4pm",SW11 2UG,"Lavender Road, Clapham Junction, London, SW11 2UG"
-,York Gardens Library and Community Centre,2,Thursday 10.30am to 12.30pm,SW11 2UG,"34 Lavender Road, London, SW11 2UG"
-,Earlsfield Baptist Church,3,Sunday 1 to 4pm,SW18 3NZ,"271 Magdalen Road, London, SW18 3NZ"
-,Home Community Cafe,12.5,"Tuesday 9am to 4pm, Wednesday 10.30am to 4pm",SW18 4SR,"St Andrew's Church, Garratt Lane, London, SW18 4SR"
-,ROSE Community Clubroom,10,Monday 10am to 8pm,SW8 4AN,"22 Ascalon Street, London, SW8 4AN"
-,Yvonne Carr Children's Centre,37.5,"Monday to Friday, 9am to 4.30pm",SW8 4HT,"2 Thessaly Road, Nine Elms, London, SW8 4HT"
-,Eastwood Children's Centre,37.5,"Monday to Friday, 9am to 4.30pm",SW15 4HR,"166 Roehampton Lane, Roehampton, London, SW15 4HR"
-,Ackroydon Community Hall,2,Monday 1 to 3pm,SW19 6QL,"Montfort Place, London, SW19 6QL"
-,Brathway Hall,5,Tuesday 10am to 3pm,SW18 4BE,"Brathway Road, London, SW18 4BE"
-,Open Door Community Centre,6,Tuesday and Thursday 4 to 7pm,SW19 6TF,"Beaumont Road, London, SW19 6TF"
-,St Michael's & All Angels Church,2,Wednesday 12 noon to 2pm,SW18 5TT,"71 Wimbledon Park Road, London, SW18 5TT"
-,All Saints Church Centre,4,"Tuesday, 10am to 12 noon, Thursday, 10am to 12 noon",SW17 8DQ,"80 Franciscan Road, SW17 8DQ"
-,Franciscan Children's Centre,37.5,"Monday to Friday, 9am to 4.30pm",SW17 8HQ,"221 Franciscan Road, Tooting, London, SW17 8HQ"
-,Holy Trinity Church,6,"Monday 2 to 4pm (Homeless Support Cafe), Wednesday 12 noon to 4pm (opening 7 December 2022)",SW17 7RH,"74 Trinity Road, London, SW17 7RH"
-,Smallwood Children's Centre,37.5,"Monday to Friday, 9am to 4.30pm",SW17 0TW,"Smallwood Primary School, Smallwood Road, London, SW17 0TW"
-,St Albans Church Hall,1.5,Wednesday 10.30am to 12 noon,SW16 6RR,"Pretoria Road, London, SW16 6RR"
-,St Augustine's Church,4,Thursday 12 noon to 4pm,SW17 0EF,"16 Broadwater Road, London, SW17 0EF"
-,The Furzedown Project,10,"Wednesday 1 to 4pm, Monday 11am to 1pm, Wednesday 11.30am to 1.30pm, Friday 2 to 4pm, Saturday 1 to 4pm",SW16 6SJ,"91-93 Moyser Road, London, SW16 6SJ"
-,Tooting Community Kitchen,3,Wednesday 1 to 4pm,SW17 9PP,"19 Church Lane, London, SW17 9PP"
-,East Hill Baptist Church,7,"Tuesday: 10am to 2pm, Wednesday: 10am to 1pm",SW18 2HD,"182 East Hill, London, SW18 2HD"
-,Gwynneth Morgan Day Centre,5,"Monday to Friday, 9.15 to 10.15am (From Monday 27 February)",SW18 2HJ,"52 East Hill, London, SW18 2HJ"
-,West Hill in the Park Children's Centre,35,"Monday to Friday, 9am to 4pm",SW18 4AS,"King George's Park, Buckhold Road, Wandsworth, SW18 4AS"
-Waltham Forest,Leyton Orient Trust,18,,E10 5NF,"Leyton Orient Stadium, Brisbane Road, Leyton, E10 5NF"
-,Lea Bridge Library,65,"Monday to Friday 9am to 7pm, Saturday 9am to 6pm and Sunday 10am to 4pm.",E10 7HU,"Lea Bridge Road, Leyton E10 7HU"
-,Pepper's Ghost,12,Thursdays and Fridays 12pm to 6pm.,E10 5AB,"777 High Road, Leyton E10 5AB"
-,Cornerstone,63,Everyday,E10 6EH,"149 Canterbury Road, E10 6EH"
-,St Andrew's Church,18,Mondays and Thursdays 11am to 8pm.,E11 1JD,"153 Colworth Road, E11 1JD"
-,Holy Trinity and St Augustine of Hippo Church,2,Tuesday 11am to 1pm.,E11 4LD,"4 Holloway Road, Leytonstone, E11 4LD"
-,Leytonstone and Wanstead Synagogue,3,Friday from 10am to 1pm,E11 3BS,"2 Fillebrook Road, E11 3BS"
-,The Inconvenient Store,51,Tuesdays to Saturdays 11am to 8pm and Sundays 12pm to 6pm.,E11 4RD,"719 High Road Leytonstone, E11 4RD"
-,Leytonstone Library,63,"Monday to Friday 9am to 7pm, Saturday 9am to 6pm and Sunday 12pm to 4pm.",E11 1HG,"Church Lane, E11 1HG"
-,Farm Community Kitchen,23.5,,E11 3NH,"102 Cann Hall Road, E11 3NH"
-,Elim Pentecostal Church,24,,E11 1EL,"Hainault Road, E11 1EL"
-,St Peter in the Forest,1.5,,E17 3PP,"18 Woodford New Road, E17 3PP"
-,William Morris Big Local at Priory Court Community Centre,12,Mondays and Thursdays 12pm to 6pm.,E17 5NB,"11 Priory Court, E17 5NB"
-,The Mill at Coppermill,40,Tuesday to Friday from 9:30am to 5:30pm. Saturday and Sunday from 10am to 2pm.,E17 7HA,"7 Coppermill Lane, E17 7HA"
-,St Barnabus and Stafford Hall,3.5,Thursdays 3pm to 6:30pm.,E17 8JY,"St Barnabus Road, E17 8JY"
-,The Gleaners,8,,E17 9AH,"The Hornbeam Centre, 458 Hoe Street, E17 9AH"
-,The Lloyd Park Children's Charity,4,Fridays 10am to 2pm (school term only).,E17 5JW,"The Lloyd Park Centre, Winns Avenue Entrance, Lloyd Park, E17 5JW"
-,Christian Kitchen,10.5,daily between 7:30pm and 9pm,E17 7AB,"Mission Grove Car Park, E17 7AB"
-,Wood Street Library,63,"Monday to Friday: 9am to 7pm, Saturday: 9am to 6pm and Sunday: 12pm to 4pm.",E17 3HB,"1 Troubridge Square, Wood Street, E17 3HB"
-,Walthamstow Library,65,"Monday to Friday: 9am to 7pm, Saturday: 9am to 6pm and Sunday: 10am to 4pm.",E17 7JN,"High Street, Walthamstow, E17 7JN"
-,Higham Hill Library,18,"Monday, Thursday and Friday: 10am to 6pm.",E17 5HS,"North Countess Road, Walthamstow, E17 5HS"
-,Food Cycle,1.5,Thursdays 6:30 to 8pm.,E17 9RH,"St Mary's Welcome Centre, Church End, E17 9RH"
-,Peabody,5.5,Wellbeing Cafe Tuesdays 12:30pm to 2:30pm and Community Pantry Tuesday 8:30am to 2pm.,E4 8YD,"The Paradox Community Centre, 3 Ching Way, E4 8YD"
-,Highams Park Food Aid,15,"open Tuesday, Wednesday and Thursday at All Saints Church",E4 9QZ,"All Saints Church, Church Avenue, Highams Park, E4 9QZ"
-,Chingford Library,63,"Monday to Friday 9am to 7pm, Saturday 9am to 6pm and Sunday 12pm to 4pm.",E4 7EN,"The Green, Chingford, E4 7EN"
-,Hale End Library,30,"Tuesday, Wednesday and Friday 10am to 6pm. Saturday 10am to 4pm.",E4 9QD,"Castle Avenue, Highams Park, E4 9QD"
-,South Chingford Community Library,24,"Monday, Tuesday, Thursday and Saturday 10am to 4pm.",E4 8LP,"265 Chingford Mount Road, E4 8LP"
-,Organic Lea,13,,E4 7UH,"Hawkwood Nursery, 115 Hawkwood Crescent, E4 7UH"
-Tower Hamlets,Wigram House Community Centre,5,Monday 12noon to 5pm,E14 0DA,"Wigram House Community Centre, Wades Place, E14 0DA"
-,Keddlestone Walk Community Centre,3,Tuesday 10am to 1pm,E2 9QT,"Keddlestone Walk Community Centre, Hollybush Gardens, E2 9QT"
-,Saltwell Street Community Centre,5,Wednesday 2 to 7pm,E14 0DZ,"Saltwell Street Community Centre, Saltwell Street, E14 0DZ"
-,Glasshouse Community Centre,2,Thursday 10am to 12noon,E2 9QB,"Glasshouse Community Centre, 161 Old Ford Road, E2 9QB"
-,Wynn Garrett Resource Centre Harpley Square,3,Thursday 10am to 1pm,E1 4EA,"Wynn Garrett Resource Centre Harpley Square, E1 4EA"
-,Cranbrook Community Centre,3,Thursday 1 to 4pm,E2 0RB,"Cranbrook Community Centre Mace Street, E2 0RB"
-,Guild Room,5,Thursday 2 to 7pm,E14 6JG,"Guild Room, Canton Street, E14 6JG"
-,Tarling East Community Centre,3.5,Thursday 11.30am to 3pm,E1 2PA,"Tarling East Community Centre, 63 Martha Street, E1 2PA"
-,St Matthias Community Centre,5,Sunday 2 to 7pm,E14 0EY,"St Matthias Community Centre, Woodstock Terrace, E14 0EY"
-Sutton,Sutton Central Library,71.5,,SM1 1EA,"St Nicholas Way, Sutton, SM1 1EA"
-,Cheam Library,40.5,,SM3 8QH,"Cheam Library, Church Road, Cheam, SM3 8QH"
-,Circle Library,40.5,,SM5 1JJ,"Circle Library, Green Wrythe Lane, Carshalton SM5 1JJ"
-,Library at the Life Centre,53,,SM3 9PX,"Sutton Life Centre, Alcorn Close, Sutton, SM3 9PX"
-,Library at the Phoenix Centre,59,,SM6 9NZ,"Library at the Phoenix Centre, Mollison Drive, Roundshaw, Wallington, SM6 9NZ"
-,Wallington Library,87,,SM6 0HY,"Wallington Library, Shotfield, Wallington, SM6 0HY"
-,Westcroft Library,92,,SM5 2TG,"Westcroft Leisure Centre, Westcroft Road, Carshalton, SM5 2TG"
-,Worcester Park Library,40.5,,KT4 8ES,"Worcester Park Library, Stone Place, Windsor Road, Worcester Park, KT4 8ES"
-Southwark,Blackfriars Settlement,24,Monday: 2pm to 5pm Warm Hub. Tuesday: 9.30am to 2pm Warm Hub. 2pm to 4pm Forget Me Nots for older people who want to maintain their memory. Wednesday: 9.30am to 1pm Warm Hub. 1.30pm to 3.30pm. Thursday: 9.30am to 4pm. Friday: 9.30am to 4pm.,SE1 0RB,"1 Rushworth Street, SE1 0RB"
-,Time and Talents,4,Monday: 10 30am to 12 30pm Wednesday: 1pm to 3pm,SE16 7NB,"T&T, Surrey Quays Shopping Centre, Redriff Road, SE16 7NB"
-,Age UK Yalding Road,40,Monday to Friday: 9am to 5pm,SE16 3TY,"Healthy Living and Learning Service, 95 Southwark Park Road, Bermondsey, SE16 3TY"
-,Love North Southwark,15,"Open Monday, Tuesday, Wednesday and Friday.",SE16 2EN,"4, 5 Gataker House Slippers Place, Bermondsey SE16 2EN"
-,London Senior Social,5,Open Saturday 11.30am to 4.30pm.,SE1 1QQ,"11 Scovell Road, SE1 1QQ"
-,St Jude's,12,Open Monday to Thursday. Monday: Coffee mornings 10am to 12 noon / Board games 1.30pm to 3.30pm. Tuesday: Coffee mornings 10am to 12 noon / Senior Citizen session 2pm to 4pm. Wednesday: Coffee mornings and storytelling 10am to 12 noon. Thursday: Soup Kitchen 12.30pm to 2.30pm ,SE1 6EZ,"St Jude's Centre, Colnbrook Street, SE1 6EZ"
-,Blue Anchor Library,46,Weekly tea/coffee sessions: Tuesday 11am. Library opening times: Monday: 9am to 7pm. Tuesday: 9am to 7pm. Wednesday: closed. Thursday: 9am to 7pm. Friday: 10am to 6pm. Saturday: 9am to 5pm. Sunday: closed,SE16 3UQ,"Market Place, SE16 3UQ"
-,Canada Water Library,72,Weekly tea/coffee sessions: Thursday 11.30am. Library opening times: Monday: 8am to 8pm. Tuesday: 8am to 8pm. Wednesday: 8am to 8pm. Thursday: 8am to 8pm. Friday: 8am to 8pm. Saturday: 9am to 5pm. Sunday: 12noon to 4pm,SE16 7AR,"21 Surrey Quays Rd, SE16 7AR"
-,John Harvard Library,58,"Weekly tea/coffee sessions: Tuesday 11am. Monthly archivist talks 2pm on: 8 November, 13 December, 17 January, 21 February, 21 March. Library opening times: Monday: 9am to 7pm. Tuesday: 9am to 7pm. Wednesday: 9am to 7pm. Thursday: 9am to 7pm. Friday: 9am to 7pm. Saturday: 9am to 5pm",SE1 1JA,"211 Borough High St, SE1 1JA"
-,Tate Modern,56,"Open 10am to 6pm, 7 days a week",SE1 9TG,"Tate Modern Bankside, SE1 9TG"
-,Bermondsey and Rotherhithe Children and Family Centres,2,Open Tuesdays from 10am to 12 noon,SE16 2PE,"Park Lodge, Hawkstone Rd, London SE16 2PE"
-,Haddon Hall Baptist Church,2,Open every Wednesday from 10am to 12pm.,SE1 4TR,"22 Tower Bridge Rd, London SE1 4TR"
-,The RJ4ALL Rotherhithe Community Centre,42.5,"Monday to Friday 9:30am to 5:30pm. Tuesdays food bank and clothes mending 11am to 2pm, cafe connect 2pm. Thursday lates (coffee tea and music session 5pm, step class 6.15pm) until 8pm.",SE16 2LJ,"Rotherhithe Community Centre, 30 Plough Way, SE16 2LJ"
-,The Bridge,7,Every Wednesday from 10am to 5pm,SE1 0NQ,"73-81 Southwark Bridge Road, SE1 0NQ"
-,London LGBTQ+ Community Centre,40,"Wednesday to Sunday, 12 noon to 8pm.",SE1 9JH,"60-62 Hopton Street, SE1 9JH"
-,Southwark Pensioners,12.5,"Thursday and Friday afternoons from 12.15pm to 5pm and alternate Saturdays 10am to 4pm. Social Thursday, Feelgood Friday, and sharing Saturday.",SE5 0HQ,"Southwark Pensioners Centre, 305-307 Camberwell Rd, SE5 0HQ"
-,Copleston Centre,4,Soup Socials' will operate from 12pm to 2pm on Mondays.,SE15 4AN,"Copleston Centre, Copleston Road, Peckham SE15 4AN"
-,Southwark Carers,40,Our Carers Cafe will be open every Friday for cared for residents of Southwark.,SE5 0EN,"3rd Floor, Walworth Methodist Church, 54 Camberwell Road, SE5 0EN"
-,Prince of Peckham,2,Come in for a free hot drink on chatty Tuesdays from 2pm to 4pm.,SE15 5JA,"1 Clayton Road, SE15 5JA"
-,Elimhouse,6,Local residents can come for a hot meal at a weekly lunch club: Wednesday 11am to 5pm.,SE15 4RQ,"86-88 Bellenden Road, Peckham, SE15 4RQ"
-,Camberwell Library,67,Weekly tea/coffee sessions: Mondays 11am. Library opening times: Monday: 9am to 8pm.Tuesday: 9am to 8pm. Wednesday: 9am to 8pm. Thursday: 9am to 8pm. Friday: 9am to 8pm. Saturday: 9am to 5pm. Sunday: 12pm to 4pm,SE5 7AL,"48 Camberwell Green, SE5 7AL"
-,South London Gallery,45,Tuesday to Sunday: 11am to 6pm. Late opening every Wednesday until 9pm,SE5 8UH,"65 Peckham Road and 82 Peckham Road, SE5 8UH"
-,All Saints Church,6,"Open Tuesday morning and Wednesday and Saturday evening. Tuesday: community cafe at All Saints Church, 9.15am to 11.15am",SE15 4QS,"Blenheim Grove, Peckham, SE15 4QS"
-,Somali Integration & Development Association (SIDA),4,Open Wednesdays from 10am to 12 noon (free Wi-Fi and refreshments provided). Open Thursdays from 12 noon to 2pm for a sewing class and coffee.,SE5 7HN,"Unit 50, Camberwell Business Centre, 99- 103 Lomond Grove, SE5 7HN"
-,St Luke's Community Cafe,4,Open Wednesdays from 10am to 2pm,SE15 6DT,"St Luke's Church Hall, Chandler Way, London, SE15 6DT"
-,Together at Pecan,4,"Every Monday and Tuesday, 1pm to 3pm.",SE15 5SE,"121a Peckham High Street, SE15 5SE"
-,Acorn Tenants and Residents Association (TRA),3,Tuesdays 11am to 2pm,SE15 2TU,"95b Meeting House Ln, London SE15 2TU"
-,Link Age Southwark,2,Open every Friday 1pm to 3pm.,SE22 8RH,"United Reformed Church, Tell Grove, SE22 8RH"
-,Christ Church,2,Wednesday from 10am to 12 noon.,SE22 0JT,"Christ Church, 263 Barry Road, Dulwich, SE22 0JT"
-,Lordship Lane Church,4,"Tuesday: coffee morning 10am to 12 noon. Thursday: over-60s lunch club that provides healthy, nourishing, and sustainable food. The food provided is culturally appropriate for Black Afro-Caribbean visitors. 12 noon to 2pm",SE22 8JG,"287, Lordship Lane, East Dulwich, SE22 8JG"
-,Daffodil Cafe,2,Monday: 11am to 1pm,SE15 3QQ,"Nunhead Community Centre, 5 Nunhead Green, SE15 3QQ"
-,Ivy Club (Green Nunhead),4.5,Thursday: 10am to 2.30pm,SE15 3QQ,"5 Nunhead Green, Nunhead, SE15 3QQ"
-,Dulwich Library,66,Weekly Film Club: Mondays 1pm. Library opening times: Monday: 9am to 8pm. Tuesday: 10am to 8pm. Wednesday: 9am to 8pm. Thursday: 9am to 8pm. Friday: 9am to 8pm. Saturday: 9am to 5pm. Sunday: 12pm to 4pm,SE22 8NB,"368 Lordship Lane, SE22 8NB"
-,Grove Vale Library,48,Weekly tea/coffee sessions: Fridays 11am. Library opening times: Monday: 10am to 7pm. Tuesday: 10am to 7pm. Wednesday: closed. Thursday: 10am to 7pm. Friday: 10am to 3pm. Saturday: 10am to 5pm. Sunday: closed  ,SE22 8EF,"18-22 Grove Vale, London SE22 8EF"
-,Nunhead Library,32,Weekly tea/coffee sessions: Wednesdays 11am. Library opening times: Monday: 2pm to 7pm. Tuesday: 2pm to 7pm. Wednesday: 10am to 3pm. Thursday: 2pm to 7pm. Friday: 10am to 3pm. Saturday: 10am to 5pm. Sunday: closed,SE15 3RB,"88-138 Gordon Rd, SE15 3RB"
-,Kingswood Tenants and Residents Association (TRA),3,Every Wednesday from 11am to 2pm,SE21 8QW,"Tefler House, Seeley Drive SE21 8QW"
-,Walworth Living Room (Pembroke House),10,Thursday and Friday: 10am to 3pm.,SE17 2JU,"Walworth Living Room, All Saints Hall, Surrey Square, SE17 2JU"
-,Draper Hall,5,Wednesday: 10am to 3pm,SE17 3AN,"Draper Hall, Hampton Street, SE17 3AN"
-,Mental Fight Club,87.5,,SE17 3AN,"Draper Hall, Hampton Street, SE17 3AN"
-,British Legion,6,Monday and Thursday: 10am to 4pm,SE17 3RD,"34 Gaza St, SE17 3RD"
-,Golden Oldies,5,Tuesday: 10am to 3pm,SE5 0EN,"Walworth Methodist Church Hall, 54 Camberwell Road, SE5 0EN"
-,Southwark Heritage Centre and Walworth Library,61,Weekly tea/coffee sessions: Monday at 11am. Library opening times: Monday: 10am to 8pm. Tuesday: 10am to 8pm. Wednesday: 10am to 8pm. Thursday: 10am to 8pm. Friday: 10am to 8pm. Saturday: 10am to 5pm. Sunday: 12pm to 4pm,SE17 1RW,"147 Walworth Rd, SE17 1RW"
-,Brandon Library,27,Weekly tea/coffee sessions: Thursday 2pm. Library opening times: Monday: 2pm to 7pm. Tuesday: 2pm to 7pm. Wednesday: closed. Thursday: 2pm to 7pm. Friday: 10am to 3pm. Saturday: 10am to 5pm. Sunday: closed .,SE17 3NH,"Maddock Way, SE17 3NH"
-,Brandon 3 Tenants and Residents Association (TRA),9,Fridays from 12 noon to 9pm,SE5 0TB,"9 Grimsel Path, SE5 0TB"
-Richmond,Mortlake Community Association,6,Wednesday and Thursday 12 noon to 3pm,SW14 8EZ,"Mortlake Hall, 30 Mullins Path, Mortlake, SW14 8EZ"
-,OSO Arts Centre,58,Monday to Friday 9am to 6pm. Saturday 9am to 4pm. Sunday 10am to 4pm,SW13 0LF,"Community Hall, 49 Station Road, Barnes, SW13 0LF"
-,Sheen Lane Centre,1.5,Wednesday 10.30am to 12 noon,SW14 8LP,"74 Sheen Lane, East Sheen, SW14 8LP"
-,St Mary's Church,2,Thursday 10am to 12 noon,SW13 9HL,"Church Road, Barnes, London, SW13 9HL"
-,All Saints Parish Church,4.5,Wednesday: 12 noon to 3pm. First Thursday of the month: 10.30am to 12 noon. Third Thursday of the month: 2.30 to 4pm,TW12 3RG,"The Avenue, Hampton, TW12 3RG"
-,Hampton Inspired Hub,56,"Monday to Sunday, 9am to 5pm",TW12 2JA,"The Bungalow, 3 Ashley Road, Hampton, TW12 2JA"
-,St James's Church,9,"Mondays, Wednesday and Thursdays 12.30 to 3.30pm",TW12 1DQ,"St James's Road, Hampton Hill, TW12 1DQ"
-,Cambrian Community Centre,2,Tuesday 2 to 4pm,TW10 6SN,"Caplan Court, 1 Grove Road, Richmond, TW10 6SN"
-,Museum of Richmond,29,Tuesday to Friday 11am to 5pm. Saturday 11am to 4pm,TW9 1TP,"Second Floor, Old Town Hall, Whittaker Avenue, Richmond, TW9 1TP"
-,Vineyard Community Centre,12.5,"Monday to Friday, 1 to 3.30pm",TW10 6AQ,"The Vineyard, Richmond, TW10 6AQ"
-,Peter & Paul Centre,3,Monday 1.30 to 4.30pm (Run by the Teddington Community Cafe),TW11 8PB,"Bychurch End, Church Road, Teddington, TW11 8PB"
-,St Mark's Church,2,Wednesday 10am to 12 noon,TW11 9DE,"17 St Mark's Road, Teddington, TW11 9DE"
-,St Michael's Church,2,Wednesday 2 to 4pm,TW11 0SP,"Wilcox Road, Teddington, TW11 0SP"
-,Teddington Baptist Church,3,Wednesday 9.30am to 12.30pm,TW11 8PF,"17 Church Road, Teddington, TW11 8PF"
-,Teddington Methodist Church,2,Saturday 10.30am to 12.30pm,TW11 8TP,"Stanley Road, Teddington, TW11 8TP"
-,Teddington Salvation Army,3,Thursday 4 to 7pm,TW11 8PF,"27 Church Road, Teddington, TW11 8PF"
-,ETNA Community Centre,7.5,"Monday, Wednesday and Friday 3 to 5.30pm",TW1 2AR,"13 Rosslyn Road, Twickenham, TW1 2AR"
-,The Turk's Head,75,Monday to Saturday 12 noon to 11pm. Sunday 12 noon to 9pm,TW1 1LF,"28 Winchester Road, Twickenham, TW1 1LF"
-,Twickenham Congregational Church,3,Friday 12 noon to 3pm,TW2 5QA,"First Cross Road, Twickenham, TW2 5QA"
-,Homelink Day Respite Centre,3,Wednesday 12 noon to 3pm,TW2 6DE,"Hospital Bridge Road, Whitton, TW2 6DE"
-,Whitton Community Centre,23,Thursday 10am to 5pm. Friday 1 to 9pm. Saturday 3 to 8pm. Sunday 1 to 6pm,TW2 6JL,"Percy Road, Whitton, TW2 6JL"
-Redbridge,Aldersbrook Library,29,,E12 5HQ,"Aldersbrook Library, 2a Park Road, London, E12 5HQ"
-,Clayhall Library,30,,IG5 0LQ,"CLAYHALL LIBRARY, 1 CLAYBURY BROADWAY, CLAYHALL, ILFORD, IG5 0LQ"
-,Fullwell Cross Library,53,,IG6 2EA,"FULLWELL CROSS LIBRARY, 140 HIGH STREET, BARKINGSIDE, ILFORD, IG6 2EA"
-,Gants Hill Library,57,,IG2 6LA,"GANTS HILL LIBRARY, 490 CRANBROOK ROAD, ILFORD, IG2 6LA"
-,Goodmayes Library,39,,IG3 9QB,"GOODMAYES LIBRARY, 76 GOODMAYES LANE, Goodmayes, ILFORD, IG3 9QB"
-,Hainault Library,39,,IG7 4DD,"HAINAULT LIBRARY, 100 MANFORD WAY, CHIGWELL, IG7 4DD"
-,Keith Axon Library,63,,RM6 4XB,"CHADWELL HEATH LIBRARY, KEITH AXON CENTRE, 160 GROVE ROAD, Chadwell Heath, ROMFORD, RM6 4XB"
-,Seven Kings Library,40,,IG3 8RQ,"SEVEN KINGS LIBRARY, 679 HIGH ROAD, Seven Kings, ILFORD, IG3 8RQ"
-,South Woodford Library,100,,E18 2QS,"SOUTH WOODFORD LIBRARY, 116 HIGH ROAD, South Woodford, LONDON, E18 2QS"
-,Wanstead Library,47,,E11 2RQ,"WANSTEAD LIBRARY, SPRATT HALL ROAD, Wanstead, LONDON, E11 2RQ"
-,Woodford Green Library,100,,IG8 0DX,"WOODFORD GREEN LIBRARY, SNAKES LANE EAST, WOODFORD GREEN, IG8 0DX"
-,St Paul's Church,2,,IG7 4NZ,"St Paul's Church, Arrowsmith Road, Chigwell, Essex, IG7 4NZ"
-,VHP Ilford Hindu Centre and Mandir,38.5,,IG1 1EE,"VHP ILFORD HINDU CENTRE, 43 CLEVELAND ROAD, ILFORD, IG1 1EE"
-,Vine United Reformed Church,9,,IG1 1JH,"THE VINE UNITED REFORMED CHURCH, RICHES ROAD, ILFORD, IG1 1JH"
-,Holy Trinity South Woodford,3,,E18 1QQ,"HOLY TRINITY CHURCH, HERMON HILL, LONDON, E18 1QQ"
-,St Mary's Church Woodford,9.5,,E18 2PA,"ST MARYS CHURCH, HIGH ROAD, SOUTH WOODFORD, E18 2PA"
-Newham,Beckton Globe Library,84,"Wed,10:00 to 20:00 Thur, 10:00 to 20:00 Fri, 10:00 to 20:00 Sat, 10:00 to 20:00 Sun, 24h Mon,  (Spring Bank Holiday), 10:00 to 20:00, Tue, 10:00 to 20:00",E6 5JQ,"1 Kingsford Way, London E6 5JQ"
-,Canning Town Library,72,Mon to Sat 8:00 to 20:00,E16 1EH,"18, Rathbone Market, London E16 1EH"
-,Custom House Library,23,Thur 10:00 to 18: 00 Fri 10:00 to 18:00 Mo: 10:00 to 18:00 Tue 10:00 to 18:00,E16 3JJ,"Prince Regent Ln, London E16 3JJ"
-,East Ham Library,73,Mon to Sat 9:00 to 20:00 Sun 9:00 to 16: 00,E6 2RT,"328 Barking Rd, London E6 2RT"
-,The Gate Library,66,Mon to Sat 9:00 to 20:00,E7 0QH,"Woodgrange Rd, London E7 0QH"
-,Green Street Library,60,Mon to Sat 10:00 to 20:00,E13 9AR,"337-341 Green St, London E13 9AR"
-,Manor Park Library,60,Mon to Sat 10:00 to 20:00,E12 5BS,"685-693 Romford Rd, London E12 5BS"
-,North Woolwich Library,51,Mon to Sat 9:00 to 17:30,E16 2LJ,"5 Pier Rd, London E16 2LJ"
-,Plaistow Library,48,Mon to Sat 9:30 to 17:30,E13 9HN,"North St, London E13 9HN"
-,Stratford Library,70,Mon to Sat 9:00 to 20:00 Sun 12:00 to 16: 00,E15 1EL,"3 The Grove, London E15 1EL"
-,Trinity Centre,77,Mon to Sun 9:00 to 20:00,E12 6SG,"Trinity Centre, East Ave, London E12 6SG"
-,Katherine Road Community Centre,40,Mon to Fri 9:00 to 17:00,E7 8PW,"254 Katherine Rd, London E7 8PW"
-,Woodman Community Centre,67,,E16 2NF,"32A Woodman St, London E16 2NF"
-,Jack Cornwell Community Centre,98,Mon to Sun 9:00 to 23:00,E12 5NN,"Jack Cornwell St, London E12 5NN"
-,Forest Lane Lodge,98,Mon to Sun 9:00 to 23:00,E7 9DE,"Magpie Cl, London E7 9DE"
-Merton,Colliers Wood Library,56,,SW19 2HR,"105-109 High Street Colliers Wood, London SW19 2HR"
-,Mitcham Library,66.5,Mon to Sat 9:00 to 17:30,CR4 2YR,"157 London Rd, Mitcham CR4 2YR"
-,Morden Library,57,,SM4 5DX,"Merton Civic Centre, London Rd, Morden SM4 5DX"
-,Pollards Hill Library,57,,CR4 1LT,"S Lodge Ave, Mitcham CR4 1LT"
-,Raynes Park Library,45.5,,SW20 8BA,"21 Approach Rd, Raynes Park, London SW20 8BA"
-,West Barnes Library,53,,KT3 6JF,"Station Rd, New Malden KT3 6JF"
-,Wimbledon Library,54,,SW19 7NB,"Wimbledon Reference Library, 35 Wimbledon Hill Rd, London SW19 7NB"
-Lewisham,Blackheath Village community library service,21,,SE3 9LA,"The Reminiscence Centre, 11 Blackheath Village, Blackheath, London, SE3 9LA"
-,Catford Library,64,,SE6 4JU,"23-24 Winslade Way, Catford Centre, SE6 4JU"
-,Crofton Park Library,40,,SE4 2AG,"Crofton Park Library, Brockley Road, Crofton Park, London, SE4 2AG"
-,The Library at Deptford Lounge,58,,SE8 4RH,"Library, Deptford Lounge, 9 Giffin St, London, SE8 4RH"
-,Downham Library,58,,BR1 5EP,"Downham Library, 7–9 Moorside Road, Bromley, BR1 5EP"
-,Forest Hill Library,62,,SE23 3HZ,"Forest Hill Library, Dartmouth Road, London, SE23 3HZ"
-,Grove Park Library,29,,SE12 0BX,"Grove Park Library, Somertrees Avenue, Grove Park, London, SE12 0BX"
-,Lewisham Library,58,,SE13 6LG,"Lewisham Library, 199-201 Lewisham High St, London, SE13 6LG"
-,Manor House Library,46,, SE13 5SY,"Manor House Library, 34 Old Road, London, SE13 5SY"
-,New Cross Library,16,,SE14 6AS,"New Cross Library, 283 285 New Cross Road, London, SE14 6AS"
-,Sydenham Library,20,,SE26 5SE,"Sydenham Library, Sydenham Road, London, SE26 5SE"
-,Corbett Community Library,29.5,,SE6 1RQ,"Torridon Road, London, SE6 1RQ"
-Lambeth,Brixton Tate Library,59,,SW2 1JQ,"Chaplin House, London SW2 1JQ"
-,Carnegie Library,42,,SE24 0DG,"192 Herne Hill Road, SE24 0DG"
-,Clapham Library,55,,SW4 7DB,"Mary Seacole Centre, 91 Clapham High Street, SW4 7DB"
-,Durning Library,39,,SE11 4HF,"167 Kennington Lane, SE11 4HF"
-,Minet Library,47,,SE5 9QY,"52 Knatchbull Road, SE5 9QY"
-,Streatham Library,56,,SW16 1PN,"63 Streatham High Road,SW16 1PN"
-,Tate South Lambeth Library,39,,SW8 1QP,"180 South Lambeth Road, SW8 1QP"
-,Upper Norwood Library,42,,SE19 1TQ,"39 Westow Hill, SE19 1TQ"
-,Waterloo Library,34,,SE1 7QP,"1 Kennington Road, SE1 7QP"
-,West Norwood Library,55,,SE27 9JX,"1-5 Norwood High Street, SE27 9JX"
-,Oasis Waterloo,3,,SE1 7QP,"1 Kennington Road, London SE1 7QP"
-,West London Mission,48,,SE11 4NT,"25A Wincott Street,Kennington, London SE11 4NT"
-,Ashmole Estate Tenants' Hall,11,,SW8 1PL,"113 Claylands Rd, London SW8 1PL"
-Kingston,Kingston Library,41,,KT1 2PS,"Fairfield Rd, Kingston upon Thames KT1 2PS"
-,Kingston URC Church,45,,KT1 1HZ,Eden Street KT1 1HZ
-,CLICK Cafe,20,,KT1 2TW,"13 Geneva Road, KT1 2TW"
-,Tudor Drive Library,32,,KT2 5QH,"192 Tudor Drive, KT2 5QH"
-,Kingsnympton Youth & Community Centre,17,,KT2 7RW,Kingsnympton Park KT2 7RW
-,Surbiton Assembly Rooms,45,,KT1 2JT,"13 to 15 Surbiton Crescent, KT1 2JT"
-,Surbiton Library,39,,KT6 6AG,Ewell Road KT6 6AG
-,The cornerHOUSE Arts Centre,36,,KT6 7SB,"116 Douglas Road, Surbiton, KT6 7SB"
-,Tolworth Community Library,40,,KT6 7DJ,"The Broadway, Surbiton, KT6 7DJ"
-,Sunray Community Centre,3,,KT5 9QP,"Knollmead, Worcester Park, Tolworth, KT5 9QP"
-,Dickerage Sports & Community Centre,60,,KT3 3EQ,"Dickerage Road, New Malden KT3 3EQ"
-,New Malden Library,41,,KT3 3LY,"Kingston Rd,, New Malden, KT3 3LY"
-,Square 1 Cafe New Malden,4,,KT3 3PE,"Kingston Environment Centre, 1 Kingston Road, New Malden KT3 3PE"
-,Old Malden Library,28,,KT4 7RD,"Church Rd, Worcester Park, KT4 7RD"
-,New Malden Baptist Church,1.5,,KT3 5BE,"1A Westbury Rd, New Malden KT3 5BE"
-,New Malden Methodist Church,31,,KT3 4BY,"49 High St, New Malden KT3 4BY"
-,"St James Parish Church, New Malden",1,,KT3 5QE,"Bodley Rd, New Malden KT3 5QE"
-,Saint Joseph's Roman Catholic Church,19.5,,KT3 3QW,"1 Montem Rd, New Malden KT3 3QW"
-,"St Mary's Centre, Chessington",18,,KT9 2DR,"Church Lane, KT9 2DR"
-,Square 1 Cafe Chessington,4,,KT9 2JS,"Chessington Sports Centre, Garrison Lane, Chessington KT9 2JS"
-,The Hook Centre,84,,KT9 1AE,"9 Green End, Chessington KT9 1AE"
-Kensington and Chelsea,Dalgarno Trust,40,,W10 5QB,"1 Webb Close London, W10 5QB"
-,Early help - family hubs,12,,W10 5PE,"Holmfield House Children Centre, Golborne Road, W10 5PE"
-,Kensal Library,12.5,,W10 5PF,"The Lodge, 20 Golborne Rd, London W10 5PF"
-,Venture Community Centre,49,,W10 5YB,"103A Wornington Road, W10 5YB"
-,St Helens Church,3,,W10 6LP,"St Helen's Gardens, North Kensington, London W10 6LP"
-,Latymer Christian Church in Partnership with The Space,6,,W10 6SU,"116 Bramley Road, W10 6SU"
-,Bay 20,10,,W10 6JG,"71 St Marks Road, W10 6JG"
-,North Kensington Library,53,,W11 1PZ,"108 Ladbroke Grove, London W11 1PZ"
-,Salvation Army Church,3,,W11 1LU,"205 Portobello Road, W11 1LU"
-,The Tabernacle,96,,W11 2AY,"35 Powis Square, W11 2AY"
-,Baseline Studios,45,,W11 4AT,"9 Whitchurch Road, North Kensington, W11 4AT"
-,Kensington Leisure Centre,101,,W11 4HE,"Silchester Rd, London W11 4HE"
-,Notting Hill Methodist Church,33,,W11 4AH,"240 Lancaster Rd, London W11 4AH"
-,Henry Dickens Community Centre,13.5,,W11 4DH,"104 St Ann's Road, London W11 4DH"
-,Nourish Cafe,0.5,,W11 4SS,"Unit A, Nourish Hub, Swanscombe House, 1 St Ann's Rd, London W11 4SS"
-,Notting Hill Gate Library,36.5,,W2 4EW,"1 Pembridge Square, London W2 4EW"
-,Kensington Central Library,53,,W8 7RX,"12 Phillimore Walk, London W8 7RX"
-,St Mary Abbots Church,25.5,,W8 4LA,"Kensington Church Street, London, W8 4LA"
-,St Cuthberts Centre,10,,SW5 9EB,"51 Philbeach Gardens, London SW5 9EB"
-,Brompton Library,58.5,,SW5 0BS,"210 Old Brompton Rd, London SW5 0BS"
-,HTB Queen's Gate,7.5,,SW7 5LP,"117, HTB Queen's Gate, SW7 5LP"
-,Chelsea Library,58.5,,SW3 5EZ,"Chelsea Old Town Hall, King's Rd, London SW3 5EZ"
-,SMART,38,,SW10 0JN,"The Basement, 15 Gertrude Street, London, SW10 0JN"
-,Chelsea Theatre,51,,SW10 0DR,"7 Worlds End Place, Chelsea, SW10 0DR"
-Islington,The Peel Centre,34,,EC1R 0HU,"3 Corners Learning Centre, Northampton Road, London"
-,Brunswick Estate Community Centre,40,,EC1V 0HP,"Ground Floor, Mulberry Court, Tompion Street, London"
-,Museum Of The Order Of Saint John,1.5,,EC1V 4JJ,"St John's Gate, St John's Lane, Clerkenwell, London"
-,Finsbury Library,54,,EC1V 4NB,"245 St. John Street, London"
-,St Luke's Community Centre,50,,EC1V 8AJ,"90, Central Street, London"
-,St Clement's Church,9,,EC1V 8DA,King Square
-,Wesley's Chapel and Leysian Mission,30,,EC1Y 1AU,"49, City Road"
-,London Irish Centre,10,,NW1 9XB,"50-52 Camden Square, London"
-,West Library,36,,N1 1BD,"Bridgeman Road , London"
-,South Library,36,,N1 2SL,"115-117 Essex Rd, London"
-,St Mary's Church,2.5,,N1 2TX,Upper Sreet
-,Our Lady & St Joseph's Catholic Church,6,,N1 4AG,"Presbytery 100a, Balls Pond Road, London"
-,Mildmay Library,30.5,,N1 4NA,"21-23 Mildmay Park , London"
-,Saint Jude and Saint Paul's Church,3,,N1 4PL,"113, Mildmay Grove North, London"
-,The Arc Centre,32.5,,N1 7DF,"98B, St Paul Street"
-,Chabad Islington Jewish Community Centre,48,,N1 8HX,"Chabad Islington Jewish Community Centre and Art Gallery, 1-3 Elliott's Place"
-,King's Cross Church,5.5,,N1 9JY,"242 Pentonville Rd, London N1 9JY"
-,Claremont Project,40,,N1 9PD,"24-27, White Lion Street"
-,N4 Library,47,,N4 2DW,"26 Blackstock Road , London"
-,The UCKG HelpCentre,91,,N4 3NX,"UCKG, Rainbow Theatre, 232 Seven Sisters Rd, Finsbury Park, London"
-,Hanley Crouch Community Association,4,,N4 4BY,"42 Crouch Hill, London"
-,Elizabeth House Community Centre,16.5,,N5 1ED,"Elizabeth House, 2 Hurlock Street, London"
-,Central Library,58,,N5 1PF,"2, Fieldway Crescent, Islington, London"
-,Highbury Baptist Church,4,,N5 1QL,"Highbury Baptist Church, 40a, Highbury Place, London"
-,Christ Church Highbury,4,,N5 1SA,"155 Highbury Grove, Islington, London"
-,Sotheby Mews Day Centre,15,,N5 2UT,"2 Sotheby Mews, Sotheby Road"
-,Hilldrop Community Centre,6.5,,N7 0JE,"Community Lane, Hilldrop Road, London"
-,Cat and Mouse Library,28.5,,N7 0JN,"Cat and Mouse Library , 277 Camden Road, London"
-,Saint George and All Saints Church,4.5,,N7 0ND,"Crayford Road, Tufnell Park, London"
-,North Library,30.5,,N7 6JX,"Manor Gardens, London"
-,Manor Gardens Centre,25,,N7 6LA,"Manor Gardens Centre, 6-9 Manor Gardens, London"
-,Old Fire Station Community Centre,7,,N7 6QT,"84, Mayton Street"
-,Andover Estate Community Centre,45,,N7 7RY,"55 Corker Walk, Finsbury Park, London N7 7RY"
-,Light Project Pro International,44.5,,N7 8DE,"The Exchange, Watkinson Road, London"
-,Goodinge Community Centre,4,,N7 9EW,"2 Goodinge Rd, Market Estate, 20 North Road, London"
-,Mildmay Community Centre,15,,N16 8NA,Woodville Road
-,Hornsey Rise,25,,N19 3AD,"Ashley Road, Upper Holloway"
-,Caxton House Community Centre,8,,N19 3RQ,"Main Office, Caxton House Community Centre, 129 St John's Way, London"
-,St Andrew's Church,2.5,,N19 3TN,Whitehall Park (corner with Gladsmuir Rd)
-,Hornsey Lane Estate Community Association,46,,N19 3YJ,"Hornsey Lane Estate Community Centre, Hazellville Road, London"
-,Whittington Park Community Centre,12,,N19 4RS,"Whittington Park Community Association, Yerbury Road, London"
-,Archway Library,36,,N19 5PH,"Hamlyn House, Highgate Hill, London"
-,Hargrave Hall Community Centre,3.5,,N19 5SP,"Hargrave Road, London, London"
-Hounslow,Beavers library,34,,TW4 7NW,"The Hub, 103 Salisbury Road, Hounslow"
-,Bedfont library,34.5,,TW14 8DB,"Staines Road, Bedfont, TW14 8DB"
-,Brentford library,37,,TW8 8DW,"11F Boston Manor Road, Hounslow, TW8 8DW"
-,Chiswick library,53,,W4 2AB,"1 Duke's Avenue, Chiswick, W4 2AB"
-,Cranford library,34.5,,TW5 9TL,"Bath Road, Hounslow, TW5 9TL"
-,Feltham library,55.5,,TW13 4GU,"210 The Centre, High Street, Feltham, TW13 4GU"
-,Hanworth library,37,,TW13 5EG,"Hanworth Air Park Leisure Centre & Library, Uxbridge Road, Hanworth, TW13 5EG"
-,Heston library,53,,TW5 0LW,"New Heston Road, Heston, TW5 0LW"
-,Hounslow library,57.5,,TW3 3EB,"First Floor, Hounslow House, 7 Bath Road, Hounslow, TW3 3EB"
-,Isleworth library,42.5,,TW7 7EU,"Isleworth Leisure Centre & Library, Twickenham Road, Isleworth, TW7 7EU"
-,Osterley library,37,,TW7 4NB,"11 St Mary's Crescent, Isleworth, TW7 4NB"
+﻿Ward,Name,opening_hour,Opening time,Post_code,Address,Capacity,Capacity_integer
+Barking and Dagenham,Barking Learning Centre,62,"Monday to Thursday, 9am to 7pm, Friday and Saturday, 9am to 5pm, Sunday, 10am to 4pm",IG11 7NB,"2 Town Square, Barking, IG11 7NB.",82.55618952,83
+,Castle Point,14,"Monday, 10am to 2pm, Tuesday, 10 am 12pm, Wednesday, 10am to 3pm, Thursday, 12pm to 3pm",RM8 3YJ,"163 Bennett's Castle Lane, Dagenham, RM8 3YJ",18.64172022,19
+,DABD Parsloes Avenue Annex site,15,"Tuesday, Wednesday and Thursday from 10am to 3pm",RM9 5NU,"42-48 Parsloes Avenue, Dagenham, RM9 5NU",19.97327166,20
+,Dagenham Library,44,"Monday to Thursday, 10am to 6pm Friday and Saturday, 10am to 4pm",RM10 9QS,"1 Church Elm Lane, Dagenham, RM10 9QS.",58.58826353,59
+,Heath Community Hub (William Bellamy),10,"Monday and Wednesday, 10am to 3pm",RM10 7HX,"Frizlands Lane, Dagenham, RM10 7HX",13.31551444,13
+,London Riverside Church (Side Entrance),2,"Every Thursday in December (apart from 29 December), January and February, 11am to 1pm",RM9 5PT,"Parsloes Ave, Dagenham RM9 5PT",2.663102888,3
+,Marks Gate Community Hub,30,"Monday to Friday, 10am to 4pm",RM6 5NJ,"Marks Gate Community Centre, Rose Lane, Marks Gate, RM6 5NJ.",39.94654332,40
+,Northbury Community Hub,70,"Monday to Sunday, 9am to 7pm",IG11 8PY,"Al Madina Mosque, 1st floor, The Hive, 2 Victoria Road, Barking, IG11 8PY",93.20860108,93
+,Park Centre,30,"Monday, Tuesday and Friday (Main Hall),  10am - 4pm, Wednesday & Thursday (Activity Room), 10am to 4pm",RM10 9SA,"Rectory Road Dagenham, RM10 9SA",39.94654332,40
+,Robert Jeyes Library,22,"Monday to Thursday, 10:30am to 4pm",RM6 6AS,"Chadwell Heath Community Centre, High Road Chadwell Heath, RM6 6AS",29.29413177,29
+,Thames Community Hub,30,"Monday to Friday, 10am to 4pm",IG11 0LG,"Bastable Avenue, Barking, IG11 0LG",39.94654332,40
+,Valence Library,29,"Monday to Thursday, 10am to 4pm Saturday,  10am to 3pm ",RM8 3HT,"Becontree Avenue, Dagenham, RM8 3HT",38.61499187,39
+,Village Community Hub,30,"Monday to Friday, 10am to 4pm",RM10 9XW,"215 Wellington Drive, Dagenham, RM10 9XW.",39.94654332,40
+Barnet,All Saints' Church - Child's Hill,8,Wed and Thur 10 to 14,NW2 2TJ,"All Saints' Church Child's Hill, Church Walk, London, NW2 2TJ",10.65241155,11
+,Ann Owens Centre - Age UK,2,Mon 2 to 4,N2 8LT,"Ann Owens Centre, Oak Lane, East Finchley, N2 8LT",2.663102888,3
+,artsdepot,58,"Sunday 10:00 to 16:00, Monday 8:30 to 17:30, Tuesday 8:30 to 17:30, Wednesday 8:30 to 17:30, Thursday 8:30 to 17:30, Friday 8:30 to 17:30, Saturday 10:00 to 17:00",N12 0GA,"5 Nether Street, Tally Ho Corner, North Finchley, London, N12 0GA",77.22998375,77
+,Child's Hill Library - Kisharon,18,"Sunday 14:00 to 17:00, Monday 10:00 to 13:00, Tuesday 10:00 to 13:00, Wednesday 14:00 to 20:00, Thursday 14:00 to 17:00",NW2 2QE,"320 Cricklewood Lane, London, NW2 2QE",23.96792599,24
+,Chipping Barnet library,73,,EN5 4QT,"3 Stapylton Road, Barnet, EN5 4QT",97.20325541,97
+,Colindale Communities Trust,28,,NW9 5XA,"The Old Library, The Concourse, NW9 5XA",37.28344043,37
+,Colindale library,97,,NW9 4BR,"7 Bristol Avenue, Colindale, NW9 4BR",129.1604901,129
+,Copthall Leisure Centre,6,,NW4 1PX,"Champions Way, Hendon, London, NW4 1PX",7.989308664,8
+,Edgware Community Hospital,6,,HA8 0AD,"Burnt Oak Broadway, Edgware, London, HA8 0AD",7.989308664,8
+,Finchley Church End library,23.5,,N3 2LN,"318 Regents Park Rd, London, N3 2LN",31.29145893,31
+,Finchley Memorial Hospital,3,,N12 0JE,"Granville Road, London, N12 0JE",3.994654332,4
+,Friern Barnet Community Library,30,,N113DS,"Friern Barnet Road, London, N113DS",39.94654332,40
+,Grahame Park Medical Centre,6,,NW9 5XT,"The Concourse, London, NW9 5XT",7.989308664,8
+,Grange Big Local,3,,N2 0TH,"Holy Trinity Church, 77 Church Lane, N2 0TH",3.994654332,4
+,Hendon Salvation Army,3,,NW4 4AE,"1 - 5 Brampton Grove, Hendon, London, NW4 4AE",3.994654332,4
+,Hope Corner Community Centre,22.5,,EN5 2DY,"Hope Corner Community Centre, 185 Mays Lane, Barnet, London, EN5 2DY",29.95990749,30
+,Islamic Association of North London,6,,N12 0DA,"683-685 High Road, Finchley, N12 0DA",7.989308664,8
+,Jim's Community Cafe,4,,EN4 8RN,"71 East Barnet Road, St James' Church, New Barnet, EN4 8RN",5.326205776,5
+,Living Way Ministries,25,,NW9 5XB,"7 The Concourse, London, NW9 5XB",33.2887861,33
+,Middlesex University,42.5,,NW4 4BT,"Rickett Quadrangle, College Building, Middlesex University, The Burroughs, London, NW4 4BT",56.59093637,57
+,North Finchley library,15.5,,N12 9HP," Ravensdale Ave,, London, N12 9HP",20.63904738,21
+,Oakleigh Community Church,2,,N20 0UG,"168-170 Oakleigh Road, North Whetstone, London, N20 0UG",2.663102888,3
+,OneStonegrove Centre,50,,HA8 8BN,"5 Hayling Way, Edgware, HA8 8BN",66.5775722,67
+,Osidge library,68,,N11 1EY,"Brunswick Park Rd, London, N11 1EY",90.54549819,91
+,Personal Improvement Limited,30,,HA8 8NP,"Chartwell House, 292-294 Hale Lane, Edgware, HA8 8NP",39.94654332,40
+,Romanian Culture and Charity Together Burnt Oak,42,,HA8 0LN,"102a Watling Avenue, HA8 0LN",55.92516065,56
+,St Margaret's Church - Age UK,1.5,,HA8 7JE,"St Margaret's Church, 1 Station Road, Edgware, HA8 7JE",1.997327166,2
+,St Margaret's URC Church - Age UK,2,,N3 1BD,"St Margaret's URC Church, Victoria Avenue, Finchley Central, N3 1BD",2.663102888,3
+,St Paul's Church Centre,2.5,,N3 2PU,"50 Long Lane, Finchley, London, N3 2PU",3.32887861,3
+,St Peter's Church,3.5,,N10 1AQ,"St Peter's Church, Albion Avenue, Friern Barnet, N10 1AQ",4.660430054,5
+,The Mount International School - Age UK,2,,NW7 2RX,"The Mount International School, Milespit Hill, Mill Hill, NW7 2RX",2.663102888,3
+,West Hendon Centre - Age UK,1.5,,NW9 7EU,"West Hendon Centre, Gadsbury Close, Goldsmith Avenue, West Hendon, London, NW9 7EU",1.997327166,2
+Bexley,Central Library,41,,DA6 7HJ,"Townley Road, ZipBexleyheath DA6 7HJ",54.5936092,55
+,Crayford Library,33,,DA1 4FN,"176 Town Hall Square, ZipCrayford DA1 4FN",43.94119765,44
+,Erith Library,32.5,,DA8 1SL,"100 Erith High Street, ZipErith DA8 1SL",43.27542193,43
+,Sidcup Library,33.5,,DA14 6DS,"Sidcup Storyteller, 106 Sidcup High Street, ZipSidcup DA14 6DS",44.60697337,45
+,Thamesmead Library,33,,SE2 9FA,"Thamesmead Library, The Nest, 3 Cygnet Square, ZipThamesmead SE2 9FA",43.94119765,44
+,Welling Library,31.5,,DA16 3PA,"Bellegrove Road, ZipWelling DA16 3PA",41.94387048,42
+,Christ Church,2,Thursday 10am to 12pm,DA6 7BT,"Christ Church, Bexleyheath Broadway, Bexleyheath, DA6 7BT",2.663102888,3
+,Christ Church,4,Monday 9am to 1pm,DA14 6NJ,"Christ Church, Sidcup, Main Road, Bexley, DA14 6NJ",5.326205776,5
+,St Augustine,3,Tuesday 11am to 2pm,DA8 2HX,"St Augustine, Slade Green ,Slade Green Road, Slade Green, DA8 2HX",3.994654332,4
+,St John the Evangelist Church,11,,DA14 6BX,"St John the Evangelist Church, Church Road, Sidcup DA14 6BX",14.64706588,15
+,St Paulinus,3,Saturday 9.30am to 12.30pm,DA1 4RL,"St Paulinus, Crayford, Perry Street, Crayford, DA1 4RL",3.994654332,4
+,The Exchange,11,Thursday 11am to 7pm and Saturday 11am to 2pm.,DA8 1RS,"The Exchange, The Old Library, Walnut Tree Rd, Erith DA8 1RS",14.64706588,15
+,The Holy Redeemer,6,"Tuesday 2 to 4pm (hot drinks, snacks, knit, natter and crochet), Wednesday 1pm to 3pm (hot drinks, cake, chat and art activities. Free WiFi and phone charging) and Friday 9am to 11am.",DA15 8JR,"The Holy Redeemer, Sidcup, 64 Days Lane, Sidcup, DA15 8JR",7.989308664,8
+,Holy Trinity,28,Daily from 10am to 2pm.,DA15 9AE,"Holy Trinity, Lamorbey, Sidcup, Corner of Hurst Road & Half Way Street, Sidcup, DA15 9AE",37.28344043,37
+,Blackfen Community Library,35.5,Tuesday to Friday 9.30am to 5pm and Saturday 9.30am to 3pm.,DA15 9LU,"Blackfen Community Library, 7 - 9 Blackfen Parade, Blackfen DA15 9LU",47.27007626,47
+,Welling Salvation Army,4,Fridays 10am to 2pm,DA161TJ,"Welling Salvation Army, 124 Welling High Street, Welling, DA161TJ",5.326205776,5
+,New Community Church,2.5,Wednesdays 9:30am to 12pm,DA157DU,"New Community Church, 24 Station Road, Sidcup, DA157DU",3.32887861,3
+,United Reformed Church,8,"every Monday, Wednesday and Friday 10am to 12 midday at the United Reformed Church and Thursday 10am to midday in the Hall.",DA6 7DJ,"United Reformed Church, Geddes Place, Bexleyheath, DA6 7DJ",10.65241155,11
+,The Salvation Army,12,"We invite you to our Warm Welcome Space open every Tuesday, Thursday and Friday between 10am and 2pm.",DA6 8NR,"The Salvation Army, Lion Road, Bexleyheath, DA6 8NR",15.97861733,16
+Brent,St Laurence's Larder and Open Kitchen,7,,NW6 7BJ ,"Christ Church, Christchurch Avenue, London NW6 7BJ",9.320860108,9
+,Ealing Road Library,49,,HA0 4BA,"Coronet Parade, Ealing Road, Wembley, HA0 4BA",65.24602075,65
+,Harlesden Library,49,,NW10 8SE,"Craven Park Road, Harlesden, NW10 8SE",65.24602075,65
+,Kilburn library,49,,NW6 6NN,"42 Salusbury Road, Kilburn, NW6 6NN",65.24602075,65
+,Kingsbury library,49,,NW9 9HE,"Kingsbury Library, 522-524, Kingsbury Road, London",65.24602075,65
+,Wembley library,59,,HA9 0FJ,"Brent Civic Centre, Engineers Way, Wembley HA9 0FJ",78.56153519,79
+,The Library at Willesden Green,59,,NW10 2SF,"95 High Road, Willesden, NW10 2SF",78.56153519,79
+,Brent Hubs,14,,NW6 5GG,"Hornbill House, 2 Rudolph Rd, North Maida Vale, London NW6 5GG",18.64172022,19
+,Brent Hubs,14,,NW10 0TY,"65, The living room Next, 80 Besant Way, London NW10 0TY",18.64172022,19
+,Brent Hub Community Enterprise Centre,56,,NW10 8BN,"6 Hillside, London NW10 8BN",74.56688086,75
+Bromley,"Anerley Town Hall, Crystal Palace Community Trust (over 55s)",37.5,,SE20 8BD,Anerley Town Hall,49.93317915,50
+,Beckenham Library,41.5,,BR3 4PE,Beckenham Road,55.25938492,55
+,Biggin Hill Library,67,,TN16 3LB,"Church Road, Biggin Hill",89.21394674,89
+,Bromley Central Library,55,,BR1 1EX,Bromley High Street,73.23532942,73
+,Bromley Common Baptist Church,1.5,,BR2 8PE,Gravel Road,1.997327166,2
+,Bromley Salvation Army,16,,BR1 1HU,Ethelbert Road,21.3048231,21
+,Bromley United Reformed Church,4,,BR1 1RY,20 Widmore Rd,5.326205776,5
+,Brook Lane Community Church (BLCChurch),36.5,,BR1 4PX,27-29 Brook Lane Bromley,48.6016277,49
+,Burnt Ash Library,19.5,,BR1 5AF,Burnt Ash Lane,25.96525316,26
+,Chelsfield Community Cafe at Chelsfield Village Hall,1,,BR6 7RL,Bucks Cross Road,1.331551444,1
+,Chislehurst Library,39.5,,BR7 6DA,Red Hill,52.59628204,53
+,Christ Central Church,34,,SE20 7JA,Green Lane,45.27274909,45
+,"Christ Church, Orpington",25.5,,BR6 9EP,Charterhouse Road,33.95456182,34
+,Coney Hall Baptist Church,3,,BR4 9BU,"Coney Hill Road,",3.994654332,4
+,Crofton Baptist Church,35,,BR51HD,100 Crofton Lane,46.60430054,47
+,Emmanuel United Reformed Church,8,,BR4 9JS,"The Grove,",10.65241155,11
+,Geffery's Hall (CEYP),6,,SE9 4TA,27 Nunnington Close,7.989308664,8
+,"Green Bird Cafe, St John's Church",7,,BR3 3JN,251 Eden Park,9.320860108,9
+,Green Street Green Baptist Church 'Warm Welcome Space',4,,BR6 6AA,1 Worlds End lane,5.326205776,5
+,Hayes Library,23.5,,BR2 7LH,Hayes Street,31.29145893,31
+,Holy Innocents (Cafe Joseph),11,,BR6 9UE,"Strickland Way,",14.64706588,15
+,Hope Church Orpington,3,,BR6 0TW,Units 7 to 9 The Walnuts,3.994654332,4
+,Melvin Hall,64,,SE20 8EU,"Melvin Road,",85.21929241,85
+,Mottingham Library,39.5,,SE9 4QZ,31 Mottingham Road,52.59628204,53
+,Oak Community Church,8,,BR5 2LJ,345 Chipperfield Road,10.65241155,11
+,"Orpington Baptist Church and ""The Lounge """,12,,BR6 0RZ,"Station Road,",15.97861733,16
+,Orpington Library,51,,BR6 0TW,The Walnuts,67.90912364,68
+,"Parish Church of St Mary, Shortlands",2,,BR2 0HG,"Church House, 39 Kingswood Road",2.663102888,3
+,Penge East Community Centre,24,,SE20 7BE,"Penge East Railway Station Carpark, Station Road",31.95723465,32
+,Penge Library,49,,SE20 7JX,46 Green Lane,65.24602075,65
+,Petts Wood Library,39.5,,BR5 1BP,Frankswood Avenue,52.59628204,53
+,Queen Adelaide Community Centre,84,,SE20 7EA,"Queen Adelaide Court, Queen Adelaide Road,",111.8503213,112
+,Shortlands Library,39.5,,BR2 0JP,110 Shortlands Road,52.59628204,53
+,Southborough Library,36,,BR2 8AP,"Southborough Lane, Bromley",47.93585198,48
+,"St Augustine's Church, BR2",1.5,,BR2 8AT,Southborough Lane,1.997327166,2
+,St Edwards Mottingham,61,,SE9 4AQ,St Keverne Road,81.22463808,81
+,St Francis of Assisi Church,15.5,,BR4 0PW,Ravenswood Avenue,20.63904738,21
+,St Hugh's Community Centre,81,,SE20 8PL,"42 Castledine Road,",107.855667,108
+,St Johns Church Penge Lunchtime Club,2.5,,SE20 7EQ,2 St Johns Road,3.32887861,3
+,"St Nicholas Church, Orpington",1,,BR6 9QB,"Leamington Avenue,",1.331551444,1
+,St Paul's Cray Library,39.5,,BR5 2RW,"Mickleham Road, St Paul's Cray",52.59628204,53
+,"St Paul's Crofton, Elderberry Café",2.5,,BR6 8JE,"Parish Church of St Paul's, Crofton Road,",3.32887861,3
+,"St. George's Church, Beckenham",25.5,,BR3 1HX,"High Street,",33.95456182,34
+,Turpington Lane Community Centre,4,,BR2 8JX,"Turpington Lane,",5.326205776,5
+,"Unity Church, Orpington",7,,BR5 4NH,"Rye Crescent,",9.320860108,9
+,"Well Community Cafe, Living Well, Holy Trinity Church",9,,SE20 7LX,66 Lennard Road,11.983963,12
+,West Wickham & Shirley Baptist Church,21,,CR0 8EH,Wickham Road,27.96258032,28
+,West Wickham Library,23.5,,BR4 0SH,"Glebe Way, West Wickham",31.29145893,31
+,West Wickham Methodist Church,3.5,,BR4 9AA,Hawes Lane (corner of Linden Leas),4.660430054,5
+Camden,Belsize Community Library,24,,NW3 4XN,"Belsize Community Library, Antrim Road, London",31.95723465,32
+,Camden Town library,44,,NW1 1BD,"Camden Town Library, 218 Eversholt Street",58.58826353,59
+,Highgate library,29,,N19 5DH,"Highgate Library, Chester Road",38.61499187,39
+,Holborn library,49,,WC1X 8PA,"Holborn Library, 32-38 Theobalds Road",65.24602075,65
+,Kentish Town Library,49,,NW5 2AA,"Kentish Town Library, 262- 266 Kentish Town Road",65.24602075,65
+,Kilburn library,49,,NW6 5UH,"Kilburn Library,12-22 Kilburn High Road",65.24602075,65
+,Pancras Square library,78,,N1C 4AG,"Pancras Square Library, 5 Pancras Square",103.8610126,104
+,Queens Crescent library,41,,NW5 4HH,"Queens Crescent Library, 165 Queen's Crescent",54.5936092,55
+,Swiss Cottage library,54,,NW3 3HA,"Swiss Cottage Library, 88 Avenue Road",71.90377797,72
+,The British Library,61,,NW1 2DB,"The British Library, 96 Euston Road, London",81.22463808,81
+,West Hampstead library,41,,NW6 1AU,"West Hampstead Library, Dennington Park Road",54.5936092,55
+,Agar Childrens Centre,50,,NW1 9SU,"Lulworth, Wrotham Road, London",66.5775722,67
+,Harmood Childrens Centre,50,,NW1 8DQ,"1, Forge Place, London",66.5775722,67
+,Kilburn Grange Childrens Centre,50,,NW6 2JL,"1, Palmerston Road, London",66.5775722,67
+,Regent's Park Children's Centre,50,,NW1 3TJ,"Augustus Street, London",66.5775722,67
+,Kentish Town Sports Centre,94,,NW5 3DU,"Grafton Rd, London",125.1658357,125
+,Oasis Sports Centre,94.5,,WC2H 9AG,"32 Endell St, London",125.8316115,126
+,Pancras Square Leisure,97.5,,N1C 4AG,"5 Pancras Sq, London",129.8262658,130
+,Swiss Cottage Leisure Centre,97.5,,NW3 3NF,"4a Adelaide Rd, London",129.8262658,130
+,Talacre Community Sports Centre,85,,NW5 3LN,"Dalby St, London",113.1818727,113
+,Bengali Workers Association,37.5,,NW1 3JU ,"The Surma Community Centre, 1 Robert Street, NW1 3JU",49.93317915,50
+,Bourne Estate Tenant Residents Association,22.5,,EC1N 7AA,"Allen Hall, Unit 1 Dobson Court, Bourne Estate, EC1N 7AA",29.95990749,30
+,British Somali Community Centre,5.5,,NW1 1TU,"7-9 Crowndale Road, NW1 1TU",7.323532942,7
+,Castlehaven Community Association,40,,NW1 8RU,"23 Castlehaven Road, NW1 8RU",53.26205776,53
+,Community Association for West Hampstead,8,,NW6 1QN,"17 Dornfell Street, NW6 1QN",10.65241155,11
+,Fitzrovia Community Centre,2,,W1W 6DL,2 Foley Street W1W 6DL,2.663102888,3
+,Holborn Community Association - Holborn House Community Centre,81,,WC1N 3QW,"35 Emerald Street, WC1N 3QW",107.855667,108
+,Holborn Community Association - Millman Street Community Centre,35,,WC1N 3EW,"50 Millman Street, WC1N 3EW",46.60430054,47
+,JW3,33,,NW3 6ET,"341-351 Finchley Road, NW3 6ET",43.94119765,44
+,Kentish Town City Farm,56,,NW5 4BN,"1 Cressfield Close, NW5 4BN",74.56688086,75
+,Kentish Town Community Centre,15,,NW5 2SP ,"17 Busby Place, NW5 2SP ",19.97327166,20
+,King's Cross Brunswick Neighbourhood Association (KCBNA) - Chadswell Healthy Living Centre,2,,WC1H 8JF,"Chadswell Healthy Living Centre, Harrison Street, WC1H 8JF",2.663102888,3
+,King's Cross Brunswick Neighbourhood Association (KCBNA) - The Marchmont Centre,42,,WC1N 1AB,"62 Marchmont Street, WC1N 1AB",55.92516065,56
+,Lauderdale House,8,,N6 5HG,"Waterlow Park, N6 5HG",10.65241155,11
+,London Irish Centre,40,,NW1 9XB,"50-52 Camden Square, NW1 9XB",53.26205776,53
+,N1C Centre - Somali Youth Development Resource Centre,34,,N1C 4BQ,"Plimsoll building, N1C 4BQ",45.27274909,45
+,Netherwood Youth and Family Hub,16,,NW6 2QU ,"5 Netherwood Street, NW6 2QU ",21.3048231,21
+,Old Diorama Arts Centre,69,,NW1 3FE,"201 Drummond Street, NW1 3FE",91.87704963,92
+,Primrose Hill Community Centre,4,,NW1 8TN,"29 Hopkinson's Place, NW1 8TN",5.326205776,5
+,Queens Crescent Community Association,40,,NW5 4QE,"45 Ashdown Crescent, NW5 4QE",53.26205776,53
+,Sidings Community Centre,6,,NW6 2BA,"16 Brassey Road, NW6 2BA",7.989308664,8
+,Somers Town Community Association,40,,NW1 1DF,"2 Ossulston Street, NW1 1DF",53.26205776,53
+,Somers Town Youth Centre,9,,NW1 1RX ,"134 Chalton Street, NW1 1RX ",11.983963,12
+,St George the Martyr Church,12,,WC1N 3AH,"44 Queen Square, WC1N 3AH",15.97861733,16
+,St Pancras Community Association,8,,NW1 OLB,"67 Plender Street, NW1 OLB",10.65241155,11
+,South Hampstead and Kilburn Partnership (SHAK) - The ARC Youth Club,24,,NW8 0SW ,"Alexandra Resource Centre, Opposite 109 Rowley Way, NW8 0SW",31.95723465,32
+,South Hampstead and Kilburn Partnership (SHAK) - Shell Centre 1,24,,NW8 0HS,"Shell 1 - Linnell House, Boundary Road, NW8 0HS",31.95723465,32
+,South Hampstead and Kilburn Partnership (SHAK) - Shell Centre 2,24,,NW8 0HU,"Shell 2 - Fielding House, Boundary Road, NW8 0HU",31.95723465,32
+,The Francis Crick Institute,28,,NW1 1AT,"1 Midland Road, NW1 1AT",37.28344043,37
+,The O2 Centre,2,,NW3 6LU,"The Venue Hall (located on level 2), 255 Finchley Road, NW3 6LU",2.663102888,3
+,The Pirate Castle,32.5,,NW1 7EA,"Gilbey's Wharf, Oval Road, NW1 7EA",43.27542193,43
+,Third Age Project ,30,,NW1 3RH,"Cumberland Market, Regent's Park, NW1 3RH",39.94654332,40
+City of London,Barbican Library,50.5,,EC2Y 8DS,"Barbican Library, Barbican Centre London, England, EC2Y 8DS, United Kingdom",67.24334792,67
+,Shoe Lane Library,41,,EC4A 3JR,1 Hill House Little New Street,54.5936092,55
+,Artizan Street Library,49,,E1 7AF,"1 Artizan St, London",65.24602075,65
+Croydon,Ashburton Hall & Park - Cafe,4,"Tuesday and Thursday 12noon to 2pm, The cafe will be closed from 19 December to 2 January 2023",SE25 4SP,"Woodside Baptise Church, Spring Lane, London, SE25 4SP.",5.326205776,5
+,Ashburton Library,32,"Monday, Tuesday and Thursday 10am to 6pm, Saturday 9am to 5pm",CR9 7AL,"Shirley Road, London, CR9 7AL.",42.60964621,43
+,Bradmore Green Library,16,Tuesday and Friday 10am to 6pm,CR5 1PE,"Bradmore Way, Coulsdon, CR5 1PE.",21.3048231,21
+,Broad Green Library,16,Monday and Thursday 10am to 6pm,CR0 3HH,"Canterbury Road, London, CR0 3HH.",21.3048231,21
+,Central Library,40,"Monday, Tuesday, Wednesday, Friday 10am to 6pm",CR9 1ET,"Katharine Street, London, CR9 1ET.",53.26205776,53
+,"Coffee, Craft & Chatter at All Saints Church, Kenley",2,Wednesday 10am to 12 noon,CR8 5DW,"Church Road, London, CR8 5DW.",2.663102888,3
+,Coulsdon Library,24,"Monday and Thursday 10am to 6pm, Saturday 9am to 5pm",CR5 2NH,"Brighton Road, Coulsdon, CR5 2NH.",31.95723465,32
+,Emmanuel Community Centre,8,Friday 8.45am to 5pm,CR2 7AQ,"Rockhampton Road, London, CR2 7AQ.",10.65241155,11
+,His Grace Evangelical Outreach Church,5,"Tuesday 12 noon to 2pm, Thursday 3pm to 6pm",CR7 8JF,"His Grace Evangelical Outreach, 80-82 Beaulah Road, Croydon, CR7 8JF.",6.65775722,7
+,Matthews Yard,16,,CR0 1UF,"North End 166, London, CR0 1UF.",21.3048231,21
+,MHA Communities South London,2,,CR0 2RF,"West Croydon Methodist Church, London Road, Croydon, CR0 2RF.",2.663102888,3
+,MHA The Wilderness,3,,CR9 5AL,"Shirley Church Road, London, CR9 5AL.",3.994654332,4
+,New Addington Baptist Church,7,,CR0 0EE,"New Addington Baptist Church, Arnhem Drive, Croydon, CR0 0EE.",9.320860108,9
+,New Addington Library,24,,CR0 0JD,"Central Parade, New Addington, CR0 0JD.",31.95723465,32
+,Norbury Library,24,,SW16 4UW,"Beatrice Avenue, London, SW16 4UW.",31.95723465,32
+,Oasis Academy Shirley Park,12,,CR9 7AL,"Shirley Road, Croydon, CR9 7AL.",15.97861733,16
+,Old Coulsdon Congregational Church,8,,CR5 2LG,"Coulsdon Road 1, London, CR5 2LG.",10.65241155,11
+,Palace For Life Foundation,4,,SE25 6PU,"Selhurst Park, London, se25 6pu.",5.326205776,5
+,Phoenix Community Centre,16,,SE19 3AB,"Phoenix Community Centre, Westow Street, London, SE19 3AB.",21.3048231,21
+,Purley Library,16,,CR8 3YH,"Banstead Road, London, CR8 3YH.",21.3048231,21
+,Purley United Reform Church,7,,CR8 2LN,"Brighton Road 922, London, CR8 2LN.",9.320860108,9
+,"Quiz, Craft and Tea at Christ Church, Broad Green",3,,CR0 3LJ,"Sumner Road, London, CR0 3LJ.",3.994654332,4
+,Sanderstead Library,24,,CR2 0HQ,"Farm Fields, London, CR2 0HQ.",31.95723465,32
+,Selsdon Library,24,,CR2 8LA,"Addington Road 130, London, CR2 8LA",31.95723465,32
+,Shirley Library,16,,CR0 8BH,"Wickham Road, London, CR0 8BH.",21.3048231,21
+,South Norwood Community Kitchen,23,,SE25 4UF,"44b Portland Road, London, SE25 4UF.",30.62568321,31
+,South Norwood Library,16,,SE25 5AA,"Lawrence Road, London, SE25 5AA.",21.3048231,21
+,St Alban the Martyr Church,2,,SE25 6RE,"1 Whitehorse Lane, London, SE25 6RE.",2.663102888,3
+,St Andrew's Roman Catholic Church,5,,CR7 7DA,"St. Andrew's Church Hall, Quadrant Road, London, CR7 7DA.",6.65775722,7
+,St Francis Monks Hill,3.5,,CR2 8HP,"107 Broadcoombe,, 107 Broadcoombe,, Croydon, CR2 8HP.",4.660430054,5
+,St George's Church Centre,3.5,,CR0 4EZ,"Barrow Road, London, CR0 4EZ.",4.660430054,5
+,St Mary the Blessed Virgin,6,,CR0 5AS,"Addington Village Road, London, CR0 5AS.",7.989308664,8
+,St Michael's Church,3,,CR0 1UA,"Poplar Walk, London, CR0 1UA.",3.994654332,4
+,St Mildred's Parish Church,2.5,,CR0 7EB,"St Mildred's Parish Church, 30 Bingham Road, Croydon, CR0 7EB.",3.32887861,3
+,St Oswald's Parish Hall,4,,SW16 3SB,"St. Oswald's Road, London, SW16 3SB.",5.326205776,5
+,St Paul's United Reformed Church,3,,CR2 7AE,"St Paul's United Reformed Church, Croham Road, London, CR2 7AE.",3.994654332,4
+,St. Edward King and Confessor Church,6,,CR0 0DL,"St. Edward King and Confessor Church, Cleves Crescent, Croydon, CR0 0DL.",7.989308664,8
+,The Hub on the Hill at St Barnabas Church,1.5,,CR8 2HR,"Higher Drive 69, London, CR8 2HR.",1.997327166,2
+,"The Hub, Kenley Memorial Hall",1,,CR8 5AB,"Godstone Road 92, London, CR8 5AB.",1.331551444,1
+,The Oval Tavern,72.5,,CR0 6BR,"Oval Road 131, London, CR0 6BR.",96.53747969,97
+,The Salvation Army,4,,CR0 1XY,"Booth Road, London, CR0 1XY.",5.326205776,5
+,Thornton Heath Library,24,,CR7 7JH,"Brigstock Road, London, CR7 7JH.",31.95723465,32
+,Torchlight Ministries,2,,SE25 6XX,"Brookhurst Court,, 190 Selhurst Road, South Norwood, London, SE25 6XX.",2.663102888,3
+,Waddon Leisure Centre,6,,CR0 4GD,"Waddon Leisure Centre, Purley Way, Croydon, CR0 4GD.",7.989308664,8
+,Heart and Soul Pop Up Cafe,2,,SW16 3SB,"St. Oswald's Road, London, SW16 3SB.",2.663102888,3
+,West Wickham and Shirley Baptist Church,8,,CR0 8EB,"Wickham Road, London, CR0 8EB.",10.65241155,11
+Ealing,Greenford Library,30,,UB6 9LG,"Greenford Library, Oldfield Lane South, Greenford, Middlesex UB6 9LG",39.94654332,40
+,Jubilee Gardens Health Centre,30,,UB1 2TJ,"Jubilee Gardens Health Centre, Jubilee Gardens, Southall UB1 2TJ",39.94654332,40
+,Ealing Central Library,51,,W5 5JY,"Ealing Central Library, Ealing Broadway Centre, Ealing W5 5JY",67.90912364,68
+,The Hub in the foyer at St. Pauls Ealing,2.5,,W13 9XW,"St Paul's Church, Ealing, Ridley Ave, London W13 9XW, UK",3.32887861,3
+,Northolt Leisure Centre,30,,UB5 4AB,"Northolt Leisure Centre, Eastcote Lane North, Northolt UB5 4AB",39.94654332,40
+,Northolt Library,48,,UB5 5AS,"Church Road, Northolt, Middlesex UB5 5AS",63.91446931,64
+,"Saint Joseph the Worker Parish Church, Northolt",6,,UB5 6JT,"Off Beauvais Terrace, Yeading Ln, Northolt UB5 6JT, UK",7.989308664,8
+,Asian Community Concern,56,,UB2 5PA,"Unit 2, Luther House, 30 Montague Waye, Southall UB2 5PA",74.56688086,75
+,Arya Samaj London,6,,W13 0LY,"Arya Samaj, Argyle Road, London W13 0LY, UK",7.989308664,8
+,Hanwell Community Library,27,,W7 3HL,"Hanwell Community Library Cherington Road, London W7 3HL",35.95188899,36
+,Pitshanger Methodist Church,3,,W5 1QP,"Pitshanger Methodist Church, Pitshanger Lane, London W5 1QP, UK",3.994654332,4
+,Clementina Day Centre,8,,UB6 0PD,"All Hallows Church, 72 Horsenden Lane North, Greenford UB6 0PD, UK",10.65241155,11
+,Southall Library,51,,UB2 4BQ,"Dominion Centre and Library, 112 The Green, Southall, Middlesex UB2 4BQ",67.90912364,68
+,St John's Parish Centre,12,,UB2 4NT,"St John's Parish Centre, Guru Nanak Road, Southall",15.97861733,16
+,Ealing Carers Hub,3,,W3 8PH,"Sycamore Lodge, Edgecote Close, London W3 8PH, UK",3.994654332,4
+,Acton Town Hall Library,48,,W3 6NE,"Acton Town Hall Library, Everyone Active Acton Centre, High Street, Acton W3 6NE",63.91446931,64
+,St Mary's Church,4,,W7 3QP,"St Mary's Church Hall, 62 Greenford Avenue",5.326205776,5
+,West Ealing Community Library,21,,W13 9BT,"Melbourne Ave, London W13 9BT",27.96258032,28
+,St Mary with St Richard Memory Cafe,2,,UB5 6AA,"St Marys C Of E Church, Northolt, UB5 6AA",2.663102888,3
+,Umeed Wellbeing Hub,6,,UB1 1AT,"88 Lancaster Road, Southall UB1 1AT, UK",7.989308664,8
+,"St George's Church, Southall",4,,UB1 1NP,"St George's C of E Church, Southall, Lancaster Road, Southall UB1 1NP, UK",5.326205776,5
+,Southall Christian Fellowship,5,,UB2 4BL,"7 Osterley Park Rd, Southall UB2 4BL, UK",6.65775722,7
+,"St Mary's Church, Norwood Green",4,,UB2 4LQ,"Parish Church of Saint Mary the Virgin Norwood Green, Tentelow Lane, Southall UB2 4LQ, UK",5.326205776,5
+,Southall Baptist Church,6,,UB2 5DS,"Southall Baptist Church, Western Road, Southall UB2 5DS, UK",7.989308664,8
+,Greenford Baptist Church,6,,UB6 9UA,"Greenford Baptist Church, Beechwood Avenue, Greenford UB6 9UA",7.989308664,8
+,UKIM West London Islamic Centre,4,,W13 0SQ,"West London Islamic Centre, Brownlow Road, West Ealing, London, West Ealing W13 0SQ, UK",5.326205776,5
+,Perivale Library,24,,UB6 7NT,"Perivale Community Hive, Horsenden Lane South, Perivale UB6 7NT ",31.95723465,32
+,St Barnabas Church Memory Café,1.5,,W5 1QG,"St Barnabas Church, Pitshanger Lane, London W5 1QG, UK",1.997327166,2
+,A2Dominion Warm Hub and advice,4,,W13 9LA,"Lido Centre, Mattock Lane, London, W13 9LA",5.326205776,5
+,Nucleus,3.5,,W13 9LA,"Lido Centre, Mattock Lane, London, W13 9LA",4.660430054,5
+,Northfields Community Library,27,,W5 4UA ,"Northfields Community Library, Northfield Avenue, London W5 4UA ",35.95188899,36
+,Mael Gael,30,,UB2 4LA,"Norwood Hall, Norwood Green Road, Southall UB2 4LA, UK",39.94654332,40
+,"Emmanuel Church, Southall",7,,UB1 3LP,"Emmanuel Church, Fleming Road, Southall UB1 3LP, UK",9.320860108,9
+,Voice of Women London Ltd,4,,UB1 2HE,"Christ The Redeemer C Of E Church, Allenby Road, Sunnycroft Road, Southall, UK",5.326205776,5
+,Education and Skills Development Group (ESDEG),5,,UB5 6HW,"Viking Community Centre, Radcliffe Way, Northolt UB5 6HW, UK",6.65775722,7
+,Somali Women's Empowerment & Organising Services,48,,UB2 5EQ,"32 Sussex Road, Southall UB2 5EQ, UK",63.91446931,64
+Enfield,Edmonton Green Library,56.5,,N9 0TN,"36-44 South Mall, Edmonton",75.23265658,75
+,Enfield Town Library,62.5,,EN2 6AX,"66 Church Street, Enfield, EN2 6AX",83.22196525,83
+,Ordnance Unity Centre Library,49.5,,EN3 6ND,"645 Hertford Road, Enfield, EN3 6ND",65.91179648,66
+,Palmers Green Library,49.5,,N13 4EY,"Broomfield Lane, Palmers Green, N13 4EY",65.91179648,66
+,Angel Raynham Library,19,,N18 2JQ,"Raynham Primary School, Raynham Avenue, London, N18 2JQ",25.29947743,25
+,Bowes Road Library,24,,N11 1BD,"Bowes Road, London, N11 1BD",31.95723465,32
+,Bullsmoor Library,24,,EN1 4QS,"Kempe Road, Enfield, EN1 4QS",31.95723465,32
+,Enfield Highway Library,36,,EN3 5JH,"Enfield Business Centre, 201 Hertford Road, Enfield, EN3 5JH",47.93585198,48
+,Enfield Island Village Library,20,,EN3 6GS,"Unit 44-46 Island Centre Way, Enfield, EN3 6GS",26.63102888,27
+,Fore Street Library,40,,N18 2XF,"109-111 Fore Street, Edmonton, N18 2XF",53.26205776,53
+,John Jackson Library,43,,EN1 1DW,"Agricola Place, Enfield, EN1 1DW",57.25671209,57
+,Millfield House Library,35,,N18 1PJ,"Millfield Arts Centre, Silver Street, Edmonton, N18 1PJ",46.60430054,47
+,Oakwood Library,53.5,,N14 4XA,"185-187 Bramley Road, N14 4XA",71.23800225,71
+,Ponders End Library,43,,EN3 4EZ,"198-200 High Street, Ponders End, EN3 4EZ",57.25671209,57
+,Ridge Avenue Library,50,,N21 2RH,"Ridge Avenue, Winchmore Hill, N21 2RH",66.5775722,67
+,Southgate Library,45,,N14 6BP,"High Street, Southgate, N14 6BP",59.91981498,60
+,Winchmore Hill Library,35.5,,N21 3AP,"Green Lanes, Winchmore Hill, N21 3AP",47.27007626,47
+,Chicken Shed,4.5,,N14 4PE,"Bramley Sports Ground, 290 Chase Side, Southgate",5.991981498,6
+,Community Smiles,15,,EN3 7FN,"Vincent House, Nags Head Road, Ponders End",19.97327166,20
+,Daisybeats,1,,N9 7EN,"St Edmunds Church Hall, 115 Hertford Road, Lower Edmonton",1.331551444,1
+,ECYPS,7.5,,N9 0UR,"The Ark, 500 Montagu Road, Lower Edmonton",9.98663583,10
+,Edmonton Islamic Centre,2,,N18 2SJ,"Raynham Road, Upper Edmonton",2.663102888,3
+,Enact,7.5,,EN3 6GS,"Enfield Island Village Youth Centre, 14-16 Island Centre Way, Enfield Lock",9.98663583,10
+,Enfield Caribbean Association,3,,N9 0BU,"Green Tower Community Centre, Plevna Road, Edmonton Green",3.994654332,4
+,Exodus,6,,N9 7BA,"1 Croyland Youth Centre, Croyland Road, Lower Edmonton",7.989308664,8
+,Fore Street Pantry,2,,N9 0PN,"Edmonton Methodist Church, 300 Fore Street, Edmonton Green",2.663102888,3
+,Ordnance Pantry,2,,EN3 6BW,"Ordnance Methodist Church, Ordnance Road, Enfield Lock",2.663102888,3
+,Phoenix Family Support Services,15,,N9 8LP,"229 Bounces Road, Lower Edmonton",19.97327166,20
+,Ponders End Food Hub,2,,EN3 4DG,"378 High Street, Ponders End",2.663102888,3
+,Rumi Mosque,2.5,,N9 0NU,"337 Fore Street, Lower Edmonton",3.32887861,3
+,St Demetrois Foodbank,2,,N9 0LP,"Corner of Logan Road, Town Road, Edmonton Green",2.663102888,3
+Greenwich,Abbey Wood Community Centre,48,,SE2 0YS,"Abbey Wood Community Centre 4 Knee Hill, Abbey Wood, London SE2 0YS",63.91446931,64
+,Abbey Wood Library,32,,SE2 9PT,Eynsham Drive Abbey Wood SE2 9PT,42.60964621,43
+,Armada Community Project,4,Thursday: 11am to 3pm,SE8 3EZ,Armada Court 21 McMillan Street SE8 3EZ,5.326205776,5
+,Barnfield Hub,84,Monday to Sunday 10am to 10pm,SE18 3BD,Barnfield Hub Herbert Place Plumstead SE18 3BD,111.8503213,112
+,Black Female Entrepreneur Greenwich,54,,SE18 4DW,LALU Catering Restaurant 7 Leslie Smith Square Woolwich Common SE18 4DW,71.90377797,72
+,Blackheath Library,52.5,"Monday: 10am to 7pm, Tuesday: 9am to 5:30pm, Wednesday: 9am to 5:30pm, Thursday: 9am to 7pm, Friday: 9am to 5:30pm, Saturday: 9am to 5pm, Sunday: Closed",SE3 7BT,Old Dover Road Blackheath SE3 7BT,69.90645081,70
+,Bromley Reform Synagogue,2,10.30am to 2.30pm the second and fourth Wednesdays of the month,BR1 4AD,28 Highland Road Bromley Kent BR1 4AD,2.663102888,3
+,Brookhill Children's Centre,1.5,Tuesday 1pm to 2.30pm reception area (overseen by reception staff and one other member of the team),SE18 6BD,Brookhill Children's Centre 42 Brumwell Avenue Woolwich SE18 6BD,1.997327166,2
+,Central Eltham Youth Project,37.5,Monday to Friday 10.30am to 2pm and 3pm to 6pm,SE9 5DN,"CEYP 4 Pound Place, Eltham London SE9 5DN",49.93317915,50
+,Charlton Library,32,"Monday: 2pm to 7pm, Tuesday: 9am to 1pm then 2pm to 5:30pm, Wednesday: Closed, Thursday: 2pm to 7pm, Friday: 9am to 1pm then 2pm to 5:30pm, Saturday: 9am to 1pm, then 2pm to 5pm, Sunday: Closed",SE7 8RE,Charlton House Charlton Road SE7 8RE,42.60964621,43
+,Clockhouse Community Centre,55,Monday to Friday 8.30am to 7.30pm,SE18 5QL,Clockhouse Community Centre Defiance Walk Woolwich Dockyard London SE18 5QL,73.23532942,73
+,Coldharbour Library,29,"Monday: 2pm to 5.30pm Tuesday: 9am to 1pm then 2pm to 5:30pmWednesday: Closed, Thursday: 2pm to 5.30pm, Friday: 9am to 1pm then 2pm to 5.30pm, Saturday: 9am to 1pm, then 2pm to 5pm, Sunday: Closed",SE9 3AY,William Barefoot Drive Eltham SE9 3AY,38.61499187,39
+,Commmunity Association of New Eltham,18,,SE9 3QT,Commmunity Association of New Eltham Southwood Road Eltham SE9 3QT,23.96792599,24
+,Discovery Children's Centre,4,Main area Monday and Thursday 11.30am to 1.30pm (unstaffed),SE28 0JN,Discovery Children's Centre Battery Road Thamesmead SE28 0JN,5.326205776,5
+,Eltham Centre Library,57.5,"Monday: 9am to 7pm Tuesday: 9am to 5:30pm, Wednesday: 9am to 5:30pm, Thursday: 9am to 7pm, Friday: 9am to 5:30pm, Saturday: 9am to 5pm, Sunday: 12noon to 4pm",SE9 1HA,Archery Road Eltham SE9 1HA,76.56420803,77
+,Eltham Green Community Church,2,Fridays 10am to 12noon,SE9 6DH,542 Westhorne Avenue SE9 6DH,2.663102888,3
+,Eltham Park Baptist Church,2,Friday 10am to 12noon,SE9 1JE,Eltham Park Baptist Church 32A Westmount Road Eltham SE9 1JE,2.663102888,3
+,Forum Greenwich,6,Wednesday and Friday 1pm to 4pm,SE10 9EQ,Forum Greenwich Christ Church Trafalgar Road Greenwich SE10 9EQ,7.989308664,8
+,Hawksmoor Youth Club,4,Monday and Tuesday 9am to 11am,SE28 8AS,Hawksmoor Youth Club Bentham Road Thamesmead SE28 8AS,5.326205776,5
+,Middle Park Community Centre,55,,SE9 5SD,Middle Park Community Centre 150 Middle Park Avenue Eltham SE9 5SD,73.23532942,73
+,Mottingham Methodist Church,4,Wednesday 10am to 2pm,SE9 4QR,Methodist Church Mottingham Road Mottingham Village SE9 4QR,5.326205776,5
+,Mycenae House,9,Monday to Saturday 9am to 10.30pm,SE3 7SE,Mycenae House 90 Mycenae Road London SE3 7SE,11.983963,12
+,National Maritime Museum,49,10am to 5pm,SE10 9NF,Voyagers Gallery National Maritime Museum Romney Road SE10 9NF,65.24602075,65
+,New Charlton Community Centre,71.5,,SE7 8DB,New Charlton Community Centre 217 Maryon Road Charlton SE7 8DB,95.20592824,95
+,New Eltham Library,35,,SE9 3QT,Southwood Road New Eltham SE9 3QT,46.60430054,47
+,New Eltham Methodist Church and Community Centre,3,Wednesday 10am to 1pm,SE9 3UL,The Centre New Eltham Methodist Church 435 Footscray Road New Eltham SE9 3UL,3.994654332,4
+,Plumstead Centre Library,52.5,"Monday: 9am to 5.30pm Tuesday: 9am to 5:30pmWednesday: 9am to 5:30pm, Thursday: 9am to 7pm, Friday: 9am to 5:30pm, Saturday: 9am to 5pm, Sunday: Closed",SE18 1DB,Plumstead High Street SE18 1DB,69.90645081,70
+,Pound Park Children's Centre,3,Tuesday 3.30pm to 5pm and Thursday 12.30pm to 2pm,SE7 8AF,Pound Park Children's Centre Pound Park Road Charlton SE7 8AF,3.994654332,4
+,Quaggy Children's Centre,8,"Monday, Wednesday, Thursday 3.30pm to 5.30pm and Friday 11am to 1pm (creche room)",SE13 7QZ,Quaggy Children's Centre Orchard Road Hill Lewisham SE13 7QZ,10.65241155,11
+,Roots4Life,4.5,,SE9 3UL,245 Footscray Road London,5.991981498,6
+,Samuel Montagu Youth Centre,13,Monday to Friday 4pm to 9pm and Saturday to Sunday 9am to 5pm,SE3 8ND,Samuel Montagu Youth Centre 122 Broad Walk Kidbrooke SE3 8ND,17.31016877,17
+,Seniors in Touch,3,Tuesday 11am to 2pm,SE28 8DJ,Titmuss Avenue Baptist Church Hall 85 Titmuss Avenue Thamesmead SE28 8DJ,3.994654332,4
+,Sherington Children's Centre,6.5,Monday 12.30pm to 2pm and Wednesday 3.30pm to 5pm (creche room) - 3.30pm to 5pm on Monday and Thursday (creche room staffed),SE7 7JW,Sherington Children's Centre 14 Sherington Road Charlton SE7 7JW,8.655084386,9
+,Shrewsbury House Community Centre,20,"Monday to Friday 9am to 10pm, Saturday 9am to 4pm. Closed Sundays and bank holidays.",SE18 3EG,Shrewsbury House Community Centre Bushmoor Crescent Shooters Hill SE18 3EG,26.63102888,27
+,Slade Centre Library,31.5,"Monday: 2pm to 7pm Tuesday: 9am to 5:30pm, Wednesday: Closed, Thursday: 2pm to 7pm, Friday: 9am to 1pm, then 2pm to 5:30pm, Saturday: 9am to 1pm, then 2pm to 5pm, Sunday: Closed",SE18 2QQ,Erindale Plumstead SE18 2QQ,41.94387048,42
+,Slade Children's Centre,1.5,Wednesday 1pm to 2.30pm in training room (overseen by Reception staff and one other member of the team),SE18 2QQ,Slade Children's Centre Erindale Plumstead SE18 2QQ,1.997327166,2
+,St Alfege Church,2,Wednesday 10am to 12 noon,SE10 9JT,St Alfege Church Hall Frank Smith Room Roan Street SE10 9JT,2.663102888,3
+,St Edward's Church Mottingham,42.5,,SE9 4AQ,St Edwards Church 35 St Keverne Road SE9 4AQ,56.59093637,57
+,St George's Church,2,Tuesday 10am to 12 noon,SE3 7SD,St George's Church 43 Glenluce Road SE3 7SD,2.663102888,3
+,St John's Church,2,,SE18 7NH,St John's Church Earl Rise,2.663102888,3
+,St Luke's Church,2,Thursday 10am to 12 noon (Coffee Morning),SE7 8UG,St Luke's Church The Village Charlton SE7 8UG,2.663102888,3
+,St Margaret's Church,4,Tea for Free Monday 10am to 12noon and the Darby & Joan Club Tuesday 11.45am to 2pm,SE13 5DN,St Margaret's Church Lee Terrace SE13 5DN,5.326205776,5
+,Storkway Children's Centre,40,,SE3 9QX,Storkway Children's Centre Ridgebrook Road Kidbrooke SE3 9QX,53.26205776,53
+,Street Souls Emmaus Greenwich,2,,SE18 4DW,"Woolwich Common Community Centre, Leslie Smith Square SE18 4DW",2.663102888,3
+,Thamesmere Library,53.5,,SE28 8DT,Thamesmere Leisure Centre Thamesmere Drive Thamesmead SE28 8DT,71.23800225,71
+,The Greenwich Centre Library,53,,SE10 9GB,Greenwich Centre 12 LambaRoade Square SE10 9GB,70.57222653,71
+,Tramshed Arts,54,,SE18 6ET,"The Tramshed, 41 Woolwich New Road SE18 6ET",71.90377797,72
+,Trinity Methodist Church and Community Centre,1.5,,SE18 7JW,Trinity Methodist Church 265 Burrage Road Plumstead SE18 7JW,1.997327166,2
+,Vista Field Children's Centre,3,,SE9 5SD,Vista Field Children's CentreThe Vista Eltham SE9 5SD,3.994654332,4
+,Waterways Children's Centre,2,,SE28 8EZ,Waterways Children's Centre Southwood Road Thamesmead SE28 8EZ,2.663102888,3
+,West Greenwich Library,35,,SE10 8NN,Greenwich High Street Greenwich SE10 8NN,46.60430054,47
+,West Thamesmead Community Association,5,,SE28 0ER,Broadwater Village Hall Gosander Way West Thamesmead SE28 0ER,6.65775722,7
+,Woolwich Centre Library,57.5,,SE18 6HQ,Woolwich Centre 35 Wellington Street Woolwich SE18 6HQ,76.56420803,77
+,Woolwich Common Community Centre,15,,SE18 4DW,Woolwich Common Community Centre 17 Leslie Smith Square SE18 4DW,19.97327166,20
+,Woolwich Front Room,30,,SE18 6JB,Woolwich Front Room 105 Powis Street Woolwich SE18 6JB,39.94654332,40
+,Woolwich Service User Project,8.5,,SE18 6BJ,107 Brookhill Road Woolwich London SE18 6BJ,11.31818727,11
+Hackney,Whitmore Community Centre,10,,N1 5NU,"2 to 4 Phillipp St, Whitmore Estate",13.31551444,13
+,Banister House,5,,E9 6BN,"Homerton High Street, London, E9 6BN",6.65775722,7
+,Gascoyne 2 Community Hall,8,,E9 5AY,"2a Wick Road, Hackney, London E9 5AY",10.65241155,11
+,FoodCycle Hackney,1,,E9 7LP,"New Kingshold Community Centre, 49 Ainsworth Road, Hackney, London E9 7LP",1.331551444,1
+,St Barnabas Church,1.5,,E9 6DL,"Homerton High Street, London, London E9 6DL",1.997327166,2
+,Groundwork London,3,,E5 0PD,"6 Lower Clapton Road, Hackney, London E5 0PD",3.994654332,4
+,Chats Palace Arts Centre,8,,E9 6DF,"42-44 Brooksby's Walk, Homerton, London E9 6DF",10.65241155,11
+,Clapton Park URC,9.5,,E5 0PU,"Old School Rooms, 2 Powerscroft Road, Hackney, London E5 0PU",12.64973872,13
+,Bethnal Green Methodist Church,8,,E2 9JP,"Approach Road, Bethnal Green, London E2 9JP",10.65241155,11
+,The Salvation Army,6,,E5 0QR,"122-124 Lower Clapton Road, Clapton, Hackney E5 0QR",7.989308664,8
+,Shepherd Fold Ministry,8,,E5 OLH,"Clapton Park Methodist Church, 99, Chatsworth Road, London E5 OLH",10.65241155,11
+,The Pedro Club,5,,E5 0HD,"175 Rushmore Road, Lower Clapton, Hackney, London E5 0HD",6.65775722,7
+,FoodCycle,1,,E3 4LY,"1 Merchant Street, Bow, London E3 4LY",1.331551444,1
+,Christ Apostolic Church,4,,E3 3HJ,"Upper floor, Devons Halls, Powis Road off Grace Street, Bow, London E3 3HJ",5.326205776,5
+,Poplar HARCA,10,,E3 3PR,"Linc Centre, 73 Fern Street, London, London E3 3PR",13.31551444,13
+,Christchurch Three Mills,2.5,,E15 2QS,"School 360, Sugar House Lane, London E15 2QS",3.32887861,3
+,Poplar HARCA,12,,E3 3QE,"Jefferson Plaza, London, London E3 3QE",15.97861733,16
+,Stratford Library,70,,E15 1EL,"3 The Grove, Newham, London E15 1EL",93.20860108,93
+,H.O.P.E.,7.5,"Tuesdays, 2.30pm to 4.30 pm, Fridays, 10.30pm to 4.00 pm",E9 6RH,"Morningside Community Centre, Cresset Road, Hackney E9 6RH",9.98663583,10
+,Hackney Quest,2.5,"Mondays, 1:30pm to 4pm",E9 7PQ,"Frampton Park Baptist church, Frampton Park Road, E9 7PQ",3.32887861,3
+Hammersmith and Fulham,Our Lady of Fatima Parish Centre,3.5,"Tuesdays, 2.30pm to 6pm",W12 7QR,"Commonwealth Avenue, London W12 7QR",4.660430054,5
+,Old Oak Community Centre,5,"Wednesdays, 2pm to 6pm.",W12 0AP,"Braybrook Street, London W12 0AP",6.65775722,7
+Haringey,Alexandra Park Library,57,,N22 7UJ,Alexandra Park Road,75.8984323,76
+,Coombes Croft Library,57,,N17 8AG,High Road,75.8984323,76
+,Highgate Library,57,,N6 5QJ,1 Shepherds Hill,75.8984323,76
+,Hornsey Library,61,,N8 9JA,"Ground Floor Foyer, Haringey Park, N8 9JA",81.22463808,81
+,Marcus Garvey Library,62,,N15 4JA,"Tottenham Green Centre, 1 Philip Lane",82.55618952,83
+,Muswell Hill Library,51,,N10 3PE,Queen's Avenue,67.90912364,68
+,St Ann's Library,57,,N15 5PU,Cissbury Road,75.8984323,76
+,Stroud Green and Harringay Library,57,,N4 4QR,Quernmore Road,75.8984323,76
+,Wood Green Central Library,61,,N22 6XD,High Road,81.22463808,81
+,Hornsey Central Cafe,42.5,,N8 8JD,"Hornsey Central Neighbourhood Health Centre, 151 Park Road, N8 8JD",56.59093637,57
+,The Goods Office Restaurant ,102.5,,N4 4DS,"1-3 Ferme Park Road, Stroud Green, N4 4DS",136.484023,136
+,St Ann's Church Tottenham,4,,N15 5JH,"St Ann's Church Hall, 2 Avenue Road, N15 5JH",5.326205776,5
+,Jacksons Lane ,72,,N6 5AA,"269a Archway Road, Highgate, N6 5AA",95.87170396,96
+,Winkfield Resource Centre Cafe ,4,,N22 5RP,"Winkfield Resource Centre, 33 Winkfield Road, Wood Green, N22 5RP",5.326205776,5
+,Cypriot Community Centre,25,,N22 5HJ,"Cypriot Community Centre, Earlham Grove N22 5HJ",33.2887861,33
+,Electric Grubb Cafe and Restaurant,69,,N15 4AJ,"286 High Road, Seven Sisters N15 4AJ",91.87704963,92
+,Mind in Haringey,4,,N4 3QF,"73C Stapleton Hall Road, Stroud Green, N4 3QF",5.326205776,5
+,St James Church,2,,N10 3DB,"St James Church, St James Lane, Muswell Hill N10 3DB",2.663102888,3
+,The Antwerp Arms ,3,,N17 8AS,"168-170 Church Road, Tottenham, N17 8AS",3.994654332,4
+,Northumberland Park Resource Centre,3,,N17 0HJ,"177 Park Lane Northumberland Park, Tottenham, N17 0HJ",3.994654332,4
+,Hornsey Moravian Church,3,,N8 7HR,"Priory Road, Hornsey, N8 7HR",3.994654332,4
+,Ministry of Praise,6,,N17 0JJ,"46 Manor Road, Tottenham, N17 0JJ",7.989308664,8
+,Women with a Voice,9,,N17 0QA,"Eric Allin Centre, 240 Northumberland Park, Tottenham, N17 0QA",11.983963,12
+,Chestnuts Community Centre,2,,N15 5BN,"280 St Ann's Road, Tottenham, N15 5BN",2.663102888,3
+,Broadwater Children's Centre,4,,N17 6HE,"Adams Road, Tottenham, N17 6HE",5.326205776,5
+,Sky City Community Centre,3,,N22 6SR,"65 Penwortham Court, Wood Green, N22 6SR",3.994654332,4
+,The Engine Room,2.5,,N17 9FU,"Unit A, Eagle Heights, Hale Village, Tottenham Hale, N17 9FU",3.32887861,3
+,St Paul the Apostle Catholic Church,3,,N22 7SZ,"22 Bradley Road, Wood Green, N22 7SZ",3.994654332,4
+,Lordship Hub Cafe,3,,N17 6NU,"Lordship Recreation Ground Higham Road, Tottenham, N17 6NU",3.994654332,4
+,Commerce Road Community Centre,5,,N22 8EP,"52 Commerce Road, Wood Green, N22 8EP",6.65775722,7
+,Muswell Hill Methodist Church,3,,N10 1PP,"Pages Lane, Muswell Hill, N10 1PP",3.994654332,4
+,St Mary's Church Tottenham,6.5,,N17 9XE,"Lansdowne Road, N17 9XE",8.655084386,9
+,Connecting Well with Wheely Tots,3,,N17 6HF,"Broadwater Farm Community Centre, Adams Road, Tottenham, N17 6HF",3.994654332,4
+Harrow,Flash Musicals,3,,HA8 6EZ,"Flash Musicals Methuen Road, Edgware HA8 6EZ",3.994654332,4
+,Harrow Association of Somali Voluntary Organisations (HASVO),4,,HA2 0DH,"66 Lower Road, HA2 0DH",5.326205776,5
+,Harrow Carers,4.5,,HA14QF,"Old Lyonians Sports Ground, Pinner View, Harrow, HA14QF",5.991981498,6
+,Hotspot Community CIC / Homegroup Housing Association ,2,,HA2 0TY,The Beacon Centre HA2 0TY,2.663102888,3
+,North Harrow Community Library,15,,HA1 4HN,"Pinner Road, North Harrow, HA1 4HN",19.97327166,20
+,My Yard at Grange Farm,10,,HA2 0QF,"Grange Farm Community Hall, Osmond Close, South Harrow HA2 0QF",13.31551444,13
+,Oshwal Association,3,,NW9 9AA,"Ekta Centre, 366A Stag Lane, Kingsbury, London NW9 9AA ",3.994654332,4
+,Romanian Culture and Charity Together,6,,HA8 0LN,International Gospel Church 102a Watling Avenue Burnt Oak Middlesex HA8 0LN,7.989308664,8
+,South Harrow Methodist Church,16,,HA2 8QU,"Walton Avenue Harrow, HA2 8QU",21.3048231,21
+,"St Paul's Church, South Harrow",4,,HA2 8EL,"St Paul's South Harrow, Corbins Lane, HA2 8E",5.326205776,5
+,St Michael and All Angels' Harrow Weald,2.5,,HA3 7HP,"95 Bishop Ken Road, Harrow Weald, HA3 7HP ",3.32887861,3
+,The Disability Foundation,2,,HA7 4LP,"The Disability Foundation, Based at RNOH, Brockley Hill, Stanmore, HA7 4LP.",2.663102888,3
+,Vedicca london,3,,HA2 6EQ,"North Harrow Methodist Church, Pinner Road, HA2 6EQ",3.994654332,4
+,Wealdstone Methodist Church,2,,HA3 7ND,"Locket Road, Wealdstone, HA3 7ND",2.663102888,3
+Havering,Ardleigh House Community Association,1.5,,RM11 2LG,42 Ardleigh Green Road Hornchurch RM11 2LG,1.997327166,2
+,Elm Park Community Association,3,,RM12 4RA,Elm Park Assembly Hall Annexe Eyhurst Avenue Elm Park RM12 4RA,3.994654332,4
+,Emerson Park Community Association,2,,RM11 2BU,Emerson Park Social Hall  Slewins Lane Hornchurch RM11 2BU,2.663102888,3
+,H.A.D. (Havering Association for People with Disabilities),23,,RM11 3NN,"1a Woodhall Crescent Hornchurch, RM11 3NN",30.62568321,31
+,Front Lane Community Association,4,,RM14 1XN,Cranham Social Hall 103 Front Lane Cranham RM14 1XN,5.326205776,5
+,Harold Hill and District Community Association,3,,RM3 9LB,Gooshays Drive Harold Hill RM3 9LB,3.994654332,4
+,Myplace,3,,RM3 9EN,343 Dagnam Park Drive Harold Hill RM3 9EN,3.994654332,4
+,Harold Wood Community Hub,49.5,,RM3 0QA,"The Hub, 11 Gubbins Ln, Romford RM3 0QA",65.91179648,66
+,Havering Asian Social and Welfare Association,2,,RM12 6NB,Greenfields Kilmartin Way  Elm Park RM12 6NB,2.663102888,3
+,Havering Museum,6,,RM1 1JU,"19,20, 21 High Street Romford RM1 1JU",7.989308664,8
+,The Hope Cafe,56,,RM1 3ER,"80-84 Market Pl, Romford RM1 3ER",74.56688086,75
+,Mardyke Community Association,6,,RM13 8PJ,Mardyke Social Centre South Street Rainham RM13 8PJ,7.989308664,8
+,Moor Lane Church,1.5,,RM14 1HN,226 Moor Lane Cranham RM14 1HN,1.997327166,2
+,Myplace,87.5,,RM3 9EN,343 Dagnam Park Drive Harold Hill RM3 9EN,116.5107513,117
+,RAFA Club,25.5,,RM2 5AA,18 Carlton Road Romford RM2 5AA,33.95456182,34
+,Romford Baptist Church and Hall,49,,RM1 3BL,Main Road Romford RM1 3BL,65.24602075,65
+,Romford Care Centre,2,,RM3 8HW,107 Neave Crescent Harold Hill  RM3 8HW,2.663102888,3
+,Rush Green Community Association,2,,RM7 0LB,Rush Green Gardens Rush Green Road Romford RM7 OLB,2.663102888,3
+,Saint George's Church and Centre,15,,RM3 8HX,Chippenham Road RM3 8HX,19.97327166,20
+,Salvation Army Centre (Harold Hill),8,,RM3 9PP,Petersfield Avenue Harold Hill RM3 9PP,10.65241155,11
+,St. John and St. Matthews Church Hall,2,,RM13 7XT,South End Road Rainham RM13 7XT,2.663102888,3
+,St. Luke's Church,1.5,,RM14 1LD,201 Front Lane Upminster RM14 1LD,1.997327166,2
+,The ROYALS Centre,4.5,,RM13 9YG,Viking Way Rainham RM3 9YG,5.991981498,6
+,YMCA Romford,12,,RM7 0PH,29 Rush Green Road Romford RM7 0PH,15.97861733,16
+Hillingdon,Botwell Green Library,56,,UB3 2HW,East Avenue Hayes UB3 2HW,74.56688086,75
+,Charville Library,44,,UB4 8LF,Bury Avenue Hayes UB4 8LF,58.58826353,59
+,Christ Church,12,,UB8 1SZ,"Redford Way, Uxbridge. UB8 1SZ",15.97861733,16
+,Coldharbour Lane Church,3,,UB3 3HG,136 Coldharbour Lane Hayes UB3 3HG,3.994654332,4
+,Eastcote Library,44,,HA5 1RL,Field End Road Eastcote HA5 1RL,58.58826353,59
+,Fairfield Church,3.5,,HA6 1PD,Windsor Close Northwood Hills HA6 1PD,4.660430054,5
+,Harefield Library,43.5,,UB9 6BJ,Park Lane Harefield UB9 6BJ,57.92248781,58
+,Harlington Library,43.5,,UB3 1PB,Pinkwell Lane Hayes UB3 1PB,57.92248781,58
+,Hayes End Library,44,,UB4 8JQ,Uxbridge Road Hayes End UB4 8JQ,58.58826353,59
+,Hayes Town Chapel,2,,UB3 2JP,Hayes Town Chapel St. Mary's Road Hayes UB3 2JP,2.663102888,3
+,Hillingdon Park Baptist Church,20,,UB10 9LS,25 Hercies Road Hillingdon UB10 9LS,26.63102888,27
+,Ickenham Library,44,,UB10 8RE,Community Close / Long Lane Ickenham UB10 8RE,58.58826353,59
+,Manor Farm Library,45.5,,HA4 7SU,Manor Farm Site Bury Street Ruislip HA4 7SU,60.5855907,61
+,Northwood Hills Library (Potter Street),44,,HA6 1QQ,Potter Street Northwood HA6 1QQ,58.58826353,59
+,Northwood Library (Oaklands Gate),44,,HA6 3AA,Oaklands Gate Northwood HA6 3AA,58.58826353,59
+,Northwood Methodist Church,2.5,,HA6 3AA,Oaklands Gate Northwood HA6 3AA,3.32887861,3
+,Oak Farm Library,54,,UB10 9PB,Sutton Court Road Hillingdon UB10 9PB,71.90377797,72
+,Ruislip Manor Library,58,,HA4 8TW,Linden Avenue Ruislip Manor HA4 8TW,77.22998375,77
+,South Ruislip Christian Fellowship,2,,HA4 6SR,2 Deane Ave Ruislip HA4 6SR,2.663102888,3
+,South Ruislip Library,44,,HA4 0JE,Victoria Road South Ruislip HA4 0JE,58.58826353,59
+,St Margaret's Church,5.5,,UB8 1UT,Windsor Street Uxbridge UB8 1UT,7.323532942,7
+,Uxbridge Library,55,,UB8 1HD,High Street Uxbridge UB8 1HD,73.23532942,73
+,Waterloo Road Church,37.5,,UB8 2QX,"Waterloo Rd, Uxbridge UB8 2QX",49.93317915,50
+,West Drayton Library,44,,UB7 7JS,"Station Rd, West Drayton UB7 7JS",58.58826353,59
+,Yeading Library,44,,UB4 0EW,"Yeading Ln, Hayes UB4 0EW",58.58826353,59
+,Yiewsley Library,46,,UB7 7BE,"High St, Yiewsley UB7 7BE",61.25136642,61
+,Yiewsley Methodist Church Hall,3,,UB7 8ES,"Fairfield Rd, Yiewsley UB7 8ES",3.994654332,4
+Westminster,Central London Youth Development Trust,3,Open every Friday from 11:30am to 2:30pm.,NW8 8SR,"Greenside Community Centre, Lilestone Street, London, NW8 8SR",3.994654332,4
+,Middle Eastern Women and Society Organisation,3,Saturday from 12pm to 3pm.,NW8 8HJ,"Derry House, Church St Estate, London, NW8 8HJ",3.994654332,4
+,The Mosaic Community Trust,3,Mondays from 10:30am to 1:30pm.,NW8 8D.,"The Portman Early Years Centre, 12 -15 Salisbury Street, NW8 8D.",3.994654332,4
+,Queen's Park Bangladesh Association,84,Thursdays from 6pm and Sundays from 1pm.,W10 4QH.,"71 Ilbert St, London W10 4QH.",111.8503213,112
+,Kulan Somali Organisation,84,Thursdays.,W10 4QA.,"Queen's Park community hall, Droop Street, W10 4QA.",111.8503213,112
+,Community For All (C4A) CIC,15,Thursdays from 6pm to 9pm.,W9 3RU.,"472 Harrow Road, W9 3RU.",19.97327166,20
+,Queen's Park Club,11.5,"Queen's Park Club provides hot meals on weekdays, weekends and evenings",W10 4QJ.,"The Hut, Queen's Park Garden, London, W10 4QJ.",15.31284161,15
+,Sunahs Crisis Team CIC,84,,W10 4QA.,"Queens Park Court Community Hall, Droop Street, W10 4QA.",111.8503213,112
+,Marylebone Bangladesh Society,6,Mondays from 5 to 8pm and Fridays 5 to 8pm,NW8 8ER.,"19 Samford St, London NW8 8ER.",7.989308664,8
+,Make it Happen,6,Thursdays from 10am to 3pm.,NW8 8SU.,"4 Lilestone St, London NW8 8SU.",7.989308664,8
+,London Tigers,3,Wednesdays from 10am to 1pm.,W9 3AZ,"WECH Community Centre, Selbourne House, 36A Elgin Avenue,",3.994654332,4
+,Grand Junction,49,,W2 5TF,"Rowington Cl, London W2 5TF",65.24602075,65
+,Queen's Park Library,55.5,open Monday to Saturday,W10 4NE,"666 Harrow Rd, London W10 4NE",73.90110514,74
+,Queen's Park Children's Centre,35,,W9 3AL,"88 Bravington Rd, London W9 3AL",46.60430054,47
+,Maida Vale Library,55.5,open Monday to Saturday,W9 2QT,"Maida Vale Library, Sutherland Avenue, London W9 2QT",73.90110514,74
+,North Paddington Youth Club,15,,W9 1EA,"229 Lanark Road, W9 1EA",19.97327166,20
+,Happy Lizzy Event Planning (HELP),3,Activities take place on Fridays after school between 3.30pm and 6.30pm.,W9 3EW,"Lydford Community Hall, 74 Fernhead Road, W9 3EW",3.994654332,4
+,Maida Hill Place,12,"Monday lunchtimes, midday to 2.00 pm Weekends, Sunday 14 January, 1pm to 3pm, Sunday 28 January, 1pm to 3pm (TBC), Sunday 12 February, 1pm to 3pm, Sunday 26 February, 1pm to 3pm (TBC), Sunday 12 March, 1pm to 3pm, Sunday 26 March, 1pm to 3pm, They are also running a soup stall on Tuesdays at Maida Hill Market from 2pm to 3pm.",W9 3AZ,"Wech Community Hall, Selbourne House, 36A Elgin Avenue London, W9 3AZ",15.97861733,16
+,Church Street Library,54.5,,NW8 8EU,"67 Church St, London NW8 8EU",72.5695537,73
+,The Portman Family Hub,50,,NW8 8DE,"12 Salisbury St, London NW8 8DE",66.5775722,67
+,Marylebone Library,63,,W1G 9UQ,"9-11 New Cavendish St, London W1G 9UQ",83.88774097,84
+,Feathers Youth Centre,60,,NW1 6NX,"12 Rossmore Road, London, NW1 6NX",79.89308664,80
+,St John's Wood Library,59,,NW8 6PD,"20 Circus Rd, London NW8 6PD",78.56153519,79
+,The Avenues Youth Project,53,,W10 4RS,"3-7 Third Ave, London W10 4RS",70.57222653,71
+,Penfold Community Hub,40,,NW8 8PJ,"60 Penfold St, London NW8 8PJ",53.26205776,53
+,Paddington Library and Children's Library,41.5,,W2 5EA,"Westbourne Park Baptist Church, Westbourne Park Villas, London W2 5EA",55.25938492,55
+,Fitzrovia Community Centre,76,,W1W 6DL,"Fitzrovia Community Centre, 2 Foley St, London W1W 6DL",101.1979097,101
+,The Photographers' Gallery,59,,W1F 7LW,"16-18 Ramillies St, London W1F 7LW",78.56153519,79
+,London Advocacy Group,32.5,,WC2N 5BW,"1, Trafalgar Square, Northumberland Ave, London WC2N 5BW",43.27542193,43
+,St. Vincent's Family Project,37.5,,SW1H 9NH,"Methodist Central Hall, Storey's Gate, London SW1H 9NH",49.93317915,50
+,Westminster Chapel,6.5,,SW1E 6BS,"Buckingham Gate, London SW1E 6BS",8.655084386,9
+,Mayfair Library,43.5,,W1K 2PB,"25 S Audley St, London W1K 2PB",57.92248781,58
+,Charing Cross Library,57.5,,WC2H 0HF,"4-6 Charing Cross Rd, London WC2H 0HF",76.56420803,77
+,Westminster Music and Reference Library,57,,WC2H 7HP,"35 St Martin's St, London WC2H 7HP",75.8984323,76
+,Royal Academy of Arts,51,,W1J 0BD,"Burlington House, Piccadilly, London W1J 0BD",67.90912364,68
+,Royal Opera House,42,,WC2E 9DD,"Bow St, London WC2E 9DD",55.92516065,56
+,National Gallery,59,,WC2N 5DN,"Trafalgar Square, London WC2N 5DN",78.56153519,79
+,Institute of Contemporary Arts,54,,SW1Y 5AH,"The Mall, St. James's, London SW1Y 5AH",71.90377797,72
+,Victoria Library,56,,SW1W 9TR,"160 Buckingham Palace Rd, London SW1W 9TR",74.56688086,75
+,Somerset House,63,,WC2R 1LA,"Strand, London WC2R 1LA",83.88774097,84
+,Royal Albert Hall,84,,SW7 2AP,"Kensington Gore, South Kensington, London SW7 2AP",111.8503213,112
+,South Westminster Community Choir,44.5,,SW1V 2PS,"Off Thorndike St, Moreton St, Lillington and Longmoore Gardens, London SW1V 2PS",59.25403926,59
+,Pimlico Library,64,,SW1V 3AT,"Lupus St, Pimlico, London SW1V 3AT",85.21929241,85
+,Clear Village Charitable Trust,45,,SW1V 1TA,"Block A Peabody Vauxhall Estate, Vauxhall Bridge Rd, London SW1V 1TA",59.91981498,60
+,Open Age,3,,SW1V 2RT,"1 Carey Pl, London SW1V 2RT",3.994654332,4
+,Churchill Gardens Youth Club,9,,SW1V 3DL,"Churchill Gardens Rd, Pimlico, London SW1V 3DL",11.983963,12
+,Westminster Bangladeshi Welfare Trust,3,,SW1V 4LP,"Sherbourne House, Lower ground floor, Winchester Street, SW1V 4LP",3.994654332,4
+,Bessborough Family Hub,40,,SW1V 2JD,"Bessborough Nursery, 1 Bessborough St, London SW1V 2JD",53.26205776,53
+,St Andrew's Club,60,,SW1P 2DG,"Alec Wizard House, 12 Old Pye St, London SW1P 2DG",79.89308664,80
+,The Abbey Centre,76,,SW1P 3BU,"34 Great Smith St, London SW1P 3BU",101.1979097,101
+,Sport4Health,56,,SW1V 3AA,"St Gabriel's Parish House, Glasgow Terrace, Pimlico, London SW1V 3AA",74.56688086,75
+Wandsworth,Ascension Church Hall,40,"Monday to Friday, 8.30am to 4.30pm",SW12 8QY,"23 Malwood Road, London, SW12 8QY",53.26205776,53
+,St Luke's Church,3,Wednesday 10.30am to 1.30pm,SW12 8RQ,"Ramsden Road, London, SW12 8RQ",3.994654332,4
+,St Marks Church Hall,3,Monday 11am to 2pm,SW17 7AP,"Rowfant Road, London, SW17 7AP",3.994654332,4
+,St Mary and St John the Divine,4,"Wednesday 10am to 12 noon, Saturday 10am to 12 noon",SW12 9BS,"Balham High Road, London, SW12 9BS",5.326205776,5
+,Church of the Ascension,2.5,Wednesday 1.30 to 4pm,SW11 5RB,"Lavender Hill, London SW11 5RB",3.32887861,3
+,Cromwell House,26,"Council-run Enable Leisure and Culture. Monday, Wednesday and Friday 4 to 7pm  Cromwell House Community Hub. Monday, Wednesday, Saturday and Sunday 4 to 7pm, Begin2Sports Group Academy C.I.C. Thursday 12 noon to 3.15pm, Agoe Empowerment Network Ltd.  Friday 11am to 1pm",SW11 5HW,"Charlotte Despard Avenue, London, SW11 5HW",34.62033754,35
+,Devas Club,25,"Monday to Friday, 4 to 6pm (8 to 11 year olds), Monday to Friday, 6 to 9pm (11 to 19 year olds)",SW11 5EN,"2A Stormont Road, London, SW11 5EN",33.2887861,33
+,Kambala Community Centre,40,TBA - opening 4 January 2023,SW11 2LU,"126 Fawcett Close, London, SW11 2LU",53.26205776,53
+,S.T.O.R.M Family Centre,12,"Wednesday 1 to 5pm, Thursday 1 to 5pm, Saturday 11am to 3pm",SW11 5JF,"61 Strasburg Road, London, SW11 5JF",15.97861733,16
+,York Gardens Children's Centre,35,"Monday to Friday, 9am to 4pm",SW11 2UG,"Lavender Road, Clapham Junction, London, SW11 2UG",46.60430054,47
+,York Gardens Library and Community Centre,2,Thursday 10.30am to 12.30pm,SW11 2UG,"34 Lavender Road, London, SW11 2UG",2.663102888,3
+,Earlsfield Baptist Church,3,Sunday 1 to 4pm,SW18 3NZ,"271 Magdalen Road, London, SW18 3NZ",3.994654332,4
+,Home Community Cafe,12.5,"Tuesday 9am to 4pm, Wednesday 10.30am to 4pm",SW18 4SR,"St Andrew's Church, Garratt Lane, London, SW18 4SR",16.64439305,17
+,ROSE Community Clubroom,10,Monday 10am to 8pm,SW8 4AN,"22 Ascalon Street, London, SW8 4AN",13.31551444,13
+,Yvonne Carr Children's Centre,37.5,"Monday to Friday, 9am to 4.30pm",SW8 4HT,"2 Thessaly Road, Nine Elms, London, SW8 4HT",49.93317915,50
+,Eastwood Children's Centre,37.5,"Monday to Friday, 9am to 4.30pm",SW15 4HR,"166 Roehampton Lane, Roehampton, London, SW15 4HR",49.93317915,50
+,Ackroydon Community Hall,2,Monday 1 to 3pm,SW19 6QL,"Montfort Place, London, SW19 6QL",2.663102888,3
+,Brathway Hall,5,Tuesday 10am to 3pm,SW18 4BE,"Brathway Road, London, SW18 4BE",6.65775722,7
+,Open Door Community Centre,6,Tuesday and Thursday 4 to 7pm,SW19 6TF,"Beaumont Road, London, SW19 6TF",7.989308664,8
+,St Michael's & All Angels Church,2,Wednesday 12 noon to 2pm,SW18 5TT,"71 Wimbledon Park Road, London, SW18 5TT",2.663102888,3
+,All Saints Church Centre,4,"Tuesday, 10am to 12 noon, Thursday, 10am to 12 noon",SW17 8DQ,"80 Franciscan Road, SW17 8DQ",5.326205776,5
+,Franciscan Children's Centre,37.5,"Monday to Friday, 9am to 4.30pm",SW17 8HQ,"221 Franciscan Road, Tooting, London, SW17 8HQ",49.93317915,50
+,Holy Trinity Church,6,"Monday 2 to 4pm (Homeless Support Cafe), Wednesday 12 noon to 4pm (opening 7 December 2022)",SW17 7RH,"74 Trinity Road, London, SW17 7RH",7.989308664,8
+,Smallwood Children's Centre,37.5,"Monday to Friday, 9am to 4.30pm",SW17 0TW,"Smallwood Primary School, Smallwood Road, London, SW17 0TW",49.93317915,50
+,St Albans Church Hall,1.5,Wednesday 10.30am to 12 noon,SW16 6RR,"Pretoria Road, London, SW16 6RR",1.997327166,2
+,St Augustine's Church,4,Thursday 12 noon to 4pm,SW17 0EF,"16 Broadwater Road, London, SW17 0EF",5.326205776,5
+,The Furzedown Project,10,"Wednesday 1 to 4pm, Monday 11am to 1pm, Wednesday 11.30am to 1.30pm, Friday 2 to 4pm, Saturday 1 to 4pm",SW16 6SJ,"91-93 Moyser Road, London, SW16 6SJ",13.31551444,13
+,Tooting Community Kitchen,3,Wednesday 1 to 4pm,SW17 9PP,"19 Church Lane, London, SW17 9PP",3.994654332,4
+,East Hill Baptist Church,7,"Tuesday: 10am to 2pm, Wednesday: 10am to 1pm",SW18 2HD,"182 East Hill, London, SW18 2HD",9.320860108,9
+,Gwynneth Morgan Day Centre,5,"Monday to Friday, 9.15 to 10.15am (From Monday 27 February)",SW18 2HJ,"52 East Hill, London, SW18 2HJ",6.65775722,7
+,West Hill in the Park Children's Centre,35,"Monday to Friday, 9am to 4pm",SW18 4AS,"King George's Park, Buckhold Road, Wandsworth, SW18 4AS",46.60430054,47
+Waltham Forest,Leyton Orient Trust,18,,E10 5NF,"Leyton Orient Stadium, Brisbane Road, Leyton, E10 5NF",23.96792599,24
+,Lea Bridge Library,65,"Monday to Friday 9am to 7pm, Saturday 9am to 6pm and Sunday 10am to 4pm.",E10 7HU,"Lea Bridge Road, Leyton E10 7HU",86.55084386,87
+,Pepper's Ghost,12,Thursdays and Fridays 12pm to 6pm.,E10 5AB,"777 High Road, Leyton E10 5AB",15.97861733,16
+,Cornerstone,63,Everyday,E10 6EH,"149 Canterbury Road, E10 6EH",83.88774097,84
+,St Andrew's Church,18,Mondays and Thursdays 11am to 8pm.,E11 1JD,"153 Colworth Road, E11 1JD",23.96792599,24
+,Holy Trinity and St Augustine of Hippo Church,2,Tuesday 11am to 1pm.,E11 4LD,"4 Holloway Road, Leytonstone, E11 4LD",2.663102888,3
+,Leytonstone and Wanstead Synagogue,3,Friday from 10am to 1pm,E11 3BS,"2 Fillebrook Road, E11 3BS",3.994654332,4
+,The Inconvenient Store,51,Tuesdays to Saturdays 11am to 8pm and Sundays 12pm to 6pm.,E11 4RD,"719 High Road Leytonstone, E11 4RD",67.90912364,68
+,Leytonstone Library,63,"Monday to Friday 9am to 7pm, Saturday 9am to 6pm and Sunday 12pm to 4pm.",E11 1HG,"Church Lane, E11 1HG",83.88774097,84
+,Farm Community Kitchen,23.5,,E11 3NH,"102 Cann Hall Road, E11 3NH",31.29145893,31
+,Elim Pentecostal Church,24,,E11 1EL,"Hainault Road, E11 1EL",31.95723465,32
+,St Peter in the Forest,1.5,,E17 3PP,"18 Woodford New Road, E17 3PP",1.997327166,2
+,William Morris Big Local at Priory Court Community Centre,12,Mondays and Thursdays 12pm to 6pm.,E17 5NB,"11 Priory Court, E17 5NB",15.97861733,16
+,The Mill at Coppermill,40,Tuesday to Friday from 9:30am to 5:30pm. Saturday and Sunday from 10am to 2pm.,E17 7HA,"7 Coppermill Lane, E17 7HA",53.26205776,53
+,St Barnabus and Stafford Hall,3.5,Thursdays 3pm to 6:30pm.,E17 8JY,"St Barnabus Road, E17 8JY",4.660430054,5
+,The Gleaners,8,,E17 9AH,"The Hornbeam Centre, 458 Hoe Street, E17 9AH",10.65241155,11
+,The Lloyd Park Children's Charity,4,Fridays 10am to 2pm (school term only).,E17 5JW,"The Lloyd Park Centre, Winns Avenue Entrance, Lloyd Park, E17 5JW",5.326205776,5
+,Christian Kitchen,10.5,daily between 7:30pm and 9pm,E17 7AB,"Mission Grove Car Park, E17 7AB",13.98129016,14
+,Wood Street Library,63,"Monday to Friday: 9am to 7pm, Saturday: 9am to 6pm and Sunday: 12pm to 4pm.",E17 3HB,"1 Troubridge Square, Wood Street, E17 3HB",83.88774097,84
+,Walthamstow Library,65,"Monday to Friday: 9am to 7pm, Saturday: 9am to 6pm and Sunday: 10am to 4pm.",E17 7JN,"High Street, Walthamstow, E17 7JN",86.55084386,87
+,Higham Hill Library,18,"Monday, Thursday and Friday: 10am to 6pm.",E17 5HS,"North Countess Road, Walthamstow, E17 5HS",23.96792599,24
+,Food Cycle,1.5,Thursdays 6:30 to 8pm.,E17 9RH,"St Mary's Welcome Centre, Church End, E17 9RH",1.997327166,2
+,Peabody,5.5,Wellbeing Cafe Tuesdays 12:30pm to 2:30pm and Community Pantry Tuesday 8:30am to 2pm.,E4 8YD,"The Paradox Community Centre, 3 Ching Way, E4 8YD",7.323532942,7
+,Highams Park Food Aid,15,"open Tuesday, Wednesday and Thursday at All Saints Church",E4 9QZ,"All Saints Church, Church Avenue, Highams Park, E4 9QZ",19.97327166,20
+,Chingford Library,63,"Monday to Friday 9am to 7pm, Saturday 9am to 6pm and Sunday 12pm to 4pm.",E4 7EN,"The Green, Chingford, E4 7EN",83.88774097,84
+,Hale End Library,30,"Tuesday, Wednesday and Friday 10am to 6pm. Saturday 10am to 4pm.",E4 9QD,"Castle Avenue, Highams Park, E4 9QD",39.94654332,40
+,South Chingford Community Library,24,"Monday, Tuesday, Thursday and Saturday 10am to 4pm.",E4 8LP,"265 Chingford Mount Road, E4 8LP",31.95723465,32
+,Organic Lea,13,,E4 7UH,"Hawkwood Nursery, 115 Hawkwood Crescent, E4 7UH",17.31016877,17
+Tower Hamlets,Wigram House Community Centre,5,Monday 12noon to 5pm,E14 0DA,"Wigram House Community Centre, Wades Place, E14 0DA",6.65775722,7
+,Keddlestone Walk Community Centre,3,Tuesday 10am to 1pm,E2 9QT,"Keddlestone Walk Community Centre, Hollybush Gardens, E2 9QT",3.994654332,4
+,Saltwell Street Community Centre,5,Wednesday 2 to 7pm,E14 0DZ,"Saltwell Street Community Centre, Saltwell Street, E14 0DZ",6.65775722,7
+,Glasshouse Community Centre,2,Thursday 10am to 12noon,E2 9QB,"Glasshouse Community Centre, 161 Old Ford Road, E2 9QB",2.663102888,3
+,Wynn Garrett Resource Centre Harpley Square,3,Thursday 10am to 1pm,E1 4EA,"Wynn Garrett Resource Centre Harpley Square, E1 4EA",3.994654332,4
+,Cranbrook Community Centre,3,Thursday 1 to 4pm,E2 0RB,"Cranbrook Community Centre Mace Street, E2 0RB",3.994654332,4
+,Guild Room,5,Thursday 2 to 7pm,E14 6JG,"Guild Room, Canton Street, E14 6JG",6.65775722,7
+,Tarling East Community Centre,3.5,Thursday 11.30am to 3pm,E1 2PA,"Tarling East Community Centre, 63 Martha Street, E1 2PA",4.660430054,5
+,St Matthias Community Centre,5,Sunday 2 to 7pm,E14 0EY,"St Matthias Community Centre, Woodstock Terrace, E14 0EY",6.65775722,7
+Sutton,Sutton Central Library,71.5,,SM1 1EA,"St Nicholas Way, Sutton, SM1 1EA",95.20592824,95
+,Cheam Library,40.5,,SM3 8QH,"Cheam Library, Church Road, Cheam, SM3 8QH",53.92783348,54
+,Circle Library,40.5,,SM5 1JJ,"Circle Library, Green Wrythe Lane, Carshalton SM5 1JJ",53.92783348,54
+,Library at the Life Centre,53,,SM3 9PX,"Sutton Life Centre, Alcorn Close, Sutton, SM3 9PX",70.57222653,71
+,Library at the Phoenix Centre,59,,SM6 9NZ,"Library at the Phoenix Centre, Mollison Drive, Roundshaw, Wallington, SM6 9NZ",78.56153519,79
+,Wallington Library,87,,SM6 0HY,"Wallington Library, Shotfield, Wallington, SM6 0HY",115.8449756,116
+,Westcroft Library,92,,SM5 2TG,"Westcroft Leisure Centre, Westcroft Road, Carshalton, SM5 2TG",122.5027328,123
+,Worcester Park Library,40.5,,KT4 8ES,"Worcester Park Library, Stone Place, Windsor Road, Worcester Park, KT4 8ES",53.92783348,54
+Southwark,Blackfriars Settlement,24,Monday: 2pm to 5pm Warm Hub. Tuesday: 9.30am to 2pm Warm Hub. 2pm to 4pm Forget Me Nots for older people who want to maintain their memory. Wednesday: 9.30am to 1pm Warm Hub. 1.30pm to 3.30pm. Thursday: 9.30am to 4pm. Friday: 9.30am to 4pm.,SE1 0RB,"1 Rushworth Street, SE1 0RB",31.95723465,32
+,Time and Talents,4,Monday: 10 30am to 12 30pm Wednesday: 1pm to 3pm,SE16 7NB,"T&T, Surrey Quays Shopping Centre, Redriff Road, SE16 7NB",5.326205776,5
+,Age UK Yalding Road,40,Monday to Friday: 9am to 5pm,SE16 3TY,"Healthy Living and Learning Service, 95 Southwark Park Road, Bermondsey, SE16 3TY",53.26205776,53
+,Love North Southwark,15,"Open Monday, Tuesday, Wednesday and Friday.",SE16 2EN,"4, 5 Gataker House Slippers Place, Bermondsey SE16 2EN",19.97327166,20
+,London Senior Social,5,Open Saturday 11.30am to 4.30pm.,SE1 1QQ,"11 Scovell Road, SE1 1QQ",6.65775722,7
+,St Jude's,12,Open Monday to Thursday. Monday: Coffee mornings 10am to 12 noon / Board games 1.30pm to 3.30pm. Tuesday: Coffee mornings 10am to 12 noon / Senior Citizen session 2pm to 4pm. Wednesday: Coffee mornings and storytelling 10am to 12 noon. Thursday: Soup Kitchen 12.30pm to 2.30pm ,SE1 6EZ,"St Jude's Centre, Colnbrook Street, SE1 6EZ",15.97861733,16
+,Blue Anchor Library,46,Weekly tea/coffee sessions: Tuesday 11am. Library opening times: Monday: 9am to 7pm. Tuesday: 9am to 7pm. Wednesday: closed. Thursday: 9am to 7pm. Friday: 10am to 6pm. Saturday: 9am to 5pm. Sunday: closed,SE16 3UQ,"Market Place, SE16 3UQ",61.25136642,61
+,Canada Water Library,72,Weekly tea/coffee sessions: Thursday 11.30am. Library opening times: Monday: 8am to 8pm. Tuesday: 8am to 8pm. Wednesday: 8am to 8pm. Thursday: 8am to 8pm. Friday: 8am to 8pm. Saturday: 9am to 5pm. Sunday: 12noon to 4pm,SE16 7AR,"21 Surrey Quays Rd, SE16 7AR",95.87170396,96
+,John Harvard Library,58,"Weekly tea/coffee sessions: Tuesday 11am. Monthly archivist talks 2pm on: 8 November, 13 December, 17 January, 21 February, 21 March. Library opening times: Monday: 9am to 7pm. Tuesday: 9am to 7pm. Wednesday: 9am to 7pm. Thursday: 9am to 7pm. Friday: 9am to 7pm. Saturday: 9am to 5pm",SE1 1JA,"211 Borough High St, SE1 1JA",77.22998375,77
+,Tate Modern,56,"Open 10am to 6pm, 7 days a week",SE1 9TG,"Tate Modern Bankside, SE1 9TG",74.56688086,75
+,Bermondsey and Rotherhithe Children and Family Centres,2,Open Tuesdays from 10am to 12 noon,SE16 2PE,"Park Lodge, Hawkstone Rd, London SE16 2PE",2.663102888,3
+,Haddon Hall Baptist Church,2,Open every Wednesday from 10am to 12pm.,SE1 4TR,"22 Tower Bridge Rd, London SE1 4TR",2.663102888,3
+,The RJ4ALL Rotherhithe Community Centre,42.5,"Monday to Friday 9:30am to 5:30pm. Tuesdays food bank and clothes mending 11am to 2pm, cafe connect 2pm. Thursday lates (coffee tea and music session 5pm, step class 6.15pm) until 8pm.",SE16 2LJ,"Rotherhithe Community Centre, 30 Plough Way, SE16 2LJ",56.59093637,57
+,The Bridge,7,Every Wednesday from 10am to 5pm,SE1 0NQ,"73-81 Southwark Bridge Road, SE1 0NQ",9.320860108,9
+,London LGBTQ+ Community Centre,40,"Wednesday to Sunday, 12 noon to 8pm.",SE1 9JH,"60-62 Hopton Street, SE1 9JH",53.26205776,53
+,Southwark Pensioners,12.5,"Thursday and Friday afternoons from 12.15pm to 5pm and alternate Saturdays 10am to 4pm. Social Thursday, Feelgood Friday, and sharing Saturday.",SE5 0HQ,"Southwark Pensioners Centre, 305-307 Camberwell Rd, SE5 0HQ",16.64439305,17
+,Copleston Centre,4,Soup Socials' will operate from 12pm to 2pm on Mondays.,SE15 4AN,"Copleston Centre, Copleston Road, Peckham SE15 4AN",5.326205776,5
+,Southwark Carers,40,Our Carers Cafe will be open every Friday for cared for residents of Southwark.,SE5 0EN,"3rd Floor, Walworth Methodist Church, 54 Camberwell Road, SE5 0EN",53.26205776,53
+,Prince of Peckham,2,Come in for a free hot drink on chatty Tuesdays from 2pm to 4pm.,SE15 5JA,"1 Clayton Road, SE15 5JA",2.663102888,3
+,Elimhouse,6,Local residents can come for a hot meal at a weekly lunch club: Wednesday 11am to 5pm.,SE15 4RQ,"86-88 Bellenden Road, Peckham, SE15 4RQ",7.989308664,8
+,Camberwell Library,67,Weekly tea/coffee sessions: Mondays 11am. Library opening times: Monday: 9am to 8pm.Tuesday: 9am to 8pm. Wednesday: 9am to 8pm. Thursday: 9am to 8pm. Friday: 9am to 8pm. Saturday: 9am to 5pm. Sunday: 12pm to 4pm,SE5 7AL,"48 Camberwell Green, SE5 7AL",89.21394674,89
+,South London Gallery,45,Tuesday to Sunday: 11am to 6pm. Late opening every Wednesday until 9pm,SE5 8UH,"65 Peckham Road and 82 Peckham Road, SE5 8UH",59.91981498,60
+,All Saints Church,6,"Open Tuesday morning and Wednesday and Saturday evening. Tuesday: community cafe at All Saints Church, 9.15am to 11.15am",SE15 4QS,"Blenheim Grove, Peckham, SE15 4QS",7.989308664,8
+,Somali Integration & Development Association (SIDA),4,Open Wednesdays from 10am to 12 noon (free Wi-Fi and refreshments provided). Open Thursdays from 12 noon to 2pm for a sewing class and coffee.,SE5 7HN,"Unit 50, Camberwell Business Centre, 99- 103 Lomond Grove, SE5 7HN",5.326205776,5
+,St Luke's Community Cafe,4,Open Wednesdays from 10am to 2pm,SE15 6DT,"St Luke's Church Hall, Chandler Way, London, SE15 6DT",5.326205776,5
+,Together at Pecan,4,"Every Monday and Tuesday, 1pm to 3pm.",SE15 5SE,"121a Peckham High Street, SE15 5SE",5.326205776,5
+,Acorn Tenants and Residents Association (TRA),3,Tuesdays 11am to 2pm,SE15 2TU,"95b Meeting House Ln, London SE15 2TU",3.994654332,4
+,Link Age Southwark,2,Open every Friday 1pm to 3pm.,SE22 8RH,"United Reformed Church, Tell Grove, SE22 8RH",2.663102888,3
+,Christ Church,2,Wednesday from 10am to 12 noon.,SE22 0JT,"Christ Church, 263 Barry Road, Dulwich, SE22 0JT",2.663102888,3
+,Lordship Lane Church,4,"Tuesday: coffee morning 10am to 12 noon. Thursday: over-60s lunch club that provides healthy, nourishing, and sustainable food. The food provided is culturally appropriate for Black Afro-Caribbean visitors. 12 noon to 2pm",SE22 8JG,"287, Lordship Lane, East Dulwich, SE22 8JG",5.326205776,5
+,Daffodil Cafe,2,Monday: 11am to 1pm,SE15 3QQ,"Nunhead Community Centre, 5 Nunhead Green, SE15 3QQ",2.663102888,3
+,Ivy Club (Green Nunhead),4.5,Thursday: 10am to 2.30pm,SE15 3QQ,"5 Nunhead Green, Nunhead, SE15 3QQ",5.991981498,6
+,Dulwich Library,66,Weekly Film Club: Mondays 1pm. Library opening times: Monday: 9am to 8pm. Tuesday: 10am to 8pm. Wednesday: 9am to 8pm. Thursday: 9am to 8pm. Friday: 9am to 8pm. Saturday: 9am to 5pm. Sunday: 12pm to 4pm,SE22 8NB,"368 Lordship Lane, SE22 8NB",87.8823953,88
+,Grove Vale Library,48,Weekly tea/coffee sessions: Fridays 11am. Library opening times: Monday: 10am to 7pm. Tuesday: 10am to 7pm. Wednesday: closed. Thursday: 10am to 7pm. Friday: 10am to 3pm. Saturday: 10am to 5pm. Sunday: closed  ,SE22 8EF,"18-22 Grove Vale, London SE22 8EF",63.91446931,64
+,Nunhead Library,32,Weekly tea/coffee sessions: Wednesdays 11am. Library opening times: Monday: 2pm to 7pm. Tuesday: 2pm to 7pm. Wednesday: 10am to 3pm. Thursday: 2pm to 7pm. Friday: 10am to 3pm. Saturday: 10am to 5pm. Sunday: closed,SE15 3RB,"88-138 Gordon Rd, SE15 3RB",42.60964621,43
+,Kingswood Tenants and Residents Association (TRA),3,Every Wednesday from 11am to 2pm,SE21 8QW,"Tefler House, Seeley Drive SE21 8QW",3.994654332,4
+,Walworth Living Room (Pembroke House),10,Thursday and Friday: 10am to 3pm.,SE17 2JU,"Walworth Living Room, All Saints Hall, Surrey Square, SE17 2JU",13.31551444,13
+,Draper Hall,5,Wednesday: 10am to 3pm,SE17 3AN,"Draper Hall, Hampton Street, SE17 3AN",6.65775722,7
+,Mental Fight Club,87.5,,SE17 3AN,"Draper Hall, Hampton Street, SE17 3AN",116.5107513,117
+,British Legion,6,Monday and Thursday: 10am to 4pm,SE17 3RD,"34 Gaza St, SE17 3RD",7.989308664,8
+,Golden Oldies,5,Tuesday: 10am to 3pm,SE5 0EN,"Walworth Methodist Church Hall, 54 Camberwell Road, SE5 0EN",6.65775722,7
+,Southwark Heritage Centre and Walworth Library,61,Weekly tea/coffee sessions: Monday at 11am. Library opening times: Monday: 10am to 8pm. Tuesday: 10am to 8pm. Wednesday: 10am to 8pm. Thursday: 10am to 8pm. Friday: 10am to 8pm. Saturday: 10am to 5pm. Sunday: 12pm to 4pm,SE17 1RW,"147 Walworth Rd, SE17 1RW",81.22463808,81
+,Brandon Library,27,Weekly tea/coffee sessions: Thursday 2pm. Library opening times: Monday: 2pm to 7pm. Tuesday: 2pm to 7pm. Wednesday: closed. Thursday: 2pm to 7pm. Friday: 10am to 3pm. Saturday: 10am to 5pm. Sunday: closed .,SE17 3NH,"Maddock Way, SE17 3NH",35.95188899,36
+,Brandon 3 Tenants and Residents Association (TRA),9,Fridays from 12 noon to 9pm,SE5 0TB,"9 Grimsel Path, SE5 0TB",11.983963,12
+Richmond,Mortlake Community Association,6,Wednesday and Thursday 12 noon to 3pm,SW14 8EZ,"Mortlake Hall, 30 Mullins Path, Mortlake, SW14 8EZ",7.989308664,8
+,OSO Arts Centre,58,Monday to Friday 9am to 6pm. Saturday 9am to 4pm. Sunday 10am to 4pm,SW13 0LF,"Community Hall, 49 Station Road, Barnes, SW13 0LF",77.22998375,77
+,Sheen Lane Centre,1.5,Wednesday 10.30am to 12 noon,SW14 8LP,"74 Sheen Lane, East Sheen, SW14 8LP",1.997327166,2
+,St Mary's Church,2,Thursday 10am to 12 noon,SW13 9HL,"Church Road, Barnes, London, SW13 9HL",2.663102888,3
+,All Saints Parish Church,4.5,Wednesday: 12 noon to 3pm. First Thursday of the month: 10.30am to 12 noon. Third Thursday of the month: 2.30 to 4pm,TW12 3RG,"The Avenue, Hampton, TW12 3RG",5.991981498,6
+,Hampton Inspired Hub,56,"Monday to Sunday, 9am to 5pm",TW12 2JA,"The Bungalow, 3 Ashley Road, Hampton, TW12 2JA",74.56688086,75
+,St James's Church,9,"Mondays, Wednesday and Thursdays 12.30 to 3.30pm",TW12 1DQ,"St James's Road, Hampton Hill, TW12 1DQ",11.983963,12
+,Cambrian Community Centre,2,Tuesday 2 to 4pm,TW10 6SN,"Caplan Court, 1 Grove Road, Richmond, TW10 6SN",2.663102888,3
+,Museum of Richmond,29,Tuesday to Friday 11am to 5pm. Saturday 11am to 4pm,TW9 1TP,"Second Floor, Old Town Hall, Whittaker Avenue, Richmond, TW9 1TP",38.61499187,39
+,Vineyard Community Centre,12.5,"Monday to Friday, 1 to 3.30pm",TW10 6AQ,"The Vineyard, Richmond, TW10 6AQ",16.64439305,17
+,Peter & Paul Centre,3,Monday 1.30 to 4.30pm (Run by the Teddington Community Cafe),TW11 8PB,"Bychurch End, Church Road, Teddington, TW11 8PB",3.994654332,4
+,St Mark's Church,2,Wednesday 10am to 12 noon,TW11 9DE,"17 St Mark's Road, Teddington, TW11 9DE",2.663102888,3
+,St Michael's Church,2,Wednesday 2 to 4pm,TW11 0SP,"Wilcox Road, Teddington, TW11 0SP",2.663102888,3
+,Teddington Baptist Church,3,Wednesday 9.30am to 12.30pm,TW11 8PF,"17 Church Road, Teddington, TW11 8PF",3.994654332,4
+,Teddington Methodist Church,2,Saturday 10.30am to 12.30pm,TW11 8TP,"Stanley Road, Teddington, TW11 8TP",2.663102888,3
+,Teddington Salvation Army,3,Thursday 4 to 7pm,TW11 8PF,"27 Church Road, Teddington, TW11 8PF",3.994654332,4
+,ETNA Community Centre,7.5,"Monday, Wednesday and Friday 3 to 5.30pm",TW1 2AR,"13 Rosslyn Road, Twickenham, TW1 2AR",9.98663583,10
+,The Turk's Head,75,Monday to Saturday 12 noon to 11pm. Sunday 12 noon to 9pm,TW1 1LF,"28 Winchester Road, Twickenham, TW1 1LF",99.8663583,100
+,Twickenham Congregational Church,3,Friday 12 noon to 3pm,TW2 5QA,"First Cross Road, Twickenham, TW2 5QA",3.994654332,4
+,Homelink Day Respite Centre,3,Wednesday 12 noon to 3pm,TW2 6DE,"Hospital Bridge Road, Whitton, TW2 6DE",3.994654332,4
+,Whitton Community Centre,23,Thursday 10am to 5pm. Friday 1 to 9pm. Saturday 3 to 8pm. Sunday 1 to 6pm,TW2 6JL,"Percy Road, Whitton, TW2 6JL",30.62568321,31
+Redbridge,Aldersbrook Library,29,,E12 5HQ,"Aldersbrook Library, 2a Park Road, London, E12 5HQ",38.61499187,39
+,Clayhall Library,30,,IG5 0LQ,"CLAYHALL LIBRARY, 1 CLAYBURY BROADWAY, CLAYHALL, ILFORD, IG5 0LQ",39.94654332,40
+,Fullwell Cross Library,53,,IG6 2EA,"FULLWELL CROSS LIBRARY, 140 HIGH STREET, BARKINGSIDE, ILFORD, IG6 2EA",70.57222653,71
+,Gants Hill Library,57,,IG2 6LA,"GANTS HILL LIBRARY, 490 CRANBROOK ROAD, ILFORD, IG2 6LA",75.8984323,76
+,Goodmayes Library,39,,IG3 9QB,"GOODMAYES LIBRARY, 76 GOODMAYES LANE, Goodmayes, ILFORD, IG3 9QB",51.93050631,52
+,Hainault Library,39,,IG7 4DD,"HAINAULT LIBRARY, 100 MANFORD WAY, CHIGWELL, IG7 4DD",51.93050631,52
+,Keith Axon Library,63,,RM6 4XB,"CHADWELL HEATH LIBRARY, KEITH AXON CENTRE, 160 GROVE ROAD, Chadwell Heath, ROMFORD, RM6 4XB",83.88774097,84
+,Seven Kings Library,40,,IG3 8RQ,"SEVEN KINGS LIBRARY, 679 HIGH ROAD, Seven Kings, ILFORD, IG3 8RQ",53.26205776,53
+,South Woodford Library,100,,E18 2QS,"SOUTH WOODFORD LIBRARY, 116 HIGH ROAD, South Woodford, LONDON, E18 2QS",133.1551444,133
+,Wanstead Library,47,,E11 2RQ,"WANSTEAD LIBRARY, SPRATT HALL ROAD, Wanstead, LONDON, E11 2RQ",62.58291787,63
+,Woodford Green Library,100,,IG8 0DX,"WOODFORD GREEN LIBRARY, SNAKES LANE EAST, WOODFORD GREEN, IG8 0DX",133.1551444,133
+,St Paul's Church,2,,IG7 4NZ,"St Paul's Church, Arrowsmith Road, Chigwell, Essex, IG7 4NZ",2.663102888,3
+,VHP Ilford Hindu Centre and Mandir,38.5,,IG1 1EE,"VHP ILFORD HINDU CENTRE, 43 CLEVELAND ROAD, ILFORD, IG1 1EE",51.26473059,51
+,Vine United Reformed Church,9,,IG1 1JH,"THE VINE UNITED REFORMED CHURCH, RICHES ROAD, ILFORD, IG1 1JH",11.983963,12
+,Holy Trinity South Woodford,3,,E18 1QQ,"HOLY TRINITY CHURCH, HERMON HILL, LONDON, E18 1QQ",3.994654332,4
+,St Mary's Church Woodford,9.5,,E18 2PA,"ST MARYS CHURCH, HIGH ROAD, SOUTH WOODFORD, E18 2PA",12.64973872,13
+Newham,Beckton Globe Library,84,"Wed,10:00 to 20:00 Thur, 10:00 to 20:00 Fri, 10:00 to 20:00 Sat, 10:00 to 20:00 Sun, 24h Mon,  (Spring Bank Holiday), 10:00 to 20:00, Tue, 10:00 to 20:00",E6 5JQ,"1 Kingsford Way, London E6 5JQ",111.8503213,112
+,Canning Town Library,72,Mon to Sat 8:00 to 20:00,E16 1EH,"18, Rathbone Market, London E16 1EH",95.87170396,96
+,Custom House Library,23,Thur 10:00 to 18: 00 Fri 10:00 to 18:00 Mo: 10:00 to 18:00 Tue 10:00 to 18:00,E16 3JJ,"Prince Regent Ln, London E16 3JJ",30.62568321,31
+,East Ham Library,73,Mon to Sat 9:00 to 20:00 Sun 9:00 to 16: 00,E6 2RT,"328 Barking Rd, London E6 2RT",97.20325541,97
+,The Gate Library,66,Mon to Sat 9:00 to 20:00,E7 0QH,"Woodgrange Rd, London E7 0QH",87.8823953,88
+,Green Street Library,60,Mon to Sat 10:00 to 20:00,E13 9AR,"337-341 Green St, London E13 9AR",79.89308664,80
+,Manor Park Library,60,Mon to Sat 10:00 to 20:00,E12 5BS,"685-693 Romford Rd, London E12 5BS",79.89308664,80
+,North Woolwich Library,51,Mon to Sat 9:00 to 17:30,E16 2LJ,"5 Pier Rd, London E16 2LJ",67.90912364,68
+,Plaistow Library,48,Mon to Sat 9:30 to 17:30,E13 9HN,"North St, London E13 9HN",63.91446931,64
+,Stratford Library,70,Mon to Sat 9:00 to 20:00 Sun 12:00 to 16: 00,E15 1EL,"3 The Grove, London E15 1EL",93.20860108,93
+,Trinity Centre,77,Mon to Sun 9:00 to 20:00,E12 6SG,"Trinity Centre, East Ave, London E12 6SG",102.5294612,103
+,Katherine Road Community Centre,40,Mon to Fri 9:00 to 17:00,E7 8PW,"254 Katherine Rd, London E7 8PW",53.26205776,53
+,Woodman Community Centre,67,,E16 2NF,"32A Woodman St, London E16 2NF",89.21394674,89
+,Jack Cornwell Community Centre,98,Mon to Sun 9:00 to 23:00,E12 5NN,"Jack Cornwell St, London E12 5NN",130.4920415,130
+,Forest Lane Lodge,98,Mon to Sun 9:00 to 23:00,E7 9DE,"Magpie Cl, London E7 9DE",130.4920415,130
+Merton,Colliers Wood Library,56,,SW19 2HR,"105-109 High Street Colliers Wood, London SW19 2HR",74.56688086,75
+,Mitcham Library,66.5,Mon to Sat 9:00 to 17:30,CR4 2YR,"157 London Rd, Mitcham CR4 2YR",88.54817102,89
+,Morden Library,57,,SM4 5DX,"Merton Civic Centre, London Rd, Morden SM4 5DX",75.8984323,76
+,Pollards Hill Library,57,,CR4 1LT,"S Lodge Ave, Mitcham CR4 1LT",75.8984323,76
+,Raynes Park Library,45.5,,SW20 8BA,"21 Approach Rd, Raynes Park, London SW20 8BA",60.5855907,61
+,West Barnes Library,53,,KT3 6JF,"Station Rd, New Malden KT3 6JF",70.57222653,71
+,Wimbledon Library,54,,SW19 7NB,"Wimbledon Reference Library, 35 Wimbledon Hill Rd, London SW19 7NB",71.90377797,72
+Lewisham,Blackheath Village community library service,21,,SE3 9LA,"The Reminiscence Centre, 11 Blackheath Village, Blackheath, London, SE3 9LA",27.96258032,28
+,Catford Library,64,,SE6 4JU,"23-24 Winslade Way, Catford Centre, SE6 4JU",85.21929241,85
+,Crofton Park Library,40,,SE4 2AG,"Crofton Park Library, Brockley Road, Crofton Park, London, SE4 2AG",53.26205776,53
+,The Library at Deptford Lounge,58,,SE8 4RH,"Library, Deptford Lounge, 9 Giffin St, London, SE8 4RH",77.22998375,77
+,Downham Library,58,,BR1 5EP,"Downham Library, 7–9 Moorside Road, Bromley, BR1 5EP",77.22998375,77
+,Forest Hill Library,62,,SE23 3HZ,"Forest Hill Library, Dartmouth Road, London, SE23 3HZ",82.55618952,83
+,Grove Park Library,29,,SE12 0BX,"Grove Park Library, Somertrees Avenue, Grove Park, London, SE12 0BX",38.61499187,39
+,Lewisham Library,58,,SE13 6LG,"Lewisham Library, 199-201 Lewisham High St, London, SE13 6LG",77.22998375,77
+,Manor House Library,46,, SE13 5SY,"Manor House Library, 34 Old Road, London, SE13 5SY",61.25136642,61
+,New Cross Library,16,,SE14 6AS,"New Cross Library, 283 285 New Cross Road, London, SE14 6AS",21.3048231,21
+,Sydenham Library,20,,SE26 5SE,"Sydenham Library, Sydenham Road, London, SE26 5SE",26.63102888,27
+,Corbett Community Library,29.5,,SE6 1RQ,"Torridon Road, London, SE6 1RQ",39.2807676,39
+Lambeth,Brixton Tate Library,59,,SW2 1JQ,"Chaplin House, London SW2 1JQ",78.56153519,79
+,Carnegie Library,42,,SE24 0DG,"192 Herne Hill Road, SE24 0DG",55.92516065,56
+,Clapham Library,55,,SW4 7DB,"Mary Seacole Centre, 91 Clapham High Street, SW4 7DB",73.23532942,73
+,Durning Library,39,,SE11 4HF,"167 Kennington Lane, SE11 4HF",51.93050631,52
+,Minet Library,47,,SE5 9QY,"52 Knatchbull Road, SE5 9QY",62.58291787,63
+,Streatham Library,56,,SW16 1PN,"63 Streatham High Road,SW16 1PN",74.56688086,75
+,Tate South Lambeth Library,39,,SW8 1QP,"180 South Lambeth Road, SW8 1QP",51.93050631,52
+,Upper Norwood Library,42,,SE19 1TQ,"39 Westow Hill, SE19 1TQ",55.92516065,56
+,Waterloo Library,34,,SE1 7QP,"1 Kennington Road, SE1 7QP",45.27274909,45
+,West Norwood Library,55,,SE27 9JX,"1-5 Norwood High Street, SE27 9JX",73.23532942,73
+,Oasis Waterloo,3,,SE1 7QP,"1 Kennington Road, London SE1 7QP",3.994654332,4
+,West London Mission,48,,SE11 4NT,"25A Wincott Street,Kennington, London SE11 4NT",63.91446931,64
+,Ashmole Estate Tenants' Hall,11,,SW8 1PL,"113 Claylands Rd, London SW8 1PL",14.64706588,15
+Kingston,Kingston Library,41,,KT1 2PS,"Fairfield Rd, Kingston upon Thames KT1 2PS",54.5936092,55
+,Kingston URC Church,45,,KT1 1HZ,Eden Street KT1 1HZ,59.91981498,60
+,CLICK Cafe,20,,KT1 2TW,"13 Geneva Road, KT1 2TW",26.63102888,27
+,Tudor Drive Library,32,,KT2 5QH,"192 Tudor Drive, KT2 5QH",42.60964621,43
+,Kingsnympton Youth & Community Centre,17,,KT2 7RW,Kingsnympton Park KT2 7RW,22.63637455,23
+,Surbiton Assembly Rooms,45,,KT1 2JT,"13 to 15 Surbiton Crescent, KT1 2JT",59.91981498,60
+,Surbiton Library,39,,KT6 6AG,Ewell Road KT6 6AG,51.93050631,52
+,The cornerHOUSE Arts Centre,36,,KT6 7SB,"116 Douglas Road, Surbiton, KT6 7SB",47.93585198,48
+,Tolworth Community Library,40,,KT6 7DJ,"The Broadway, Surbiton, KT6 7DJ",53.26205776,53
+,Sunray Community Centre,3,,KT5 9QP,"Knollmead, Worcester Park, Tolworth, KT5 9QP",3.994654332,4
+,Dickerage Sports & Community Centre,60,,KT3 3EQ,"Dickerage Road, New Malden KT3 3EQ",79.89308664,80
+,New Malden Library,41,,KT3 3LY,"Kingston Rd,, New Malden, KT3 3LY",54.5936092,55
+,Square 1 Cafe New Malden,4,,KT3 3PE,"Kingston Environment Centre, 1 Kingston Road, New Malden KT3 3PE",5.326205776,5
+,Old Malden Library,28,,KT4 7RD,"Church Rd, Worcester Park, KT4 7RD",37.28344043,37
+,New Malden Baptist Church,1.5,,KT3 5BE,"1A Westbury Rd, New Malden KT3 5BE",1.997327166,2
+,New Malden Methodist Church,31,,KT3 4BY,"49 High St, New Malden KT3 4BY",41.27809476,41
+,"St James Parish Church, New Malden",1,,KT3 5QE,"Bodley Rd, New Malden KT3 5QE",1.331551444,1
+,Saint Joseph's Roman Catholic Church,19.5,,KT3 3QW,"1 Montem Rd, New Malden KT3 3QW",25.96525316,26
+,"St Mary's Centre, Chessington",18,,KT9 2DR,"Church Lane, KT9 2DR",23.96792599,24
+,Square 1 Cafe Chessington,4,,KT9 2JS,"Chessington Sports Centre, Garrison Lane, Chessington KT9 2JS",5.326205776,5
+,The Hook Centre,84,,KT9 1AE,"9 Green End, Chessington KT9 1AE",111.8503213,112
+Kensington and Chelsea,Dalgarno Trust,40,,W10 5QB,"1 Webb Close London, W10 5QB",53.26205776,53
+,Early help - family hubs,12,,W10 5PE,"Holmfield House Children Centre, Golborne Road, W10 5PE",15.97861733,16
+,Kensal Library,12.5,,W10 5PF,"The Lodge, 20 Golborne Rd, London W10 5PF",16.64439305,17
+,Venture Community Centre,49,,W10 5YB,"103A Wornington Road, W10 5YB",65.24602075,65
+,St Helens Church,3,,W10 6LP,"St Helen's Gardens, North Kensington, London W10 6LP",3.994654332,4
+,Latymer Christian Church in Partnership with The Space,6,,W10 6SU,"116 Bramley Road, W10 6SU",7.989308664,8
+,Bay 20,10,,W10 6JG,"71 St Marks Road, W10 6JG",13.31551444,13
+,North Kensington Library,53,,W11 1PZ,"108 Ladbroke Grove, London W11 1PZ",70.57222653,71
+,Salvation Army Church,3,,W11 1LU,"205 Portobello Road, W11 1LU",3.994654332,4
+,The Tabernacle,96,,W11 2AY,"35 Powis Square, W11 2AY",127.8289386,128
+,Baseline Studios,45,,W11 4AT,"9 Whitchurch Road, North Kensington, W11 4AT",59.91981498,60
+,Kensington Leisure Centre,101,,W11 4HE,"Silchester Rd, London W11 4HE",134.4866958,134
+,Notting Hill Methodist Church,33,,W11 4AH,"240 Lancaster Rd, London W11 4AH",43.94119765,44
+,Henry Dickens Community Centre,13.5,,W11 4DH,"104 St Ann's Road, London W11 4DH",17.97594449,18
+,Nourish Cafe,0.5,,W11 4SS,"Unit A, Nourish Hub, Swanscombe House, 1 St Ann's Rd, London W11 4SS",0.665775722,1
+,Notting Hill Gate Library,36.5,,W2 4EW,"1 Pembridge Square, London W2 4EW",48.6016277,49
+,Kensington Central Library,53,,W8 7RX,"12 Phillimore Walk, London W8 7RX",70.57222653,71
+,St Mary Abbots Church,25.5,,W8 4LA,"Kensington Church Street, London, W8 4LA",33.95456182,34
+,St Cuthberts Centre,10,,SW5 9EB,"51 Philbeach Gardens, London SW5 9EB",13.31551444,13
+,Brompton Library,58.5,,SW5 0BS,"210 Old Brompton Rd, London SW5 0BS",77.89575947,78
+,HTB Queen's Gate,7.5,,SW7 5LP,"117, HTB Queen's Gate, SW7 5LP",9.98663583,10
+,Chelsea Library,58.5,,SW3 5EZ,"Chelsea Old Town Hall, King's Rd, London SW3 5EZ",77.89575947,78
+,SMART,38,,SW10 0JN,"The Basement, 15 Gertrude Street, London, SW10 0JN",50.59895487,51
+,Chelsea Theatre,51,,SW10 0DR,"7 Worlds End Place, Chelsea, SW10 0DR",67.90912364,68
+Islington,The Peel Centre,34,,EC1R 0HU,"3 Corners Learning Centre, Northampton Road, London",45.27274909,45
+,Brunswick Estate Community Centre,40,,EC1V 0HP,"Ground Floor, Mulberry Court, Tompion Street, London",53.26205776,53
+,Museum Of The Order Of Saint John,1.5,,EC1V 4JJ,"St John's Gate, St John's Lane, Clerkenwell, London",1.997327166,2
+,Finsbury Library,54,,EC1V 4NB,"245 St. John Street, London",71.90377797,72
+,St Luke's Community Centre,50,,EC1V 8AJ,"90, Central Street, London",66.5775722,67
+,St Clement's Church,9,,EC1V 8DA,King Square,11.983963,12
+,Wesley's Chapel and Leysian Mission,30,,EC1Y 1AU,"49, City Road",39.94654332,40
+,London Irish Centre,10,,NW1 9XB,"50-52 Camden Square, London",13.31551444,13
+,West Library,36,,N1 1BD,"Bridgeman Road , London",47.93585198,48
+,South Library,36,,N1 2SL,"115-117 Essex Rd, London",47.93585198,48
+,St Mary's Church,2.5,,N1 2TX,Upper Sreet,3.32887861,3
+,Our Lady & St Joseph's Catholic Church,6,,N1 4AG,"Presbytery 100a, Balls Pond Road, London",7.989308664,8
+,Mildmay Library,30.5,,N1 4NA,"21-23 Mildmay Park , London",40.61231904,41
+,Saint Jude and Saint Paul's Church,3,,N1 4PL,"113, Mildmay Grove North, London",3.994654332,4
+,The Arc Centre,32.5,,N1 7DF,"98B, St Paul Street",43.27542193,43
+,Chabad Islington Jewish Community Centre,48,,N1 8HX,"Chabad Islington Jewish Community Centre and Art Gallery, 1-3 Elliott's Place",63.91446931,64
+,King's Cross Church,5.5,,N1 9JY,"242 Pentonville Rd, London N1 9JY",7.323532942,7
+,Claremont Project,40,,N1 9PD,"24-27, White Lion Street",53.26205776,53
+,N4 Library,47,,N4 2DW,"26 Blackstock Road , London",62.58291787,63
+,The UCKG HelpCentre,91,,N4 3NX,"UCKG, Rainbow Theatre, 232 Seven Sisters Rd, Finsbury Park, London",121.1711814,121
+,Hanley Crouch Community Association,4,,N4 4BY,"42 Crouch Hill, London",5.326205776,5
+,Elizabeth House Community Centre,16.5,,N5 1ED,"Elizabeth House, 2 Hurlock Street, London",21.97059883,22
+,Central Library,58,,N5 1PF,"2, Fieldway Crescent, Islington, London",77.22998375,77
+,Highbury Baptist Church,4,,N5 1QL,"Highbury Baptist Church, 40a, Highbury Place, London",5.326205776,5
+,Christ Church Highbury,4,,N5 1SA,"155 Highbury Grove, Islington, London",5.326205776,5
+,Sotheby Mews Day Centre,15,,N5 2UT,"2 Sotheby Mews, Sotheby Road",19.97327166,20
+,Hilldrop Community Centre,6.5,,N7 0JE,"Community Lane, Hilldrop Road, London",8.655084386,9
+,Cat and Mouse Library,28.5,,N7 0JN,"Cat and Mouse Library , 277 Camden Road, London",37.94921615,38
+,Saint George and All Saints Church,4.5,,N7 0ND,"Crayford Road, Tufnell Park, London",5.991981498,6
+,North Library,30.5,,N7 6JX,"Manor Gardens, London",40.61231904,41
+,Manor Gardens Centre,25,,N7 6LA,"Manor Gardens Centre, 6-9 Manor Gardens, London",33.2887861,33
+,Old Fire Station Community Centre,7,,N7 6QT,"84, Mayton Street",9.320860108,9
+,Andover Estate Community Centre,45,,N7 7RY,"55 Corker Walk, Finsbury Park, London N7 7RY",59.91981498,60
+,Light Project Pro International,44.5,,N7 8DE,"The Exchange, Watkinson Road, London",59.25403926,59
+,Goodinge Community Centre,4,,N7 9EW,"2 Goodinge Rd, Market Estate, 20 North Road, London",5.326205776,5
+,Mildmay Community Centre,15,,N16 8NA,Woodville Road,19.97327166,20
+,Hornsey Rise,25,,N19 3AD,"Ashley Road, Upper Holloway",33.2887861,33
+,Caxton House Community Centre,8,,N19 3RQ,"Main Office, Caxton House Community Centre, 129 St John's Way, London",10.65241155,11
+,St Andrew's Church,2.5,,N19 3TN,Whitehall Park (corner with Gladsmuir Rd),3.32887861,3
+,Hornsey Lane Estate Community Association,46,,N19 3YJ,"Hornsey Lane Estate Community Centre, Hazellville Road, London",61.25136642,61
+,Whittington Park Community Centre,12,,N19 4RS,"Whittington Park Community Association, Yerbury Road, London",15.97861733,16
+,Archway Library,36,,N19 5PH,"Hamlyn House, Highgate Hill, London",47.93585198,48
+,Hargrave Hall Community Centre,3.5,,N19 5SP,"Hargrave Road, London, London",4.660430054,5
+Hounslow,Beavers library,34,,TW4 7NW,"The Hub, 103 Salisbury Road, Hounslow",45.27274909,45
+,Bedfont library,34.5,,TW14 8DB,"Staines Road, Bedfont, TW14 8DB",45.93852482,46
+,Brentford library,37,,TW8 8DW,"11F Boston Manor Road, Hounslow, TW8 8DW",49.26740343,49
+,Chiswick library,53,,W4 2AB,"1 Duke's Avenue, Chiswick, W4 2AB",70.57222653,71
+,Cranford library,34.5,,TW5 9TL,"Bath Road, Hounslow, TW5 9TL",45.93852482,46
+,Feltham library,55.5,,TW13 4GU,"210 The Centre, High Street, Feltham, TW13 4GU",73.90110514,74
+,Hanworth library,37,,TW13 5EG,"Hanworth Air Park Leisure Centre & Library, Uxbridge Road, Hanworth, TW13 5EG",49.26740343,49
+,Heston library,53,,TW5 0LW,"New Heston Road, Heston, TW5 0LW",70.57222653,71
+,Hounslow library,57.5,,TW3 3EB,"First Floor, Hounslow House, 7 Bath Road, Hounslow, TW3 3EB",76.56420803,77
+,Isleworth library,42.5,,TW7 7EU,"Isleworth Leisure Centre & Library, Twickenham Road, Isleworth, TW7 7EU",56.59093637,57
+,Osterley library,37,,TW7 4NB,"11 St Mary's Crescent, Isleworth, TW7 4NB",49.26740343,49
